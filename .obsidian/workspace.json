@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f6dde81ef8a56db",
+        "id": "8c48576607767130",
         "type": "tabs",
         "children": [
           {
-            "id": "801b784fc50c08a1",
+            "id": "5eecb727b94c42c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FUCKGPT 这是一个对于 mac 端 git 的测试.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FUCKGPT 这是一个对于 mac 端 git 的测试"
+              "title": "未命名"
             }
           }
         ]
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 530.8333129882812
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "801b784fc50c08a1",
+  "active": "5eecb727b94c42c1",
   "lastOpenFiles": [
+    "未命名.md",
+    "FUCKGPT 这是一个对于 mac 端 git 的测试.md",
+    "杂项/未命名",
     "数学.base",
     "重积分应用.md",
     "未命名.canvas",
@@ -229,7 +232,6 @@
     "C++学习/C++语法框架.md",
     "课程概览/编程算法心得",
     "课程概览",
-    "杂项",
     "C++学习/std string 解析（DeepSeek）.md",
     "C++学习/Class 教程.md",
     "二次曲面总览.png",
@@ -244,7 +246,6 @@
     "计算机命令与快捷键手册/mac快捷键总结整理（Gemini）.md",
     "Rubbish杂项/毛概核心重要知识点.md",
     "Rubbish杂项/毛概核心知识点版本二.md",
-    "Rubbish杂项/毛概核心知识点：终极并集版本.md",
     "Pasted image 20260623170221.png",
     "Rubbish杂项/未命名.canvas",
     "Rubbish杂项/未命名 2.canvas",

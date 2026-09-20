@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills 测试.md",
+                "file": "FUCKGPT 这是一个对于 mac 端 git 的测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "skills 测试"
+              "title": "FUCKGPT 这是一个对于 mac 端 git 的测试"
             }
           }
         ]
@@ -208,10 +208,13 @@
   },
   "active": "801b784fc50c08a1",
   "lastOpenFiles": [
+    "数学.base",
+    "重积分应用.md",
+    "未命名.canvas",
+    "skills 测试.md",
     "AI人工智能基础课程期末总复习",
     "iPad",
     "未命名",
-    "skills 测试.md",
     "离散数学公式总表（验收 ChatGPT 成果）.md",
     "离散数学/离散数学公式整理（ChatGPT 整理）（DeepSeek 排版）.md",
     "CPP 面向对象学习笔记心得/C++ 里工程化的“三文件组织方式.md",
@@ -231,7 +234,6 @@
     "C++学习/Class 教程.md",
     "二次曲面总览.png",
     "C语言知识点/03_结构体链表.md",
-    "数学.base",
     "Rubbish杂项/中国近代史纲要复习笔记（极简版本）.md",
     "2026-01-09.md",
     "Rubbish杂项/毛概期末复习资料.md",
@@ -239,12 +241,10 @@
     "C语言知识点/C语言常用函数库介绍.md",
     "C语言知识点/01_结构体教程（DeepSeek 最新）.md",
     "C语言知识点/结构体知识点整理（deepseek）.md",
-    "计算机技巧",
     "计算机命令与快捷键手册/mac快捷键总结整理（Gemini）.md",
     "Rubbish杂项/毛概核心重要知识点.md",
     "Rubbish杂项/毛概核心知识点版本二.md",
     "Rubbish杂项/毛概核心知识点：终极并集版本.md",
-    "计算机命令与快捷键手册/macOS终端命令整理.md",
     "Pasted image 20260623170221.png",
     "Rubbish杂项/未命名.canvas",
     "Rubbish杂项/未命名 2.canvas",
@@ -257,7 +257,6 @@
     "Rubbish杂项/Pasted image 20260302235013.png",
     "Rubbish杂项/Pasted image 20260302232937.png",
     "Rubbish杂项/Pasted image 20260302232927.png",
-    "Untitled.canvas",
-    "未命名.canvas"
+    "Untitled.canvas"
   ]
 }

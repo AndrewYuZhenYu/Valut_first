@@ -1,0 +1,13 @@
+{
+  "activeSessionId": "session-019edb51-4033-734d-a400-8247f1b0e9ba",
+  "orderedSessionIds": [
+    "session-019edb51-4033-734d-a400-8247f1b0e9ba"
+  ],
+  "sessions": {
+    "session-019edb51-4033-734d-a400-8247f1b0e9ba": {
+      "title": "New chat",
+      "createdAt": 1781795995699,
+      "updatedAt": 1781795995699
+    }
+  }
+}

@@ -1,119 +1,134 @@
 {
   "account": "",
   "credential": "",
+  "nutstoreEnterpriseBaseUrl": "",
   "remoteDir": "/Valut_first/",
-  "remoteCacheDir": "",
-  "useGitStyle": false,
-  "conflictStrategy": "diff-match-patch",
+  "conflictStrategy": "no-conflict-merge",
   "oauthResponseText": "gCQFaHjhQHCiOt6yo40lMoqMy5RBSi-QlZYPN2Q5xY_y2_ea8ArY960rUTkfnfgU1dnBOkQ5HKsEB3S3-l0YR1ys5GAk9bC923EiATtWZcG1hbwH2si-yj_IYYXbbiqvdCciM3f_XLIIp2upXkRM1Bm7AITah-1aZAASfOYkD_KQc9N3AdbcR48",
   "loginMode": "sso",
   "confirmBeforeSync": true,
   "confirmBeforeDeleteInAutoSync": true,
   "syncMode": "loose",
   "filterRules": {
-    "exclusionRules": [
+    "rules": [
       {
         "expr": "**/.git",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.github",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.gitlab",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.svn",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/node_modules",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.DS_Store",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/__MACOSX",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/desktop.ini",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/Thumbs.db",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.trash",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.doc",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.docx",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.ppt",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.pptx",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.xls",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.xlsx",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       }
-    ],
-    "inclusionRules": []
+    ]
   },
   "skipLargeFiles": {
     "maxSize": "500MB"
   },
+  "mobileAppDownloadFileChunkSize": "16 MiB",
   "realtimeSync": false,
   "startupSyncDelaySeconds": 0,
   "autoSyncIntervalSeconds": 300,
@@ -121,5 +136,7 @@
     "providers": {},
     "yolo": false
   },
-  "configDirSyncMode": "none"
+  "configDirSyncMode": "none",
+  "remoteCacheDir": "",
+  "useGitStyle": false
 }

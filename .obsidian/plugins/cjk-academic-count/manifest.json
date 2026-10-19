@@ -1,0 +1,10 @@
+{
+  "id": "cjk-academic-count",
+  "name": "CJK Academic Count",
+  "version": "0.1.1",
+  "minAppVersion": "1.5.0",
+  "description": "Academic character counts for Chinese, Japanese, and Korean humanities writing with whole-note and selection counts.",
+  "author": "AlcatrazYU",
+  "authorUrl": "https://github.com/AlcatrazYU",
+  "isDesktopOnly": false
+}

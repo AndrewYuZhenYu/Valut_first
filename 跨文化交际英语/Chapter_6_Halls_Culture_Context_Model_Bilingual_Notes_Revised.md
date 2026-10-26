@@ -1,7 +1,9 @@
 # Chapter 6 — Hall’s Culture Context Model
 
 > **Intercultural Communication · 跨文化交际**  
-> **English-first bilingual notes · 英文为主，中文紧随翻译**
+> **English-first bilingual notes · 英文在前，中文紧随翻译**
+>
+> 原有英文定义、术语及案例对话保留原句；原有中文陈述保留原句。为满足双语阅读而新增的对应译文不属于原始引文。
 
 ## Preliminary Review — Value Orientation Matching（课前复习：文化价值取向匹配）
 
@@ -70,7 +72,7 @@ Hall identified **four kinds of interpersonal distance**.
 
 ### 2.1 What Is Context?（什么是语境？）
 
-**High-context culture and low-context culture** are distinguished according to **the degree to which meaning comes from the settings or from the words being exchanged**.
+**high-context culture and low-context culture depending on the degree to which meaning comes from the settings or from the words being exchanged**
 
 **高语境文化与低语境文化**的区别在于：交流中的意义在多大程度上来自**交流情境**，又在多大程度上来自**交流双方使用的语言**。
 
@@ -95,34 +97,37 @@ Edward T. Hall distinguished two kinds of cultural context: **high-context cultu
 
 **高语境文化：** 所谓高语境文化，乃是指内在意涵丰富而语词简约的，换成中国话来说，就是言简意赅，甚至只能意会而难以言传。
 
-**Example:** “天行健君子以自强不息” is given as an example of a meaningful, concise saying.
+**In everyday life, famous sayings and aphorisms can be examples of high-context expressions. Some people adopt them as life mottos. “天行健君子以自强不息” is given as an example.**
 
-**例子：** “天行健君子以自强不息”是一种内涵丰富、语言简约的表达。
+**在日常生活中，一些名言警句，就属于高语境，许多人也将这种高语境作为座右铭，因为，这种语境实在是太高了，引人向往并作为人生所执，像“天行健君子以自强不息”，就是典型的高语境语种。**
 
 **Low-context culture:** Communication is concrete, detailed, and explicit. Product instructions, addresses, and telephone numbers are examples of information typically conveyed with precise verbal details.
 
-**低语境文化：** 低语境具有具体、详实的特点，同时显琐碎，唠唠叨叨，事无巨细。在这里，产品说明书，或者转达一个朋友的住址或电话号码，就是低语境模式，它是社会日常交流和沟通的基本内容。
+**低语境文化：** 而与高语境相反的就是低语境文化，低语境具有具体、详实的特点，同时显琐碎，唠唠叨叨，事无巨细，就是低语境了。在这里，产品说明书，或者转达一个朋友的住址或电话号码，就是低语境模式，它是社会日常交流和沟通的基本内容。
 
 ### 2.3 An Invitation to Coffee（邀请喝咖啡的案例）
 
-**Situation:** You invite two friends to a popular bookstore café for coffee the following evening.
+**When a person from a low-context culture enters a high-context culture, the likelihood of being misunderstood increases. Consider an invitation to two friends to have coffee together at a popular bookstore café the next evening. Tina, from a low-context background, replies that she needs to study and thanks the inviter. Li, from a high-context background, replies that it sounds nice, but does not come.**
 
-**情境：** 你邀请两位朋友明天晚上一起去一家很受欢迎的书店咖啡厅喝咖啡。
+当低语境文化背景的人到了高语境文化中，他受到误解的可能性就大大增加了。为了说明这一点，我们假设这样的一个情境。你想邀请两位朋友明天晚上一同去一家十分受欢迎的书店咖啡厅喝咖啡。来自低语境文化背景的朋友蒂娜对你说“不了，我明天晚上要学习呢，但还是谢谢你的邀请”。而另一个来自于高语境文化背景的朋友李对你说“那很不错啊”，但是，之后你会很惊讶地发现他并没有如约去喝咖啡。
 
-- **Tina, from a low-context cultural background:** “No, I need to study tomorrow evening, but thank you for inviting me.”  
-  **来自低语境文化背景的蒂娜：**“不了，我明天晚上要学习呢，但还是谢谢你的邀请。”
-- **Li, from a high-context cultural background:** “That sounds nice.” He does not appear at the café later.  
-  **来自高语境文化背景的李：**“那很不错啊。”但后来他没有如约去喝咖啡。
-
-People raised in high-context cultures may avoid saying **“no”** directly because they worry about offending the other person. A refusal may therefore be expressed indirectly.
+People raised in high-context cultures may find it difficult to say “no.” Even when refusing, they may use indirect language out of concern for offending others.
 
 在高语境文化中成长的人，他们很难对别人说不。即便是他们真的拒绝某事，他们也会因为害怕得罪别人而婉转其辞。
 
-### 2.4 A Dialogue About Giving a Gift（送礼对话）
+### 2.4 The Context Scale（语境阶梯）
 
-**Situation:** Adai presents a gift to a superior. The exchange relies on polite, indirect expressions.
+**No culture stays exclusively at either end of the context scale. Some cultures occupy relatively higher positions and others lower positions. American culture is described as being close to the lower end, while China is placed at the high-context extreme.**
 
-**情境：** 阿呆向领导送礼，双方通过礼貌而含蓄的语言互动。
+> “尽管没有任何一种文化是专门停留在语境阶梯（context scale）的某一极的，然而，有的文化却处在较高的位置，其他一些又处在较低的地方。美国文化虽然不在底层，但是它确实靠近这一阶梯的底端。”
+>
+> “中国，这个拥有伟大而复杂文化的国家，却处在这个阶梯上高语境的极端。”
+
+### 2.5 A Dialogue About Giving a Gift（送礼对话）
+
+**Situation:** Adai gives his superior a red envelope.
+
+**原文背景：阿呆给领导送红包时，两个人的对话颇有意思。**
 
 | English dialogue | 中文原对话 |
 |---|---|
@@ -134,10 +139,6 @@ People raised in high-context cultures may avoid saying **“no”** directly be
 | **Adai:** I just wanted to do something nice for you, that's all. | **阿呆：**“其实也没有别的意思。” |
 | **Boss:** Well, if you insist, then I'll accept. | **领导：**“那我就不好意思了。” |
 | **Adai:** Of course, it's less than you deserve! | **阿呆：**“是我不好意思。” |
-
-The exchange illustrates how the intended meanings of expressions depend on the relationship and situation rather than only on the literal words.
-
-这段对话体现：交际表达的含义依赖双方关系及具体情境，不能仅从字面文字判断。
 
 ---
 
@@ -179,11 +180,13 @@ Characteristics of high-context messages include:
 
 高语境信息具有以下特点：
 
-- **Much information is implied.** — 大量信息通过暗示传达。
-- **The situation or surrounding circumstances matter.** — 具体情境和周围环境具有重要作用。
-- **Relationships between communicators matter.** — 交际者之间的关系会影响含义。
-- **Family background, title, age, sex, education, status, and social networks matter.** — 家庭背景、头衔、年龄、性别、教育、地位和社会网络等会影响意义的理解。
-- **Little information is provided in the verbal message itself.** — 言语信息本身提供的内容相对较少。
+- **much information is implied** — 大量信息是隐含的。
+- **includes the situation or surrounding circumstances,** — 包括情境或周围环境。
+- **relationships of the communicators,** — 交际者之间的关系。
+- **their family background,** — 他们的家庭背景。
+- **title, age, sex, education, status,** — 头衔、年龄、性别、教育、地位。
+- **social networks** — 社会关系网络。
+- **little provided in the verbal message itself** — 言语信息本身提供的信息很少。
 
 Communication in high-context cultures may be indirect and may convey information through facial expressions, gestures, eye contact, and cultural implications rooted in shared knowledge.
 
@@ -195,9 +198,9 @@ Characteristics of low-context messages include:
 
 低语境信息具有以下特点：
 
-- **The majority of the information is contained in the verbal code.** — 大部分信息包含在语言编码中。
-- **The message is stated clearly and explicitly.** — 信息通过清晰、明确的方式表达。
-- **Communication does not depend heavily on contextual information.** — 信息表达不强烈依赖交际语境。
+- **the majority of the information is contained in the verbal code** — 大部分信息包含在言语编码中。
+- **the message is stated clearly and explicitly** — 信息表达清晰、明确。
+- **without depending on the context of the communication** — 不依赖交际语境。
 
 Low-context cultures are described as relying primarily on language because of population mobility and cultural diversity. Expressions of feeling may therefore be relatively direct and explicit.
 
@@ -205,7 +208,7 @@ Low-context cultures are described as relying primarily on language because of p
 
 Examples of low-context countries include **the United States, Canada, Germany, Switzerland, Sweden, Norway, Finland, and Denmark**.
 
-低语境国家包括：**美国、加拿大、德国、瑞士、瑞典、挪威、芬兰、丹麦**。
+低语境（LowerContext Culture）国家有**美国、加拿大、德国、瑞士、瑞典、挪威、芬兰、丹麦**。
 
 Such cultures emphasize detailed arrangements and precise schedules, with comparatively less emphasis on the surrounding context. Their behavioral system is described as drawing from Aristotelian logic and linear thinking.
 
@@ -229,7 +232,7 @@ Japanese → Chinese → Korean → African American → Native American → Ara
 
 Different cultures place different importance on verbal communication. In the United States, articulate people who express themselves fluently may be more attractive; in Korea, people who appear less talkative may be considered more trustworthy.
 
-不同的文化对言语交际的重要性的认识是不一样的，在美国，往往口齿伶俐，善于口头表达的人更吸引人；而在韩国，更受信任的却是口头表达稍显木讷之人。
+不同的文化对言语交际的重要性的认识是不一样的，在美国，往往口齿伶俐，善于口头表达的人更吸引人；而在韩国，更受信任的却是口头表达稍显木纳之人。
 
 In low-context communication, nonverbal behavior may receive relatively little attention. In high-context communication, facial expressions, behavior, interaction speed, place, subtle gestures, feelings, and other environmental details can carry significant information.
 
@@ -243,31 +246,31 @@ In low-context communication, nonverbal behavior may receive relatively little a
 
 **Low-context culture:** People are expected to separate individuals from events, even when doing so may affect personal relationships. In organizations, work relationships and criticism directed at the matter itself are emphasized.
 
-**低语境文化：** 低语境文化要求交流者将人与事件分开来，尽管有时这样做会牺牲个人关系。在组织中，人们强调的是工作关系，而不是个人关系，批评也是对事不对人。
+**低语境文化：** 1、低语境文化要求交流者将人与事件分开来，尽管有时这样做会牺牲个人关系。在组织中，人们强调的是工作关系，而不是个人关系，批评也是对事不对人。
 
 **High-context culture:** People may not separate a matter from the person involved. Criticism of a matter may be regarded as criticism of an individual. Saving face is important.
 
-**高语境文化：** 高语境文化往往不把事件与人分开，批评某件事就等于批评某个或某些人。在高语境文化中，人们往往有很强的保全面子的动机。
+**高语境文化：** 相反，高语境文化往往不把事件与人分开，批评某件事就等于批评某个或某些人。在高语境文化中，人们往往有很强的保全面子的动机。
 
 ### 4.2 Direct and Indirect Communication（直接与间接交际）
 
 **Low-context culture:** People tend to communicate directly, request detailed information, and guide the communication process. During interpersonal conflicts, they may present many facts and adopt a comparatively confrontational approach.
 
-**低语境文化：** 低语境文化中的人使用非常直接的交流方式，他们总想获得大量信息并引导交流程序。例如在发生和解决人际冲突时，人们一般要摆出大量事实，具有一定的对抗性。
+**低语境文化：** 2.低语境文化中的人使用非常直接的交流方式，他们总想获得大量信息并引导交流程序。例如在发生和解决人际冲突时，人们一般要摆出大量事实，具有一定的对抗性。
 
 **High-context culture:** People tend to communicate more indirectly. Direct communication may cause loss of face or damage group harmony.
 
-**高语境文化：** 高语境文化中的人使用较为间接的交流方式，对他们来说，直接的交流方式可能会使人丢面子，会破坏团体的和谐。
+**高语境文化：** 相反，高语境文化中的人使用较为间接的交流方式，对他们来说，直接的交流方式可能会使人丢面子，会破坏团体的和谐。
 
 ### 4.3 Business Negotiation（商务谈判）
 
 **Low-context culture:** Negotiators tend to use linear logical thinking and reasoning to bargain.
 
-**低语境文化：** 在商业谈判时，低语境文化中的人趋向于线性逻辑思维，他们在讨价还价时善用推理分析。
+**低语境文化：** 3.在商业谈判时，低语境文化中的人趋向于线性逻辑思维，他们在讨价还价时善用推理分析。
 
 **High-context culture:** Negotiators tend to use less explicit methods, including feelings and intuition.
 
-**高语境文化：** 高语境文化谈判时通常使用较为“模糊”的方式，善用包括感觉和直觉在内的交流方式。东方社会很多都是“高语境”社会。
+**高语境文化：** 相反，高语境文化谈判时通常使用较为“模糊”的方式，善用包括感觉和直觉在内的交流方式。 东方社会很多都是“高语境”社会。
 
 ### 4.4 General Comparison（总体对比）
 
@@ -282,6 +285,14 @@ In low-context communication, nonverbal behavior may receive relatively little a
 | **High commitment**（高承诺） | **Low commitment**（低承诺） |
 | **Highly flexible time management**（时间处理高度灵活） | **Highly organized time management**（时间高度组织化） |
 
+**High-context culture:** implicit and reserved; encoded information; more nonverbal encoding; responses seldom openly expressed; different treatment of in-groups and out-groups; close interpersonal relationships; high commitment; highly flexible handling of time.
+
+高语境文化，内隐，含蓄；暗码信息；较多的非言语编码；反应很少外露；圈内外有别；人际关系紧密；高承诺；时间处理高度灵活。
+
+**Low-context culture:** explicit and clear; openly coded information; more verbal encoding; responses openly expressed; flexible in-group/out-group boundaries; less close interpersonal relationships; low commitment; highly organized time.
+
+低语境文化，外显，明了；明码信息；较多的言语编码；反应外露；圈内外灵活；人际关系不密切；低承诺；时间高度组织化。
+
 In brief, high-context communication may appear reserved or secretive, while low-context communication may appear highly verbal and redundant.
 
 简而言之，高语境文化的交际，有时显得秘而不宣、藏头露尾；低语境文化的交际，显得多言而冗余。
@@ -291,7 +302,7 @@ In brief, high-context communication may appear reserved or secretive, while low
 | Lower Context（较低语境） | Higher Context（较高语境） |
 |---|---|
 | **Information provided explicitly, by words.** — 信息通过语言明确传递。 | **Information drawn from surroundings.** — 信息从周围情境中获取。 |
-| **Nonverbal cues are ignored.** — 非语言线索受到较少关注。 | **Nonverbal cues are important.** — 非语言线索重要。 |
+| **Nonverbal cues are ignored.** — 非语言线索被忽略。 | **Nonverbal cues are important.** — 非语言线索重要。 |
 | **Need detailed background information.** — 需要详细的背景信息。 | **Free flow of information.** — 信息流动自由。 |
 | **Consider knowledge a commodity.** — 将知识看作一种商品。 | **Maintain strong information networks.** — 维持强大的信息网络。 |
 
@@ -311,19 +322,21 @@ In brief, high-context communication may appear reserved or secretive, while low
 >
 > 在低语境文化中，人们更加重视个人主义，更关注自己的面子而非他人的面子；他们往往直接表达自身意思。
 
-**When confronted with people from high-context cultures, people from low-context cultures may feel uncomfortable with the vagueness and ambiguity of the message. They may become puzzled, frustrated, impatient, or even irritated.**
+**When confronted with people from high-context cultures:**
 
-当低语境文化中的人面对来自高语境文化的交际者时，可能会对信息的模糊和不明确感到不舒服，进而感到困惑、沮丧、不耐烦甚至恼怒。
+- **People feel uncomfortable with the vagueness and ambiguity of the message** — 人们对信息的模糊性和歧义感到不适。
+- **Become puzzled, frustrated, impatient or even irritated.** — 感到困惑、沮丧、不耐烦，甚至恼怒。
 
 ### 5.2 Case Analysis: Chinese Dean and Foreigner Teacher Jim（中国院长与外籍教师 Jim）
 
-A communication situation between a **Chinese dean** and a **foreign teacher named Jim** illustrates differences in high-context and low-context expectations.
+**Case Analysis — HC/LC**
 
-**中国院长**与**外籍教师 Jim**之间的交际情境，用来说明高低语境之间的理解差异。
+- **Chinese Dean** — 中国院长
+- **Foreigner Teacher Jim** — 外籍教师 Jim
 
 **Example — “We will consider it.”**
 
-> **In China, the words: “we will consider it”.**
+> **In China, the words : “ we will consider it”.**
 >
 > **While Chinese usually take this sentence as a tentative decline or a half-decline at least, westerners might miss the implied message and experience disappointment when hearing the same answer again and again.**
 
@@ -331,10 +344,10 @@ A communication situation between a **Chinese dean** and a **foreign teacher nam
 
 在中国，“我们会考虑的”通常可能被理解为一种试探性的拒绝，或至少是半拒绝；西方交际者可能没有理解其中隐含的意思，反复听到相同答复后会感到失望。
 
-- **In high-context culture:** Consider others’ faces.  
-  **高语境文化：** 非常关注他人的面子。
-- **In low-context culture:** Rely heavily on what people say.  
-  **低语境文化：** 在很大程度上依靠对方直接说出的内容。
+- **In HC Culture — Quite Concern others' faces**  
+  **在高语境文化中：** 非常关心他人的面子。
+- **In LC Culture — Heavily rely on What people say**  
+  **在低语境文化中：** 高度依赖人们说出的语言。
 
 ### 5.3 In-groups and Out-groups（内群体与外群体）
 
@@ -355,13 +368,19 @@ A communication situation between a **Chinese dean** and a **foreign teacher nam
 
 ### 5.4 Friendship and Social Relationships（友谊与社会关系）
 
-Friendships in the Chinese cultural setting are described as emphasizing old friendships, mutual help, loyalty, and long-term commitment. The contrast is made with the comparatively more changeable circles of friends in American society.
+**In handling friendships, Chinese people are described as valuing old friendships and expecting great loyalty and mutual help. Longer-lasting friendships are treated as a sign of deeper bonds.**
 
 在处理朋友关系方面，我们与西方国家的人也大不相同。我们重视老朋友的关系，对于朋友的期望值很高，即使不是桃源结义，也应情同手足。若是交流，最好是无所不谈；若有困难，应该倾囊相助。友谊保持的时间越久，越能显示出友情之深。
 
-In the comparison, Americans are described as moving more frequently and often keeping friendship and social or work obligations separate.
+**In American society, frequent moves are said to make long-lasting friendships difficult to maintain. Friendship circles often change, and close friendships involving numerous duties and obligations may be avoided.**
 
 但是，在美国这样的国家，人们一生之中往往需要迁移多次，要保持长久的友谊关系是十分困难的。因此，朋友的圈子常常变动。另一方面，美国人一般不愿意朋友关系过深带有许多责任和义务。
+
+**Edward Stewart & Milton Bennett are quoted as discussing this distinction:**
+
+**引用：**
+
+> “虽然美国人保持许多友好的非正式的关系，但是他们极少有那种很深而又维系多年的友谊关系，在这种关系中朋友之间变得相互依赖。理想的境界是美国式的友谊建立在自然发生、相互之间的吸引以及温馨的个人感情的基础之上。人们选择自己的朋友，同时，他们又把朋友关系与社会或工作义务分开。”
 
 ---
 
@@ -398,7 +417,7 @@ People can display both high-context and low-context communication preferences. 
 
 Neither can be judged as universally better. High-context communication may be more efficient in a shared cultural setting, while low-context communication may help people complete tasks and procedures more precisely by reducing ambiguity.
 
-这个很难笼统地说谁优谁劣。从文化角度来看，高语境更具有沟通效率，但从执行事务的执行角度来看，似乎低语境更容易把每个环节做得更好，从事人员的方向不会被类似高语境的暗示所迷惑，而误入歧途。
+这个很难笼统的说谁优谁劣。从文化角度来看，高语境更具有沟通效率，但从执行事务的执行角度来看，似乎低语境更容易把每个环节做的更好，从事人员的方向不会被被类似高语境的暗示所迷惑，而误入歧途。
 
 ---
 
@@ -414,7 +433,7 @@ Neither can be judged as universally better. High-context communication may be m
 | **Long-term relationships.** — 长期关系。 | **More interpersonal connections of shorter duration.** — 更多持续时间较短的人际联系。 |
 | **Strong boundaries: who belongs and who is an outsider.** — 明确区分内部成员与外部人员。 | **Knowledge is more often transferable.** — 知识更容易转移和传播。 |
 | **Knowledge is situational, relational.** — 知识具有情境性和关系性。 | **Task-centered.** — 以任务为中心。 |
-| **Decisions and activities focus around personal relationships.** — 决策和活动以个人关系为中心。 | **Decisions and activities focus around what needs to be done and the division of responsibilities.** — 决策和活动围绕任务完成和责任分工进行。 |
+| **Decisions and activities focus around personal** — 决策和活动围绕个人……（此句至此，保持原有未完句形式。） | **Decisions and activities focus around what needs to be done and the division of responsibilities.** — 决策和活动围绕任务完成和责任分工进行。 |
 
 ### 7.2 Relationships, Identity, and Authority（关系、身份与权威）
 
@@ -513,13 +532,8 @@ The Malaysian's indirect questions and comments communicate a need that the Euro
 
 ## 9. Nonverbal Codes and Orientation to Time（非语言符号与时间取向）
 
-Two connected topics are **nonverbal codes** and **orientation to time**.
-
-两个相关主题是**非语言符号（nonverbal codes）**与**时间取向（orientation to time）**。
-
-The communication differences discussed above involve nonverbal cues, the use of space, silence, and different approaches to time management.
-
-上述交际差异涉及非语言线索、空间使用、沉默以及不同的时间管理方式。
+- **nonverbal codes** — 非语言符号
+- **Orientation to time** — 时间取向
 
 ---
 
@@ -527,13 +541,9 @@ The communication differences discussed above involve nonverbal cues, the use of
 
 ### 10.1 Key Details（故事要点）
 
-**My Daughter's Story** involves a Chinese girl, a Filipina classmate, McDonald's, and differences in the meaning of offers and invitations.
-
-**《我女儿的故事》**涉及中国女孩、菲律宾女生、麦当劳，以及不同文化对提供食物和邀请含义的理解差异。
-
-Related expressions include **“the most courteous nation,”** hesitation, gratitude, and expectations.
-
-相关表达涉及“最讲礼貌的民族”、犹豫、感激和期待。
+- **My Daughter’s Story** — 我女儿的故事
+- **Chinese—the most courteous nation** — 中国人——最有礼貌的民族
+- **Filipina & my daughter** — 菲律宾女生与我的女儿
 
 ### 10.2 Exercise 2 — Key Answers（练习二：关键词答案）
 
@@ -594,34 +604,3 @@ Related expressions include **“the most courteous nation,”** hesitation, gra
 
 **Discern:** to recognize or distinguish.  
 **Discern：** 识别；辨别。
-
----
-
-## Key Terms（核心术语）
-
-| English | 中文 |
-|---|---|
-| Edward T. Hall | 爱德华·T·霍尔 |
-| Proxemics | 空间关系学／近体学 |
-| Public distance | 公众距离 |
-| Social distance | 社交距离 |
-| Personal distance | 个人距离 |
-| Intimate distance | 亲密距离 |
-| Context | 语境 |
-| High-context culture | 高语境文化 |
-| Low-context culture | 低语境文化 |
-| Verbal code | 言语编码 |
-| Nonverbal cues / Nonverbal codes | 非语言线索／非语言符号 |
-| Explicit | 明确的；外显的 |
-| Implicit | 隐含的；内隐的 |
-| Ambiguity | 模糊；不明确 |
-| Face concern | 面子关注 |
-| In-groups | 内群体 |
-| Out-groups | 外群体 |
-| Affiliation | 所属关系；从属关系；联盟 |
-| Discreetly | 谨慎地 |
-| Subtly | 委婉地；微妙地 |
-| Spell it out | 把意思直接讲清楚 |
-| Tentative | 试探性的；暂定的 |
-| Discern | 识别；辨别 |
-| Orientation to time | 时间取向 |

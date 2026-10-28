@@ -1,0 +1,903 @@
+# 第14章　振动
+
+> [!abstract] 本章知识主线
+> **周期运动 → 简谐振动的数学描述 → 相位与旋转矢量 → 动力学系统与能量 → 阻尼和受迫振动 → 振动合成与拍 → 垂直振动及李萨如图形**。
+>
+> 本章的关键不是死记公式，而是掌握三条贯穿始终的思路：① 用**相位**描述运动状态；② 用**动力学方程**判断系统是否做简谐振动；③ 用**矢量叠加**处理相同频率的振动。
+
+# 一、振动与简谐振动的基本描述
+
+## 1. 振动是什么
+
+**机械振动**是物体在某一位置附近发生的往复运动；更广义的振动是物理量在一定状态附近的反复变化，例如电流、场强或电荷的周期变化。机械振动的平衡位置通常是合力为零的位置，但“发生往复变化”不意味着一定是理想的简谐振动。
+
+- **周期振动**：运动状态每隔固定时间重复一次。
+- **简谐振动**：物理量按照正弦或余弦规律随时间变化，是最基本的理想振动模型。
+- **阻尼振动**：存在耗散，振幅通常随时间减小。
+- **受迫振动**：存在周期性驱动力，长期运动由驱动与阻尼共同决定。
+
+## 2. 简谐振动的运动方程
+
+> [!important] 简谐振动的核心方程
+>
+> $$x=A\cos(\omega t+\varphi_0),\qquad A>0,\ \omega>0$$
+>
+> 其中 $x$ 是相对于平衡位置的位移。对于其他物理量，也可用相同数学形式表示。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_shm_cosine_2c9dcf77-6f5a-4746-8c4b-1fb9cc5b7bea.png]]
+
+*图 01｜简谐位移正弦曲线，标出振幅与周期*
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_shm_formula_reading_68fad20e-2c62-4000-a3e9-6cc8446d3b96.png]]
+
+*图 02｜简谐运动方程符号拆解*
+
+**三个特征量**决定一条简谐振动曲线：
+
+| 物理量 | 符号 | 含义 | 注意 |
+|---|---|---|---|
+| 振幅 | $A$ | 最大位移的绝对值 | $A>0$，位移范围为 $[-A,A]$ |
+| 角频率 | $\omega$ | 相位每秒增加的弧度数 | 单位 $\mathrm{rad/s}$，与系统自身特性相关 |
+| 初相 | $\varphi_0$ | 在 $t=0$ 时的相位 | 决定从哪一个运动状态开始计时 |
+
+时刻 $t$ 的**相位**为 $\varphi=\omega t+\varphi_0$。相位不是位置：相同位置可能对应速度方向相反的两个不同状态；需要结合速度方向才可区分。
+
+**周期 $T$、频率 $\nu$ 与角频率 $\omega$**满足
+
+$$T=\frac{2\pi}{\omega},\qquad \nu=\frac1T,\qquad \omega=2\pi\nu.$$
+
+$T$ 的单位是秒（s），$\nu$ 的单位是赫兹（Hz）。相位每增加 $2\pi$，整个振动状态重复一次。周期描述“一次循环多久”，频率描述“每秒多少次”，角频率描述“每秒走过多少弧度”。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_characteristic_parameters_dcbeb472-466e-4359-a1f6-82ad805e6fb7.png]]
+
+*图 03｜振幅 A、周期 T 与角频率关系*
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_initial_phase_examples_cbf16bbc-8ae9-4ebd-9751-3c3a2a139ec4.png]]
+
+*图 04｜不同初相但相同振幅频率的振动图像*
+
+> [!warning] 图像上最容易混淆的两个量
+> - **振幅 $A$ 是纵向幅度**；初相 $\varphi_0$ 决定曲线在时间轴上的水平位置。
+> - 把 $A$ 写成负数没有必要，因为 $-A\cos\theta=A\cos(\theta+\pi)$。约定振幅为正，负号由相位吸收。
+
+## 3. 速度与加速度
+
+对位移关于时间求导：
+
+$$v=\frac{\mathrm dx}{\mathrm dt}=-\omega A\sin(\omega t+\varphi_0)=\omega A\cos\left(\omega t+\varphi_0+\frac{\pi}{2}\right).$$
+
+继续求导：
+
+$$a=\frac{\mathrm d^2x}{\mathrm dt^2}=-\omega^2 A\cos(\omega t+\varphi_0)=-\omega^2x.$$
+
+从中读出：
+
+- 最大速率 $v_{\max}=\omega A$；平衡位置速率最大，端点速率为零。
+- 最大加速度大小 $a_{\max}=\omega^2A$；端点加速度大小最大，平衡位置加速度为零。
+- **速度的相位比位移超前 $\pi/2$，即四分之一周期**；加速度与位移反相，相差 $\pi$。
+- 速度和加速度本身也是随时间正弦变化的量，但其振幅和初相与位移不同。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_x_v_a_phase_5e35badd-efef-423c-8682-705598fc866f.png]]
+
+*图 05｜位移速度加速度随时间的相位关系*
+
+消去相位可得到
+
+$$\frac{x^2}{A^2}+\frac{v^2}{\omega^2A^2}=1,$$
+
+也就是 $(x,v)$ 平面的椭圆轨迹。若横轴用 $x/A$、纵轴用 $v/(\omega A)$ 归一化表示，便成为单位圆。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_phase_space_ellipse_958042da-77be-40ff-94a8-7adbac3e3137.png]]
+
+*图 06｜位移速度椭圆相图*
+
+> [!tip] 不必另背速度、加速度方程
+> 只记住 $x=A\cos\varphi$，再连续求导即可。题目若问某一位置的速度**大小**，还可以直接用 $v^2=\omega^2(A^2-x^2)$；但速度的**正负方向**必须由实际运动状态另作判断。
+
+# 二、相位、相位差与旋转矢量法
+
+## 1. 相位差与超前、滞后
+
+设两振动
+
+$$x_1=A_1\cos(\omega_1t+\varphi_{10}),\qquad x_2=A_2\cos(\omega_2t+\varphi_{20}).$$
+
+以“第二个减第一个”定义相位差：
+
+$$\Delta\varphi=(\omega_2-\omega_1)t+(\varphi_{20}-\varphi_{10}).$$
+
+如果 $\omega_1=\omega_2=\omega$，则
+
+$$\Delta\varphi=\varphi_{20}-\varphi_{10}=\text{常量}.$$
+
+- $\Delta\varphi=2k\pi$：两振动**同相**，同时达到对应的正、负极值。
+- $\Delta\varphi=(2k+1)\pi$：两振动**反相**，在同一时刻位移符号相反（幅值未必相等）。
+- 若选取 $0<\Delta\varphi<2\pi$，可把第二振动视为在相位上**超前**第一振动 $\Delta\varphi$；讨论最短时间差时，应留意相位模 $2\pi$ 的等价性。
+
+当 $\Delta\varphi>0$ 时，为了把第二条曲线与第一条重合，需要把第二条向右平移 $\Delta t=\Delta\varphi/\omega$。也就是说，**超前者的相同特征点在时间轴上更早出现**。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_phase_lead_lag_f49a2430-80ac-4cf3-96eb-41f58be652f7.png]]
+
+*图 07｜同频振动相位超前与时间平移*
+
+> [!warning] 相位差不是任意时刻的位移差
+> 相位差量纲为弧度（数学上视为无量纲），位移差量纲为长度。讨论同相、反相或超前滞后，首先确认两振动的**角频率是否相同**；不同频率时一般不存在固定相位差。
+
+## 2. 旋转矢量的几何意义
+
+取长度为 $A$ 的矢量，从 $t=0$ 开始相对于正 $x$ 轴的夹角为 $\varphi_0$，再以恒定角速度 $\omega$ 逆时针转动。其端点的横坐标为
+
+$$x=A\cos(\omega t+\varphi_0).$$
+
+于是，**匀速圆周运动在某一直径上的投影就是简谐振动**。旋转矢量是求初相、判断速度方向和进行同频振动合成的有效工具。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_rotating_phasor_e4453f4e-f2a7-4b1a-94ff-cc88bb3af3dd.png]]
+
+*图 08｜旋转矢量长度和横轴投影*
+
+旋转矢量与实际运动的对应关系：矢量处在右半圆时 $x>0$；处在左半圆时 $x<0$；在上半圆时横坐标随逆时针转动而减小，因此 $v<0$；在下半圆时 $v>0$。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_four_phase_states_8b12c77e-9dc0-4e04-92cd-07840cfb3403.png]]
+
+*图 09｜旋转矢量的0、π/2、π、3π/2及对应方向*
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_phase_quadrant_logic_b945c58c-9361-4e13-81a3-2a85e8ca29bc.png]]
+
+*图 10｜位移速度符号和相位象限关系*
+
+| 相位 $\varphi$ | 位移 $x$ | 速度 $v$ | 运动状态 |
+|---|---|---|---|
+| $0$ | $+A$ | $0$ | 右端点，随后向左 |
+| $\pi/2$ | $0$ | $-\omega A$ | 经过平衡位置，向负向运动 |
+| $\pi$ | $-A$ | $0$ | 左端点，随后向右 |
+| $3\pi/2$ | $0$ | $+\omega A$ | 经过平衡位置，向正向运动 |
+| $2\pi$ | $+A$ | $0$ | 回到与起始完全相同的状态 |
+
+## 3. 由初始条件求振幅与初相
+
+已知 $\omega$、初始位移 $x_0$、初始速度 $v_0$，由
+
+$$x_0=A\cos\varphi_0,\qquad v_0=-\omega A\sin\varphi_0$$
+
+平方相加得
+
+$$\boxed{A=\sqrt{x_0^2+\frac{v_0^2}{\omega^2}}}.$$
+
+然后用
+
+$$\cos\varphi_0=\frac{x_0}{A},\qquad \sin\varphi_0=-\frac{v_0}{\omega A}$$
+
+共同确定 $\varphi_0$ 的象限。也可以用带象限的双参数反正切思想 $\varphi_0=\operatorname{atan2}(-v_0/\omega,x_0)$，再把角度调整到需要的区间。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_initial_conditions_amplitude_45ef61b0-e4ab-4307-9ebc-eff8fcb638a7.png]]
+
+*图 11｜初始位移和速度确定幅值相位*
+
+> [!example] 例1：已知瞬时状态确定相位
+> 某一时刻 $x=A/2$，且 $v<0$。因为 $\cos\varphi=1/2$，所以候选相位为 $\pi/3$ 或 $5\pi/3$（模 $2\pi$）。又因为 $v=-\omega A\sin\varphi<0$，需 $\sin\varphi>0$。
+>
+> 因此 **$\varphi=\pi/3$（模 $2\pi$）**。只用位移判断会漏掉速度方向这个关键条件。
+
+> [!example] 例2：音叉尖端的两种初始状态
+> 已知 $A=1.0\,\mathrm{mm}$，$\omega=628\,\mathrm{rad/s}$。
+>
+> ① $t=0$ 时经过平衡位置并沿正方向运动：$x_0=0,v_0>0$，故 $\varphi_0=-\pi/2$（或 $3\pi/2$），得到
+>
+> $$x=1.0\cos\left(628t-\frac{\pi}{2}\right)\ \mathrm{mm}.$$
+>
+> ② $t=0$ 时位于 $x_0=-A/2$ 并朝平衡位置运动：$v_0>0$，故 $\varphi_0=4\pi/3$，得到
+>
+> $$x=1.0\cos\left(628t+\frac{4\pi}{3}\right)\ \mathrm{mm}.$$
+
+## 4. 从曲线反求振动方程
+
+读振动曲线时依次看**纵向幅值 $A$ → 相邻同类特征点的横向间隔 $T$ → $t=0$ 的 $x_0$ 与曲线斜率**：
+
+1. 纵坐标绝对值的最大值给 $A$；两个连续波峰或两个连续波谷的时间差给 $T$。
+2. 计算 $\omega=2\pi/T$。
+3. 读出 $x_0$；判断 $t=0$ 时曲线是上升（$v_0>0$）还是下降（$v_0<0$），选取正确初相。
+4. 代入 $x=A\cos(\omega t+\varphi_0)$，必要时用一两个特征时刻检验。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_curve_initial_readout_b6e05640-f099-4cea-b5f7-97f9b10c0a53.png]]
+
+*图 12｜简谐曲线的初值和斜率判定初相*
+
+> [!example] 例3：曲线读数
+> 一简谐振动的位移峰值为 $0.10\,\mathrm m$，相邻两正向峰值的时间差为 $2.0\,\mathrm s$；开始计时时 $x_0=-0.050\,\mathrm m$，曲线向下走。则 $\omega=\pi\,\mathrm{rad/s}$，$\cos\varphi_0=-1/2$，且 $v_0<0$，故 $\varphi_0=2\pi/3$。
+>
+> $$\boxed{x=0.10\cos\left(\pi t+\frac{2\pi}{3}\right)\ \mathrm m}.$$
+
+## 5. 用相位求经过某状态的时间
+
+每个状态对应旋转矢量的一个位置，计算所需的**最小正相位增量** $\Delta\varphi$，再除以 $\omega$：
+
+$$\Delta t_{\min}=\frac{\Delta\varphi_{\min}}{\omega},\qquad 0<\Delta\varphi_{\min}\le 2\pi.$$
+
+若题目只要求首次到达某个位移，需把可能的两个相位都列出，再依次判断速度方向或到达时间，不能把 $\arccos(x/A)$ 的主值直接当答案。
+
+> [!example] 例4：首次到达指定位置且速度为正
+> 已知 $x=0.040\cos(2\pi t+\pi/3)\ \mathrm m$。从 $t=0$ 起，首次到达 $x=-0.020\,\mathrm m$ 且向正方向运动时，终相位要求 $\cos\varphi=-1/2$、$\sin\varphi<0$，因此 $\varphi=4\pi/3$。
+>
+> $$\Delta\varphi=\frac{4\pi}{3}-\frac{\pi}{3}=\pi,\qquad \Delta t=\frac{\pi}{2\pi}=0.50\,\mathrm s.$$
+
+# 三、产生简谐振动的动力学条件
+
+## 1. 从线性恢复力到微分方程
+
+对质量为 $m$ 的质点，若沿位移方向的合力满足**线性恢复力**关系
+
+$$F=-kx,\qquad k>0,$$
+
+则由牛顿第二定律
+
+$$m\frac{\mathrm d^2x}{\mathrm dt^2}=-kx$$
+
+得
+
+$$\boxed{\frac{\mathrm d^2x}{\mathrm dt^2}+\omega_0^2x=0},\qquad \omega_0^2=\frac{k}{m}.$$
+
+这个二阶线性微分方程的通解为
+
+$$x=A\cos(\omega_0t+\varphi_0).$$
+
+**位移方程、加速度关系 $a=-\omega_0^2x$、线性恢复力方程**是识别一维理想简谐振动的三种等价切入方式（其中恢复力形式须包含沿所研究方向的全部合力）。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_restoring_force_line_b9a194e9-bb53-4cbf-a8f8-33e585fc1eb1.png]]
+
+*图 13｜恢复力正负与位移反向*
+
+> [!warning] 不可见到弹簧就立即写 $F=-kx$
+> 要先确定所选原点是否位于**平衡位置**，以及是否存在其他改变合力的因素。只有以平衡位置为 $x=0$，且合力可写成 $-kx$，才可按此形式直接得到简谐振动。
+
+## 2. 水平弹簧振子
+
+设弹簧质量忽略、无摩擦，物块质量 $m$、弹簧劲度系数 $k$。将平衡位置设为 $x=0$：当物块位于正向一侧时弹簧力指向负向；位于负向一侧时力指向正向。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_mass_spring_three_positions_882f72bb-98a4-49a9-823a-231095239d2d.png]]
+
+*图 14｜弹簧振子压缩平衡伸长三状态*
+
+其固有角频率、频率和周期为
+
+$$\omega_0=\sqrt{\frac{k}{m}},\qquad \nu_0=\frac{1}{2\pi}\sqrt{\frac{k}{m}},\qquad T_0=2\pi\sqrt{\frac{m}{k}}.$$
+
+对理想线性弹簧振子，$\omega_0$、$T_0$ 由 $k$ 和 $m$ 决定，**与振幅和初相无关**。而振幅与初相由初始条件或外界施加的初始能量决定。
+
+> [!example] 例5：由初始位移和初速度列运动方程
+> 质量 $m=0.40\,\mathrm{kg}$，劲度系数 $k=1.6\,\mathrm{N/m}$。开始时 $x_0=0.10\,\mathrm m$，$v_0=-0.20\,\mathrm{m/s}$。
+>
+> $$\omega_0=\sqrt{1.6/0.40}=2\,\mathrm{rad/s},\qquad A=\sqrt{0.10^2+(0.20/2)^2}=0.10\sqrt2\,\mathrm m.$$
+>
+> 因为 $\cos\varphi_0>0$ 且 $\sin\varphi_0>0$，所以 $\varphi_0=\pi/4$，从而
+>
+> $$\boxed{x=0.10\sqrt2\cos\left(2t+\frac{\pi}{4}\right)\ \mathrm m}.$$
+>
+> 取近似振幅时可写为 $0.14\,\mathrm m$，但最好先保留根式以免过早舍入。
+
+## 3. 单摆：小角度时才近似简谐
+
+单摆由长度 $l$ 的轻绳和质量 $m$ 的摆球组成。以摆线与竖直向下方向的夹角 $\theta$ 为广义坐标，规定正向后，重力切向分力为
+
+$$F_t=-mg\sin\theta.$$
+
+沿切向写 $ml\ddot\theta=-mg\sin\theta$，得到
+
+$$\ddot\theta+\frac{g}{l}\sin\theta=0.$$
+
+当 $|\theta|\ll1$（**弧度制**）时，$\sin\theta\approx\theta$，于是
+
+$$\boxed{\ddot\theta+\frac{g}{l}\theta=0},\quad \omega_0=\sqrt{\frac gl},\quad T_0=2\pi\sqrt{\frac lg}.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_simple_pendulum_force_5e65ed98-9d05-46db-81bc-7be205192dbe.png]]
+
+*图 15｜单摆切向分力与小角度近似*
+
+振动方程可写成 $\theta=\theta_m\cos(\omega_0t+\varphi_0)$。小角度下角振幅 $\theta_m$ 与初始条件有关；角频率近似由 $g$ 和 $l$ 决定。
+
+> [!warning] 单摆周期与振幅无关是**小角度近似**
+> 精确单摆方程含 $\sin\theta$，不是标准简谐微分方程。当摆角较大时，周期随摆幅变化，不能无条件套用 $2\pi\sqrt{l/g}$。
+
+**初始条件例**：若 $t=0$ 时 $\theta_0=0$，且按规定正方向的角速度 $\dot\theta_0=b>0$，则
+
+$$\theta_m=\frac{b}{\omega_0}=b\sqrt{\frac lg},\qquad \varphi_0=-\frac\pi2\quad(\text{或 }3\pi/2).$$
+
+可验证 $\dot\theta(0)=-\omega_0\theta_m\sin\varphi_0=b>0$。**不要忽略正方向的选取而直接判断初相。**
+
+## 4. 复摆：一般刚体的微小摆动
+
+复摆是绕固定水平轴摆动的刚体。设转轴到质心的距离为 $l$，刚体质量为 $m$，绕固定转轴的转动惯量为 $J$。回复力矩
+
+$$M=-mgl\sin\theta,$$
+
+转动定律 $J\ddot\theta=M$ 导出
+
+$$J\ddot\theta+mgl\sin\theta=0.$$
+
+小角度下得到标准简谐形式
+
+$$\boxed{\ddot\theta+\frac{mgl}{J}\theta=0},\quad \omega_0=\sqrt{\frac{mgl}{J}},\quad T_0=2\pi\sqrt{\frac{J}{mgl}}.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_physical_pendulum_cc0bc9e3-d0a2-4100-bcab-f35f8e79278d.png]]
+
+*图 16｜复摆转轴质心和重力矩*
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_natural_frequencies_compare_d6eaf10f-068b-4725-bd91-070fb590152a.png]]
+
+*图 17｜三类振子的固有角频率比较*
+
+> [!note] 三类系统的统一之处
+> 平动系统体现为 $m\ddot x+kx=0$；转动系统体现为 $J\ddot\theta+\kappa\theta=0$。它们都可写成 $\ddot q+\omega_0^2q=0$。因此研究不同振子时，首先识别“惯性量”和“恢复系数”，便能直接求固有频率。
+
+# 四、谐振子的能量
+
+## 1. 动能、势能和总能量
+
+以理想弹簧振子为例，取平衡位置弹性势能为零。位移、速度为
+
+$$x=A\cos\varphi,\qquad v=-\omega_0A\sin\varphi,\quad \varphi=\omega_0t+\varphi_0.$$
+
+动能为
+
+$$E_k=\frac12mv^2=\frac12m\omega_0^2A^2\sin^2\varphi=\frac12kA^2\sin^2\varphi.$$
+
+势能为
+
+$$E_p=\frac12kx^2=\frac12kA^2\cos^2\varphi.$$
+
+由 $m\omega_0^2=k$，有
+
+$$\boxed{E=E_k+E_p=\frac12kA^2=\frac12m\omega_0^2A^2=\text{常量}}.$$
+
+> [!important] 能量与振幅平方成正比
+> 对**同一固有频率、同一系统参数**的简谐振子，$E\propto A^2$。若振幅变为两倍，总机械能变为四倍。势能公式采用平衡位置为零势能的约定，**不是负的 $\tfrac12kx^2$**。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_energy_vs_position_20211dcf-2607-4a43-a40c-6492e7c7a676.png]]
+
+*图 18｜动势能随位置变化及能量守恒*
+
+## 2. 一个周期中的能量转化
+
+| 运动位置 | 速度大小 | 动能 $E_k$ | 势能 $E_p$ |
+|---|---:|---:|---:|
+| $x=0$（平衡位置） | 最大 | $E$ | 0 |
+| $x=\pm A$（端点） | 0 | 0 | $E$ |
+| $0<|x|<A$ | 中间值 | $E-E_p$ | $\tfrac12kx^2$ |
+
+随着物块经过平衡位置、抵达端点、再次返回，动能和势能相互转化；**无阻尼时总机械能不变**。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_energy_cycle_states_9ba4d0cc-afa4-4f54-bc07-a509035544a6.png]]
+
+*图 19｜五个时刻的振子能量分配*
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_energy_vs_time_594c7429-1125-44b1-8f3b-7e134b47de79.png]]
+
+*图 20｜动能和势能的时间变化频率为位移的两倍*
+
+因为 $\sin^2\varphi=(1-\cos2\varphi)/2$、$\cos^2\varphi=(1+\cos2\varphi)/2$，动能和势能的变化周期均为 $T/2$，变化频率均为位移频率的两倍。这里的“频率加倍”指**能量曲线**，不是振子自身的角频率改变。
+
+## 3. 动能与势能的时间平均值
+
+在一个完整周期内
+
+$$\overline{E_k}=\frac1T\int_0^T\frac12kA^2\sin^2(\omega_0t+\varphi_0)\,\mathrm dt=\frac14kA^2,$$
+
+$$\overline{E_p}=\frac1T\int_0^T\frac12kA^2\cos^2(\omega_0t+\varphi_0)\,\mathrm dt=\frac14kA^2.$$
+
+因此
+
+$$\boxed{\overline{E_k}=\overline{E_p}=\frac E2}.$$
+
+这描述的是**理想谐振子在一个完整周期内的平均值**，并不表示任意时刻两者相等。
+
+> [!tip] 能量法求振幅
+> 在已知系统固有频率 $\omega_0$ 时，初始机械能 $E=\tfrac12mv_0^2+\tfrac12kx_0^2$。把它与 $\tfrac12kA^2$ 相等，立即可得 $A^2=x_0^2+v_0^2/\omega_0^2$，与运动学方法完全一致。
+
+# 五、弹簧等效刚度与系统参数变化
+
+## 1. 串联与并联的等效刚度
+
+弹簧的劲度系数并不单纯由“弹簧有几根”决定，而取决于**力与形变的作用关系**。
+
+**串联**：每根弹簧受力相同，总伸长量等于各段伸长量之和。
+
+$$F=k_1x_1=k_2x_2,\quad x=x_1+x_2\ \Longrightarrow\ \boxed{\frac1{k_{\mathrm{eq}}}=\frac1{k_1}+\frac1{k_2}}.$$
+
+**并联**：各弹簧伸长量相同，回复力相加。
+
+$$x_1=x_2=x,\quad F=F_1+F_2\ \Longrightarrow\ \boxed{k_{\mathrm{eq}}=k_1+k_2}.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_springs_serial_parallel_dd6b785f-5631-442e-9c39-48f2903a39c5.png]]
+
+*图 21｜两根相同弹簧串联与并联的刚度对比*
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_effective_spring_rules_57ee9177-763c-4006-9dd5-e0917e43c760.png]]
+
+*图 22｜串并联弹簧的力和位移关系*
+
+相同劲度系数为 $k$ 的 $n$ 根弹簧：串联 $k_{\mathrm{eq}}=k/n$；并联 $k_{\mathrm{eq}}=nk$。得到等效劲度系数后，仍可使用 $\omega_0=\sqrt{k_{\mathrm{eq}}/m}$。
+
+## 2. 均匀弹簧切段
+
+对一根均匀弹簧，在理想线弹性范围内，劲度系数与长度成反比：
+
+$$kL=\text{常量}.$$
+
+将原长度为 $L$、劲度为 $k$ 的弹簧分为相同的 $n$ 段，每段长度 $L/n$，每段的劲度系数是 $nk$。若把这些小段串联回原长度，应恢复为原来的 $k$；若拿其中两段并联，则合成刚度为 $2nk$。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_spring_length_stiffness_4f3700f9-2c72-4675-8383-f9edd2b9b09d.png]]
+
+*图 23｜均匀弹簧长度与弹性系数成反比*
+
+> [!example] 例6：三等分弹簧，取两段并联
+> 原弹簧劲度为 $k$，每一小段劲度为 $3k$。取两段并联，$k_{\mathrm{eq}}=3k+3k=6k$。挂上质量 $m$ 的物体，有
+>
+> $$\omega_0=\sqrt{\frac{6k}{m}},\qquad \nu_0=\frac1{2\pi}\sqrt{\frac{6k}{m}}.$$
+
+## 3. 振动系统质量突然改变
+
+设质量为 $M$ 的水平弹簧振子经过平衡位置时，竖直落下的质量 $m$ 的物体被接住，两者随后共同振动，弹簧劲度为 $k$。在短暂碰撞时刻，若外界的**水平冲量可忽略**，可用水平方向动量守恒：
+
+$$MV=(M+m)V',\qquad V'=\frac{M}{M+m}V.$$
+
+碰撞完成后新的周期
+
+$$T'=2\pi\sqrt{\frac{M+m}{k}}>2\pi\sqrt{\frac{M}{k}}=T.$$
+
+碰撞恰在平衡位置发生，因此新振动的初始位移为零，振幅为
+
+$$A'=\frac{V'}{\sqrt{k/(M+m)}}=\frac{MV}{\sqrt{k(M+m)}}.$$
+
+碰前原振幅若为 $A=V\sqrt{M/k}$，则
+
+$$\boxed{\frac{A'}{A}=\sqrt{\frac{M}{M+m}}<1}.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_inelastic_capture_oscillator_151ef7e9-df1c-4695-bd65-a33abb1c4ce3.png]]
+
+*图 24｜小物体落入弹簧振子质量增加速度减小*
+
+> [!warning] 这里不能套用碰撞前后机械能守恒
+> 两物体粘在一起属于非弹性碰撞，碰撞瞬间机械能有损失；**水平动量守恒**与**碰撞完成后新振子的机械能守恒**分别适用于不同阶段，不能混作一个过程。
+
+# 六、阻尼振动（进阶）
+
+## 1. 线性阻尼模型
+
+真实系统受到阻力，常用与速度成正比、方向相反的模型
+
+$$F_d=-\gamma v,\qquad \gamma>0.$$
+
+对弹簧振子，动力学方程为
+
+$$m\ddot x+\gamma\dot x+kx=0.$$
+
+令 $\omega_0^2=k/m$，$2\beta=\gamma/m$，得到
+
+$$\boxed{\ddot x+2\beta\dot x+\omega_0^2x=0}.$$
+
+$\omega_0$ 是**无阻尼固有角频率**，$\beta$ 是**阻尼系数**（量纲为 $\mathrm{s^{-1}}$）。线性阻尼模型的解，随 $\beta$ 与 $\omega_0$ 的大小关系而改变。
+
+## 2. 欠阻尼、临界阻尼与过阻尼
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_damping_regimes_9f91a05b-d716-4ac9-b9ab-0b8812826031.png]]
+
+*图 25｜阻尼振动三种运动状态*
+
+| 类型 | 条件 | 运动特点 | 典型数学形式 |
+|---|---|---|---|
+| 欠阻尼 | $0<\beta<\omega_0$ | 反复越过平衡位置，幅度逐渐变小 | 衰减正弦型 |
+| 临界阻尼 | $\beta=\omega_0$ | 非振荡地返回平衡位置，典型初始条件下回归很快 | $(C_1+C_2t)e^{-\beta t}$ |
+| 过阻尼 | $\beta>\omega_0$ | 不发生振荡，通常回归较慢 | 两个实指数函数之和 |
+
+**欠阻尼解**可写为
+
+$$\boxed{x=A_0e^{-\beta t}\cos(\omega_dt+\varphi_0)},\qquad \omega_d=\sqrt{\omega_0^2-\beta^2}.$$
+
+此时 $A_0e^{-\beta t}$ 是随时间变化的**包络幅值**，而不是常量振幅。$\omega_d<\omega_0$，阻尼改变运动频率且引起能量耗散。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_underdamped_envelope_98fb55fe-e7ee-4b9b-813e-cc22b8bac2fd.png]]
+
+*图 26｜欠阻尼振动衰减包络*
+
+**过阻尼解**为
+
+$$x=C_1e^{(-\beta+\sqrt{\beta^2-\omega_0^2})t}+C_2e^{(-\beta-\sqrt{\beta^2-\omega_0^2})t}.$$
+
+> [!warning] 衰减振荡不是严格的简谐振动
+> 欠阻尼振动虽然包含余弦函数，但其振幅随时间衰减，不满足固定振幅的简谐振动定义。临界阻尼和过阻尼在通常初始条件下更不表现为反复振荡。
+
+# 七、受迫振动与共振（进阶）
+
+## 1. 周期驱动力下的稳态
+
+在阻尼振子的基础上施加周期驱动力 $F=F_0\cos\omega t$，有
+
+$$m\ddot x+\gamma\dot x+kx=F_0\cos\omega t,$$
+
+即
+
+$$\ddot x+2\beta\dot x+\omega_0^2x=f_0\cos\omega t,\qquad f_0=F_0/m.$$
+
+运动通常包含两部分：一部分是由初始条件决定、逐渐衰减的**暂态响应**；另一部分是持续存在的**稳态受迫振动**。经过足够长的时间，暂态衰减，稳态可写作
+
+$$x_{\mathrm s}=A(\omega)\cos(\omega t-\delta).$$
+
+稳态振动的角频率等于**驱动力角频率 $\omega$**，并不一定等于系统的 $\omega_0$。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_forced_transient_steady_ce582c99-6303-45f0-9bec-e7497060c7d9.png]]
+
+*图 27｜受迫振动从暂态到稳态*
+
+## 2. 振幅响应与共振
+
+在上述线性模型下
+
+$$\boxed{A(\omega)=\frac{F_0/m}{\sqrt{(\omega_0^2-\omega^2)^2+4\beta^2\omega^2}}}.$$
+
+当驱动频率接近系统固有频率时，稳态振幅可能显著增大，这称为**共振**。阻尼越小，共振峰通常越高、越尖锐；阻尼越大，峰越低、越宽。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_resonance_amplitude_curves_79bdbb8f-6de6-4902-b66a-3b6dd8fc9674.png]]
+
+*图 28｜不同阻尼下受迫振动振幅共振曲线*
+
+使振幅取峰值的驱动角频率为
+
+$$\boxed{\omega_r=\sqrt{\omega_0^2-2\beta^2}},\qquad \omega_0^2>2\beta^2.$$
+
+弱阻尼时 $\omega_r\approx\omega_0$；**严格地说共振峰频率不一定恰好等于固有频率**。当 $\omega_0^2\le2\beta^2$ 时，振幅响应在非零频率处不再有内部峰值。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_damped_vs_resonant_frequency_795ab719-48a5-4310-82bc-081ca03af542.png]]
+
+*图 29｜阻尼自由振动频率与共振峰频率对比*
+
+## 3. 受迫振动的相位滞后
+
+受迫振动的稳态位移与驱动力之间存在相位滞后角 $\delta$，可由
+
+$$\tan\delta=\frac{2\beta\omega}{\omega_0^2-\omega^2}$$
+
+确定，但因正切函数不能单独确定象限，应根据 $\omega_0^2-\omega^2$ 的符号选择正确角度，通常取 $0<\delta<\pi$（$\omega>0$，阻尼为正）。
+
+- $\omega\ll\omega_0$：$\delta$ 接近 0，位移几乎与驱动力同相。
+- $\omega=\omega_0$：$\delta=\pi/2$。
+- $\omega\gg\omega_0$：$\delta$ 接近 $\pi$，位移几乎与驱动力反相。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_forced_phase_lag_728c0645-8cc4-42c8-be56-5bde24fc09d7.png]]
+
+*图 30｜受迫稳态响应相位滞后随角频率变化*
+
+> [!warning] 两种“频率”必须分清
+> **欠阻尼自由振动**的角频率是 $\omega_d=\sqrt{\omega_0^2-\beta^2}$；**受迫振动最大位移幅值出现的驱动频率**为 $\omega_r=\sqrt{\omega_0^2-2\beta^2}$（当有非零峰时）。二者的物理问题不同，不能互换。
+
+# 八、同方向、同频率简谐振动的合成
+
+## 1. 叠加原理与合成振幅
+
+对于同一方向的两个同频简谐振动
+
+$$x_1=A_1\cos(\omega t+\varphi_1),\qquad x_2=A_2\cos(\omega t+\varphi_2),$$
+
+合位移 $x=x_1+x_2$ **仍为同一角频率 $\omega$ 的简谐振动**：
+
+$$x=A\cos(\omega t+\varphi).$$
+
+把初相矢量相加，得
+
+$$\boxed{A=\sqrt{A_1^2+A_2^2+2A_1A_2\cos(\varphi_2-\varphi_1)}}.$$
+
+令 $X=A_1\cos\varphi_1+A_2\cos\varphi_2$，$Y=A_1\sin\varphi_1+A_2\sin\varphi_2$，则
+
+$$A=\sqrt{X^2+Y^2},\qquad \cos\varphi=\frac XA,\quad\sin\varphi=\frac YA.$$
+
+求初相应保留正确象限，可使用 $\operatorname{atan2}(Y,X)$ 的思想，不能只算 $\arctan(Y/X)$。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_phasor_vector_addition_4d69666d-44bd-4e9c-8157-c62cc91c3fa4.png]]
+
+*图 31｜同频振动等效旋转矢量求和*
+
+## 2. 同相、反相及任意相位差
+
+**同相**：$\varphi_2-\varphi_1=2k\pi$，合成振幅最大
+
+$$A_{\max}=A_1+A_2.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_constructive_superposition_3827d613-8aee-4798-81dd-e0524c614170.png]]
+
+*图 32｜两条同相曲线相加振幅增加*
+
+**反相**：$\varphi_2-\varphi_1=(2k+1)\pi$，合成振幅最小
+
+$$A_{\min}=|A_1-A_2|.$$
+
+若 $A_1=A_2$ 且反相，则合位移始终为零；在理想线性叠加下表现为完全抵消。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_destructive_superposition_04eb97f2-ebf9-4f85-a39a-83541da78880.png]]
+
+*图 33｜同频振动反相叠加振幅差*
+
+任意相位差时都有三角不等式
+
+$$\boxed{|A_1-A_2|\le A\le A_1+A_2}.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_amplitude_vs_phase_difference_9c212f77-ff99-4ebe-b855-5eb962c62550.png]]
+
+*图 34｜两个同频振幅相位差关系图*
+
+> [!important] 干涉规律与相位有关
+> 两振动的相位关系决定叠加后的振幅；不能把振幅直接按普通标量相加，除非先确认同相。频率相同是合振动仍保持简谐形式的重要前提。
+
+## 3. 三个及更多同频振动
+
+多个同频同向振动可统一处理：
+
+$$X=\sum_{j=1}^nA_j\cos\varphi_j,\qquad Y=\sum_{j=1}^nA_j\sin\varphi_j,$$
+
+$$A=\sqrt{X^2+Y^2},\qquad \varphi=\operatorname{atan2}(Y,X).$$
+
+本质就是**把每个旋转矢量先按横、纵方向分解，再相加**。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_three_samefreq_vectors_3b3ed8b4-ad31-4d0e-b348-463c3d5ba359.png]]
+
+*图 35｜三旋转矢量合成为相位π/2幅值0.2*
+
+> [!example] 例7：三个等振幅简谐振动的合成
+>
+> $$\begin{aligned}x_1&=0.10\cos(10t+\pi/6),\\x_2&=0.10\cos(10t+\pi/2),\\x_3&=0.10\cos(10t+5\pi/6).\end{aligned}$$
+>
+> 横向分量相消：$X=0.10(\sqrt3/2+0-\sqrt3/2)=0$；纵向相加：$Y=0.10(1/2+1+1/2)=0.20$。
+>
+> 因而 $A=0.20$、$\varphi=\pi/2$：
+>
+> $$\boxed{x=0.20\cos(10t+\pi/2)}.$$
+
+# 九、同方向不同频率的振动合成与拍
+
+## 1. 一般不同频率振动的合成
+
+对
+
+$$x=A_1\cos(\omega_1t+\varphi_1)+A_2\cos(\omega_2t+\varphi_2),$$
+
+如果 $\omega_1\ne\omega_2$，两振动之间的相位差会随时间变化。因此合成曲线一般不能写为**单一固定振幅与固定角频率**的简谐振动。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_different_freq_superposition_8cc6c38b-0020-4fdd-a655-1ed46345f4ac.png]]
+
+*图 36｜不同频率振动叠加波形*
+
+如果两个角频率比是有理数，合成运动可以具有较长的公共周期；若频率比为无理数，通常不会精确重复。无论哪种情况，合成波形一般都不再是一条单频余弦曲线。
+
+## 2. 拍现象的形成
+
+两个振动振幅相同、初相相同，并且角频率很接近：
+
+$$x_1=A\cos\omega_1t,\qquad x_2=A\cos\omega_2t.$$
+
+利用和差化积
+
+$$\boxed{x=2A\cos\left(\frac{\omega_2-\omega_1}{2}t\right)\cos\left(\frac{\omega_1+\omega_2}{2}t\right)}.$$
+
+第二个余弦因子以接近两频率平均值的角频率快速振动；第一个因子变化缓慢，使合成振动的**振幅包络周期性增强和减弱**，这就是拍现象。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_beat_envelope_a00f3171-cf75-4b4e-bcf0-f123108c570d.png]]
+
+*图 37｜拍现象合成曲线与上下包络*
+
+> [!note] 包络振幅为何要取绝对值
+> 数学乘积中的慢变因子 $2A\cos(\Delta\omega t/2)$ 可以为负；物理上振幅非负，因此可观测的包络大小为 $2A|\cos(\Delta\omega t/2)|$。负号只意味着快速载波的相位翻转 $\pi$。
+
+## 3. 拍周期与拍频
+
+相邻两个**振幅大小峰值**之间的时间间隔为
+
+$$T_{\mathrm{拍}}=\frac{2\pi}{|\omega_2-\omega_1|}.$$
+
+拍频为
+
+$$\boxed{\nu_{\mathrm{拍}}=\frac1{T_{\mathrm{拍}}}=\frac{|\omega_2-\omega_1|}{2\pi}=|\nu_2-\nu_1|}.$$
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_beat_frequency_interval_2e36084b-9c00-45d2-9b38-f0585d67bb6b.png]]
+
+*图 38｜拍频与相邻振幅峰值间的时间*
+
+> [!warning] 拍频不是频率的平均值
+> $\nu_{\mathrm{拍}}$ 对应响度增强—减弱—再增强的慢变化，等于**频率差的绝对值**。快速振动的频率则接近 $(\nu_1+\nu_2)/2$。
+
+> [!example] 例8：两音叉的拍频测量
+> 已知标准音叉频率为 $256\,\mathrm{Hz}$，两音叉同时发声，$20\,\mathrm s$ 内听到 $10$ 次完整的拍，则
+>
+> $$\nu_{\mathrm{拍}}=10/20=0.50\,\mathrm{Hz}.$$
+>
+> 待测音叉可能为 $255.5\,\mathrm{Hz}$ 或 $256.5\,\mathrm{Hz}$。若给待测音叉增加少量质量，频率降低且拍声变慢，说明待测音叉原来的频率**高于**标准音叉，故原频率为 $256.5\,\mathrm{Hz}$。
+
+# 十、互相垂直的简谐振动合成
+
+## 1. 等频率、相位差固定时的轨迹
+
+两振动分别沿互相垂直的 $x$、$y$ 方向：
+
+$$x=A_1\cos(\omega t+\varphi_1),\qquad y=A_2\cos(\omega t+\varphi_2).$$
+
+把 $\Delta\varphi=\varphi_2-\varphi_1$ 作为固定相位差，消去时间变量：
+
+$$\boxed{\frac{x^2}{A_1^2}+\frac{y^2}{A_2^2}-\frac{2xy}{A_1A_2}\cos\Delta\varphi=\sin^2\Delta\varphi}.$$
+
+这是一族直线或椭圆轨迹，形状由两个振幅和相位差决定。**注意：此时合运动是二维平面运动，而不是把两个位移数值相加成单独的 $x(t)$。**
+
+## 2. 同相或反相：直线轨迹
+
+当 $\Delta\varphi=0$：
+
+$$\frac{y}{A_2}=\frac{x}{A_1}\quad\Longrightarrow\quad y=\frac{A_2}{A_1}x.$$
+
+当 $\Delta\varphi=\pi$：
+
+$$y=-\frac{A_2}{A_1}x.$$
+
+两者都沿穿过原点的固定直线往复运动，合运动可以视为沿该斜直线的一维简谐运动，其沿直线方向的振幅为 $\sqrt{A_1^2+A_2^2}$。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_orthogonal_in_phase_line_6b12d66e-6695-4dbb-b3d4-80327cda6a67.png]]
+
+*图 39｜两个垂直方向同频同相振动得到直线*
+
+## 3. 相差四分之一周期：椭圆或圆
+
+当 $\Delta\varphi=\pi/2$ 或 $3\pi/2$，$\cos\Delta\varphi=0$，轨迹方程为
+
+$$\boxed{\frac{x^2}{A_1^2}+\frac{y^2}{A_2^2}=1}.$$
+
+这是一条以两坐标轴为主轴的椭圆；特别地，当 $A_1=A_2$ 时，成为半径为 $A_1$ 的圆。两个相位差符号相反的情况，在轨迹几何形状相同的同时，运动绕行方向可以相反。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_orthogonal_quadrature_ellipse_2cdf3eb7-1c32-4980-bfff-7ee06736a324.png]]
+
+*图 40｜相位差π/2的两正交简谐振动合成椭圆*
+
+## 4. 一般相位差：倾斜椭圆
+
+当 $\Delta\varphi$ 既不是 $0$ 或 $\pi$，也不是 $\pi/2$ 或 $3\pi/2$ 时，一般得到**主轴倾斜的椭圆**。相位差改变，椭圆的倾斜方向和扁率会变化。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_orthogonal_phase_family_83c58625-f6a7-4042-aab8-cd3a9a470f0d.png]]
+
+*图 41｜五种相位差下的正交简谐运动轨迹*
+
+> [!tip] 由轨迹形状快速判断
+> 过原点的正斜率直线 → 同相；负斜率直线 → 反相；以坐标轴为主轴的椭圆（或圆） → 相位差为奇数倍 $\pi/2$。一般倾斜椭圆的精确相位差还要结合振幅或运动方向判断。
+
+# 十一、垂直方向不同频率合成与李萨如图形
+
+## 1. 频率比决定轨迹是否闭合
+
+一般写成
+
+$$x=A_1\cos(\omega_xt+\varphi_x),\qquad y=A_2\cos(\omega_yt+\varphi_y).$$
+
+当两角频率之比 $\omega_x/\omega_y$ 为**有理数**，存在共同重复周期，平面轨迹为闭合曲线；若频率比为无理数，轨迹通常不会在有限时间内精确闭合。
+
+当 $\omega_x:\omega_y=n_x:n_y$（整数比，且约为最简）时，可观察到稳定的**李萨如图形**；图形的瓣数、交点结构等与频率比和相位差有关，因此可用于频率比较。
+
+![[Assets/UniversityPhysics_20261028_Ch14Vibrations_4dedd02e9776dfd0_assets/images/physics_vibration_lissajous_frequency_ratios_4c04ab97-0adc-44b2-87f0-02e1920e5e36.png]]
+
+*图 42｜李萨如曲线1比1、2比1、3比2、3比1形状*
+
+## 2. 使用李萨如图形时要考虑什么
+
+1. **先看频率比**：例如 $1:1$ 可得到直线或椭圆；$2:1$、$3:2$ 会形成更复杂的闭合图案。
+2. **再看相位差**：同一频率比下改变初相，曲线外形可明显不同，因此不可仅凭一张图形粗略数瓣后就绝对断言频率比。
+3. **最后看振幅比**：它决定轨迹水平和竖直方向的尺寸，通常不改变最简频率比。
+
+对于示波器测频实验，使用一致的约定可以从轨迹与水平、竖直测试线的切点数或交点数推求频率比；具体数法需避开经过交点或极值点的特殊测试线。课程中常把两个方向的频率分别记作 $\nu_x$、$\nu_y$，注意不要把轨迹水平与竖直“瓣数”直接机械地对号入座。
+
+> [!note] 与拍现象的联系
+> 拍现象讨论**同一方向、接近频率**的叠加，观察的是合位移的振幅快慢变化；李萨如图形讨论**互相垂直的两个方向**，观察的是平面轨迹的形状。二者都揭示“不同频率的相对关系会改变合运动”，但可观测的对象不同。
+
+# 十二、典型题型与完整解题思路
+
+## 1. 由条件建立振动方程
+
+**统一流程**：确定研究坐标和正方向 → 求 $\omega$ 或 $T$ → 得 $A$ → 用 $x_0$ 和 $v_0$ 确定初相 → 写方程并验算。
+
+> [!example] 例9：初速度决定初相的象限
+> 已知 $\omega=5\,\mathrm{rad/s}$，$x_0=-0.03\,\mathrm m$，$v_0=+0.20\,\mathrm{m/s}$。
+>
+> $$A=\sqrt{(-0.03)^2+(0.20/5)^2}=0.05\,\mathrm m.$$
+>
+> $\cos\varphi_0=-0.6$、$\sin\varphi_0=-0.8$，因此 $\varphi_0$ 位于第三象限，可写成 $\varphi_0=\pi+\arctan(4/3)$。
+>
+> $$x=0.05\cos\left(5t+\pi+\arctan\frac43\right)\ \mathrm m.$$
+
+## 2. 系统参数改变后的比较
+
+遇到质量、弹簧刚度、摆长改变时，优先写**周期或角频率之比**，例如
+
+$$\frac{T_2}{T_1}=\sqrt{\frac{m_2k_1}{m_1k_2}}\quad(\text{弹簧振子}),\qquad \frac{T_2}{T_1}=\sqrt{\frac{l_2g_1}{l_1g_2}}\quad(\text{小角单摆}).$$
+
+如果还有碰撞、耗散或外力突然变化，要先分阶段讨论，再使用相应关系式；不要一上来假设机械能始终守恒。
+
+## 3. 振动合成题
+
+- **同方向、同频率**：用旋转矢量，先求 $A$ 和 $\varphi$，合运动仍简谐。
+- **同方向、不同频率**：先判断是否接近；接近时考虑和差化积与拍，不要强行设为单频简谐。
+- **垂直方向、同频率**：消去时间得到直线或椭圆。
+- **垂直方向、不同频率**：使用参数方程研究李萨如图形，关注频率比和初相差。
+
+## 4. 易错点归纳
+
+| 易错说法 | 正确理解 |
+|---|---|
+| 位移为零，振动物体一定静止 | 正常简谐振动在平衡位置的**速率最大** |
+| 只由 $x_0$ 就能唯一求初相 | 通常还需知道 $v_0$ 的符号 |
+| 速度超前位移就是速度先达到任何位置 | 超前描述两条周期曲线的**相位关系**，不是单独速度产生位置 |
+| $a=-\omega^2x$ 表示加速度大小恒定 | 加速度与位置成正比且反向，随时间变化 |
+| 单摆总能做简谐振动 | 小角度时才有简谐近似 |
+| 不考虑碰撞细节就认为新旧振幅相同 | 要用碰撞瞬间的守恒条件确定**新的初始状态** |
+| 动能与势能时刻都相等 | 只在特定位置相等，周期平均值相等 |
+| 阻尼自由振动的 $\omega_d$ 就是共振峰频率 | 两种不同物理频率，表达式也不同 |
+| 任意两个余弦相加仍是同频余弦 | 仅相同角频率时才保证仍为单频简谐振动 |
+| 拍频就是两频率的平均值 | 拍频等于**频率差的绝对值** |
+| 两方向垂直的位移可直接当同一方向相加 | 要组成二维位置矢量并研究轨迹 |
+
+# 十三、核心公式速查
+
+> [!summary] 一、基本运动学
+>
+> $$\begin{aligned}
+> x&=A\cos(\omega t+\varphi_0),\\
+> v&=-\omega A\sin(\omega t+\varphi_0),\\
+> a&=-\omega^2x,\\
+> T&=2\pi/\omega,\qquad \nu=1/T,\\
+> A&=\sqrt{x_0^2+v_0^2/\omega^2}.
+> \end{aligned}$$
+
+> [!summary] 二、典型系统
+>
+> $$\begin{aligned}
+> \omega_{\text{弹簧}}&=\sqrt{k/m},&T_{\text{弹簧}}&=2\pi\sqrt{m/k},\\
+> \omega_{\text{单摆}}&=\sqrt{g/l},&T_{\text{单摆}}&=2\pi\sqrt{l/g},\\
+> \omega_{\text{复摆}}&=\sqrt{mgl/J},&T_{\text{复摆}}&=2\pi\sqrt{J/(mgl)}.
+> \end{aligned}$$
+>
+> 单摆与复摆的上述周期公式均采用**小角度近似**。
+
+> [!summary] 三、能量及阻尼/受迫振动
+>
+> $$\begin{aligned}
+> E&=\frac12kA^2,\qquad \overline{E_k}=\overline{E_p}=E/2,\\
+> \omega_d&=\sqrt{\omega_0^2-\beta^2}\quad(\beta<\omega_0),\\
+> A(\omega)&=\frac{F_0/m}{\sqrt{(\omega_0^2-\omega^2)^2+4\beta^2\omega^2}},\\
+> \omega_r&=\sqrt{\omega_0^2-2\beta^2}\quad(\omega_0^2>2\beta^2).
+> \end{aligned}$$
+
+> [!summary] 四、振动合成
+>
+> $$\begin{aligned}
+> A_{\rm 同频}^2&=A_1^2+A_2^2+2A_1A_2\cos\Delta\varphi,\\
+> |A_1-A_2|&\le A\le A_1+A_2,\\
+> \nu_{\rm 拍}&=|\nu_2-\nu_1|,\\
+> \frac{x^2}{A_1^2}+\frac{y^2}{A_2^2}-\frac{2xy}{A_1A_2}\cos\Delta\varphi&=\sin^2\Delta\varphi.
+> \end{aligned}$$
+
+# 十四、自测与巩固
+
+下面的题目用于检查是否真正掌握知识间的联系；先独立作答，再展开参考答案。
+
+1. 位移满足 $x=0.06\cos(4\pi t-\pi/3)\,\mathrm m$。求振幅、频率、初位移、初速度及最大加速度大小。
+2. 对同一角频率的两个振动，已知 $A_1=3\,\mathrm{cm}$、$A_2=4\,\mathrm{cm}$，相位差为 $\pi/2$。求合振幅。
+3. 将一根劲度系数 $k$ 的均匀弹簧三等分，取两段串联，其等效刚度为多少？
+4. 某振子的振幅从 $A$ 变为 $A/2$，且系统参数不变。总能量变为原来的多少？
+5. 两个相近频率的音叉产生每秒 $4$ 次拍。已知其中一个为 $440\,\mathrm{Hz}$，另一个可能有哪些频率？
+6. 两个正交振动 $x=2\cos\omega t$、$y=3\sin\omega t$。写出轨迹方程，说明图形类型。
+
+> [!example]- 参考答案（展开核对）
+> **1.** $A=0.06\,\mathrm m$、$\omega=4\pi\,\mathrm{rad/s}$、$\nu=2\,\mathrm{Hz}$；$x_0=0.03\,\mathrm m$；$v_0=-\omega A\sin(-\pi/3)=0.12\pi\sqrt3\,\mathrm{m/s}$；$a_{\max}=\omega^2A=0.96\pi^2\,\mathrm{m/s^2}$。
+>
+> **2.** $A=\sqrt{3^2+4^2}=5\,\mathrm{cm}$。
+>
+> **3.** 每段刚度为 $3k$，两段串联 $k_{\mathrm{eq}}=3k/2$。
+>
+> **4.** $E\propto A^2$，变为原来的 $1/4$。
+>
+> **5.** $|\nu_2-440|=4$，可能为 $436\,\mathrm{Hz}$ 或 $444\,\mathrm{Hz}$。
+>
+> **6.** $x^2/4+y^2/9=1$，是以坐标轴为主轴的椭圆。
+
+---
+
+**阅读提示**：文中的所有示意图、曲线与结构图均为重新绘制的教学图。图片与正文分别归档时，图片引用使用 Obsidian 仓库路径（从 Vault 内 `Assets/` 目录开始），无需让 Markdown 与附件目录同层。正交运动、阻尼及受迫振动等章节中已明确给出其近似或模型条件，以免把特殊情形当作普遍规律。

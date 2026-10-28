@@ -1,0 +1,300 @@
+{
+  "type": "Original programmatically redrawn diagrams; no slide screenshots",
+  "figure_count": 42,
+  "figures": [
+    {
+      "figure": 1,
+      "key": "shm_cosine",
+      "caption": "简谐位移正弦曲线，标出振幅与周期",
+      "raster": "images/physics_vibration_shm_cosine_2c9dcf77-6f5a-4746-8c4b-1fb9cc5b7bea.png",
+      "editable_vector": "vector_sources/physics_vibration_shm_cosine_2c9dcf77-6f5a-4746-8c4b-1fb9cc5b7bea.svg"
+    },
+    {
+      "figure": 2,
+      "key": "characteristic_parameters",
+      "caption": "振幅 A、周期 T 与角频率关系",
+      "raster": "images/physics_vibration_characteristic_parameters_dcbeb472-466e-4359-a1f6-82ad805e6fb7.png",
+      "editable_vector": "vector_sources/physics_vibration_characteristic_parameters_dcbeb472-466e-4359-a1f6-82ad805e6fb7.svg"
+    },
+    {
+      "figure": 3,
+      "key": "x_v_a_phase",
+      "caption": "位移速度加速度随时间的相位关系",
+      "raster": "images/physics_vibration_x_v_a_phase_5e35badd-efef-423c-8682-705598fc866f.png",
+      "editable_vector": "vector_sources/physics_vibration_x_v_a_phase_5e35badd-efef-423c-8682-705598fc866f.svg"
+    },
+    {
+      "figure": 4,
+      "key": "phase_space_ellipse",
+      "caption": "位移速度椭圆相图",
+      "raster": "images/physics_vibration_phase_space_ellipse_958042da-77be-40ff-94a8-7adbac3e3137.png",
+      "editable_vector": "vector_sources/physics_vibration_phase_space_ellipse_958042da-77be-40ff-94a8-7adbac3e3137.svg"
+    },
+    {
+      "figure": 5,
+      "key": "phase_lead_lag",
+      "caption": "同频振动相位超前与时间平移",
+      "raster": "images/physics_vibration_phase_lead_lag_f49a2430-80ac-4cf3-96eb-41f58be652f7.png",
+      "editable_vector": "vector_sources/physics_vibration_phase_lead_lag_f49a2430-80ac-4cf3-96eb-41f58be652f7.svg"
+    },
+    {
+      "figure": 6,
+      "key": "rotating_phasor",
+      "caption": "旋转矢量长度和横轴投影",
+      "raster": "images/physics_vibration_rotating_phasor_e4453f4e-f2a7-4b1a-94ff-cc88bb3af3dd.png",
+      "editable_vector": "vector_sources/physics_vibration_rotating_phasor_e4453f4e-f2a7-4b1a-94ff-cc88bb3af3dd.svg"
+    },
+    {
+      "figure": 7,
+      "key": "four_phase_states",
+      "caption": "旋转矢量的0、π/2、π、3π/2及对应方向",
+      "raster": "images/physics_vibration_four_phase_states_8b12c77e-9dc0-4e04-92cd-07840cfb3403.png",
+      "editable_vector": "vector_sources/physics_vibration_four_phase_states_8b12c77e-9dc0-4e04-92cd-07840cfb3403.svg"
+    },
+    {
+      "figure": 8,
+      "key": "phase_quadrant_logic",
+      "caption": "位移速度符号和相位象限关系",
+      "raster": "images/physics_vibration_phase_quadrant_logic_b945c58c-9361-4e13-81a3-2a85e8ca29bc.png",
+      "editable_vector": "vector_sources/physics_vibration_phase_quadrant_logic_b945c58c-9361-4e13-81a3-2a85e8ca29bc.svg"
+    },
+    {
+      "figure": 9,
+      "key": "initial_conditions_amplitude",
+      "caption": "初始位移和速度确定幅值相位",
+      "raster": "images/physics_vibration_initial_conditions_amplitude_45ef61b0-e4ab-4307-9ebc-eff8fcb638a7.png",
+      "editable_vector": "vector_sources/physics_vibration_initial_conditions_amplitude_45ef61b0-e4ab-4307-9ebc-eff8fcb638a7.svg"
+    },
+    {
+      "figure": 10,
+      "key": "mass_spring_three_positions",
+      "caption": "弹簧振子压缩平衡伸长三状态",
+      "raster": "images/physics_vibration_mass_spring_three_positions_882f72bb-98a4-49a9-823a-231095239d2d.png",
+      "editable_vector": "vector_sources/physics_vibration_mass_spring_three_positions_882f72bb-98a4-49a9-823a-231095239d2d.svg"
+    },
+    {
+      "figure": 11,
+      "key": "restoring_force_line",
+      "caption": "恢复力正负与位移反向",
+      "raster": "images/physics_vibration_restoring_force_line_b9a194e9-bb53-4cbf-a8f8-33e585fc1eb1.png",
+      "editable_vector": "vector_sources/physics_vibration_restoring_force_line_b9a194e9-bb53-4cbf-a8f8-33e585fc1eb1.svg"
+    },
+    {
+      "figure": 12,
+      "key": "simple_pendulum_force",
+      "caption": "单摆切向分力与小角度近似",
+      "raster": "images/physics_vibration_simple_pendulum_force_5e65ed98-9d05-46db-81bc-7be205192dbe.png",
+      "editable_vector": "vector_sources/physics_vibration_simple_pendulum_force_5e65ed98-9d05-46db-81bc-7be205192dbe.svg"
+    },
+    {
+      "figure": 13,
+      "key": "physical_pendulum",
+      "caption": "复摆转轴质心和重力矩",
+      "raster": "images/physics_vibration_physical_pendulum_cc0bc9e3-d0a2-4100-bcab-f35f8e79278d.png",
+      "editable_vector": "vector_sources/physics_vibration_physical_pendulum_cc0bc9e3-d0a2-4100-bcab-f35f8e79278d.svg"
+    },
+    {
+      "figure": 14,
+      "key": "natural_frequencies_compare",
+      "caption": "三类振子的固有角频率比较",
+      "raster": "images/physics_vibration_natural_frequencies_compare_d6eaf10f-068b-4725-bd91-070fb590152a.png",
+      "editable_vector": "vector_sources/physics_vibration_natural_frequencies_compare_d6eaf10f-068b-4725-bd91-070fb590152a.svg"
+    },
+    {
+      "figure": 15,
+      "key": "energy_vs_position",
+      "caption": "动势能随位置变化及能量守恒",
+      "raster": "images/physics_vibration_energy_vs_position_20211dcf-2607-4a43-a40c-6492e7c7a676.png",
+      "editable_vector": "vector_sources/physics_vibration_energy_vs_position_20211dcf-2607-4a43-a40c-6492e7c7a676.svg"
+    },
+    {
+      "figure": 16,
+      "key": "energy_vs_time",
+      "caption": "动能和势能的时间变化频率为位移的两倍",
+      "raster": "images/physics_vibration_energy_vs_time_594c7429-1125-44b1-8f3b-7e134b47de79.png",
+      "editable_vector": "vector_sources/physics_vibration_energy_vs_time_594c7429-1125-44b1-8f3b-7e134b47de79.svg"
+    },
+    {
+      "figure": 17,
+      "key": "energy_cycle_states",
+      "caption": "五个时刻的振子能量分配",
+      "raster": "images/physics_vibration_energy_cycle_states_9ba4d0cc-afa4-4f54-bc07-a509035544a6.png",
+      "editable_vector": "vector_sources/physics_vibration_energy_cycle_states_9ba4d0cc-afa4-4f54-bc07-a509035544a6.svg"
+    },
+    {
+      "figure": 18,
+      "key": "springs_serial_parallel",
+      "caption": "两根相同弹簧串联与并联的刚度对比",
+      "raster": "images/physics_vibration_springs_serial_parallel_dd6b785f-5631-442e-9c39-48f2903a39c5.png",
+      "editable_vector": "vector_sources/physics_vibration_springs_serial_parallel_dd6b785f-5631-442e-9c39-48f2903a39c5.svg"
+    },
+    {
+      "figure": 19,
+      "key": "spring_length_stiffness",
+      "caption": "均匀弹簧长度与弹性系数成反比",
+      "raster": "images/physics_vibration_spring_length_stiffness_4f3700f9-2c72-4675-8383-f9edd2b9b09d.png",
+      "editable_vector": "vector_sources/physics_vibration_spring_length_stiffness_4f3700f9-2c72-4675-8383-f9edd2b9b09d.svg"
+    },
+    {
+      "figure": 20,
+      "key": "inelastic_capture_oscillator",
+      "caption": "小物体落入弹簧振子质量增加速度减小",
+      "raster": "images/physics_vibration_inelastic_capture_oscillator_151ef7e9-df1c-4695-bd65-a33abb1c4ce3.png",
+      "editable_vector": "vector_sources/physics_vibration_inelastic_capture_oscillator_151ef7e9-df1c-4695-bd65-a33abb1c4ce3.svg"
+    },
+    {
+      "figure": 21,
+      "key": "damping_regimes",
+      "caption": "阻尼振动三种运动状态",
+      "raster": "images/physics_vibration_damping_regimes_9f91a05b-d716-4ac9-b9ab-0b8812826031.png",
+      "editable_vector": "vector_sources/physics_vibration_damping_regimes_9f91a05b-d716-4ac9-b9ab-0b8812826031.svg"
+    },
+    {
+      "figure": 22,
+      "key": "underdamped_envelope",
+      "caption": "欠阻尼振动衰减包络",
+      "raster": "images/physics_vibration_underdamped_envelope_98fb55fe-e7ee-4b9b-813e-cc22b8bac2fd.png",
+      "editable_vector": "vector_sources/physics_vibration_underdamped_envelope_98fb55fe-e7ee-4b9b-813e-cc22b8bac2fd.svg"
+    },
+    {
+      "figure": 23,
+      "key": "forced_transient_steady",
+      "caption": "受迫振动从暂态到稳态",
+      "raster": "images/physics_vibration_forced_transient_steady_ce582c99-6303-45f0-9bec-e7497060c7d9.png",
+      "editable_vector": "vector_sources/physics_vibration_forced_transient_steady_ce582c99-6303-45f0-9bec-e7497060c7d9.svg"
+    },
+    {
+      "figure": 24,
+      "key": "resonance_amplitude_curves",
+      "caption": "不同阻尼下受迫振动振幅共振曲线",
+      "raster": "images/physics_vibration_resonance_amplitude_curves_79bdbb8f-6de6-4902-b66a-3b6dd8fc9674.png",
+      "editable_vector": "vector_sources/physics_vibration_resonance_amplitude_curves_79bdbb8f-6de6-4902-b66a-3b6dd8fc9674.svg"
+    },
+    {
+      "figure": 25,
+      "key": "forced_phase_lag",
+      "caption": "受迫稳态响应相位滞后随角频率变化",
+      "raster": "images/physics_vibration_forced_phase_lag_728c0645-8cc4-42c8-be56-5bde24fc09d7.png",
+      "editable_vector": "vector_sources/physics_vibration_forced_phase_lag_728c0645-8cc4-42c8-be56-5bde24fc09d7.svg"
+    },
+    {
+      "figure": 26,
+      "key": "phasor_vector_addition",
+      "caption": "同频振动等效旋转矢量求和",
+      "raster": "images/physics_vibration_phasor_vector_addition_4d69666d-44bd-4e9c-8157-c62cc91c3fa4.png",
+      "editable_vector": "vector_sources/physics_vibration_phasor_vector_addition_4d69666d-44bd-4e9c-8157-c62cc91c3fa4.svg"
+    },
+    {
+      "figure": 27,
+      "key": "constructive_superposition",
+      "caption": "两条同相曲线相加振幅增加",
+      "raster": "images/physics_vibration_constructive_superposition_3827d613-8aee-4798-81dd-e0524c614170.png",
+      "editable_vector": "vector_sources/physics_vibration_constructive_superposition_3827d613-8aee-4798-81dd-e0524c614170.svg"
+    },
+    {
+      "figure": 28,
+      "key": "destructive_superposition",
+      "caption": "同频振动反相叠加振幅差",
+      "raster": "images/physics_vibration_destructive_superposition_04eb97f2-ebf9-4f85-a39a-83541da78880.png",
+      "editable_vector": "vector_sources/physics_vibration_destructive_superposition_04eb97f2-ebf9-4f85-a39a-83541da78880.svg"
+    },
+    {
+      "figure": 29,
+      "key": "amplitude_vs_phase_difference",
+      "caption": "两个同频振幅相位差关系图",
+      "raster": "images/physics_vibration_amplitude_vs_phase_difference_9c212f77-ff99-4ebe-b855-5eb962c62550.png",
+      "editable_vector": "vector_sources/physics_vibration_amplitude_vs_phase_difference_9c212f77-ff99-4ebe-b855-5eb962c62550.svg"
+    },
+    {
+      "figure": 30,
+      "key": "three_samefreq_vectors",
+      "caption": "三旋转矢量合成为相位π/2幅值0.2",
+      "raster": "images/physics_vibration_three_samefreq_vectors_3b3ed8b4-ad31-4d0e-b348-463c3d5ba359.png",
+      "editable_vector": "vector_sources/physics_vibration_three_samefreq_vectors_3b3ed8b4-ad31-4d0e-b348-463c3d5ba359.svg"
+    },
+    {
+      "figure": 31,
+      "key": "different_freq_superposition",
+      "caption": "不同频率振动叠加波形",
+      "raster": "images/physics_vibration_different_freq_superposition_8cc6c38b-0020-4fdd-a655-1ed46345f4ac.png",
+      "editable_vector": "vector_sources/physics_vibration_different_freq_superposition_8cc6c38b-0020-4fdd-a655-1ed46345f4ac.svg"
+    },
+    {
+      "figure": 32,
+      "key": "beat_envelope",
+      "caption": "拍现象合成曲线与上下包络",
+      "raster": "images/physics_vibration_beat_envelope_a00f3171-cf75-4b4e-bcf0-f123108c570d.png",
+      "editable_vector": "vector_sources/physics_vibration_beat_envelope_a00f3171-cf75-4b4e-bcf0-f123108c570d.svg"
+    },
+    {
+      "figure": 33,
+      "key": "beat_frequency_interval",
+      "caption": "拍频与相邻振幅峰值间的时间",
+      "raster": "images/physics_vibration_beat_frequency_interval_2e36084b-9c00-45d2-9b38-f0585d67bb6b.png",
+      "editable_vector": "vector_sources/physics_vibration_beat_frequency_interval_2e36084b-9c00-45d2-9b38-f0585d67bb6b.svg"
+    },
+    {
+      "figure": 34,
+      "key": "orthogonal_in_phase_line",
+      "caption": "两个垂直方向同频同相振动得到直线",
+      "raster": "images/physics_vibration_orthogonal_in_phase_line_6b12d66e-6695-4dbb-b3d4-80327cda6a67.png",
+      "editable_vector": "vector_sources/physics_vibration_orthogonal_in_phase_line_6b12d66e-6695-4dbb-b3d4-80327cda6a67.svg"
+    },
+    {
+      "figure": 35,
+      "key": "orthogonal_quadrature_ellipse",
+      "caption": "相位差π/2的两正交简谐振动合成椭圆",
+      "raster": "images/physics_vibration_orthogonal_quadrature_ellipse_2cdf3eb7-1c32-4980-bfff-7ee06736a324.png",
+      "editable_vector": "vector_sources/physics_vibration_orthogonal_quadrature_ellipse_2cdf3eb7-1c32-4980-bfff-7ee06736a324.svg"
+    },
+    {
+      "figure": 36,
+      "key": "orthogonal_phase_family",
+      "caption": "五种相位差下的正交简谐运动轨迹",
+      "raster": "images/physics_vibration_orthogonal_phase_family_83c58625-f6a7-4042-aab8-cd3a9a470f0d.png",
+      "editable_vector": "vector_sources/physics_vibration_orthogonal_phase_family_83c58625-f6a7-4042-aab8-cd3a9a470f0d.svg"
+    },
+    {
+      "figure": 37,
+      "key": "lissajous_frequency_ratios",
+      "caption": "李萨如曲线1比1、2比1、3比2、3比1形状",
+      "raster": "images/physics_vibration_lissajous_frequency_ratios_4c04ab97-0adc-44b2-87f0-02e1920e5e36.png",
+      "editable_vector": "vector_sources/physics_vibration_lissajous_frequency_ratios_4c04ab97-0adc-44b2-87f0-02e1920e5e36.svg"
+    },
+    {
+      "figure": 38,
+      "key": "shm_formula_reading",
+      "caption": "简谐运动方程符号拆解",
+      "raster": "images/physics_vibration_shm_formula_reading_68fad20e-2c62-4000-a3e9-6cc8446d3b96.png",
+      "editable_vector": "vector_sources/physics_vibration_shm_formula_reading_68fad20e-2c62-4000-a3e9-6cc8446d3b96.svg"
+    },
+    {
+      "figure": 39,
+      "key": "curve_initial_readout",
+      "caption": "简谐曲线的初值和斜率判定初相",
+      "raster": "images/physics_vibration_curve_initial_readout_b6e05640-f099-4cea-b5f7-97f9b10c0a53.png",
+      "editable_vector": "vector_sources/physics_vibration_curve_initial_readout_b6e05640-f099-4cea-b5f7-97f9b10c0a53.svg"
+    },
+    {
+      "figure": 40,
+      "key": "effective_spring_rules",
+      "caption": "串并联弹簧的力和位移关系",
+      "raster": "images/physics_vibration_effective_spring_rules_57ee9177-763c-4006-9dd5-e0917e43c760.png",
+      "editable_vector": "vector_sources/physics_vibration_effective_spring_rules_57ee9177-763c-4006-9dd5-e0917e43c760.svg"
+    },
+    {
+      "figure": 41,
+      "key": "damped_vs_resonant_frequency",
+      "caption": "阻尼自由振动频率与共振峰频率对比",
+      "raster": "images/physics_vibration_damped_vs_resonant_frequency_795ab719-48a5-4310-82bc-081ca03af542.png",
+      "editable_vector": "vector_sources/physics_vibration_damped_vs_resonant_frequency_795ab719-48a5-4310-82bc-081ca03af542.svg"
+    },
+    {
+      "figure": 42,
+      "key": "initial_phase_examples",
+      "caption": "不同初相但相同振幅频率的振动图像",
+      "raster": "images/physics_vibration_initial_phase_examples_cbf16bbc-8ae9-4ebd-9751-3c3a2a139ec4.png",
+      "editable_vector": "vector_sources/physics_vibration_initial_phase_examples_cbf16bbc-8ae9-4ebd-9751-3c3a2a139ec4.svg"
+    }
+  ]
+}

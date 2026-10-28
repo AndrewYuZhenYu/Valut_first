@@ -11,10 +11,9 @@ views:
       direction: ASC
     order:
       - file.name
-      - formula.status
     sort:
-      - property: formula.status
-        direction: ASC
+      - property: file.mtime
+        direction: DESC
       - property: file.name
         direction: DESC
   - type: table

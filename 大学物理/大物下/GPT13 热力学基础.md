@@ -52,7 +52,7 @@ $$
 | $A$ | 系统对外做功 | 外界对系统做功 |
 | $\Delta U$ | 内能增加 | 内能减少 |
 
-![活塞中气体、能量流入与体积功示意图](./_assets/images/physics_13_01_piston_first_law.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_piston_first_law_e74cb252-886c-46d1-9d9c-d0d922512d55.png]]
 
 > [!note] 热力学第一定律的物理意义
 > 热量和功都能改变系统内能。第一定律是能量守恒在热过程中的表达，它排除了**不消耗能量而不断对外做功的第一类永动机**。
@@ -89,7 +89,7 @@ $$
 
 因此，在 $p$–$V$ 图上，**沿过程曲线到体积轴的有向面积是体积功**：向右膨胀为正，向左压缩为负；竖直等容线的功为零。
 
-![不同路径下的体积功不同](./_assets/images/physics_13_02_path_dependent_work.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_path_dependent_work_075b93a6-ed66-46ce-b3e8-5906f69f5482.png]]
 
 > [!important] 路径与状态的区别
 > 即使起点和终点完全相同，不同过程曲线下的面积也可能不同，即 $A_a\ne A_b$；但由于内能是状态函数，$\Delta U_a=\Delta U_b$。于是由第一定律，$Q_a$ 与 $Q_b$ 一般也不同。
@@ -166,7 +166,7 @@ $$
 \boxed{C_{p,m}=\frac{i+2}{2}R}.
 $$
 
-![等容与等压升温的差异示意图](./_assets/images/physics_13_06_heat_capacities.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_heat_capacities_e9186420-f79d-4d70-ab90-f397daeec88c.png]]
 
 二者相减得到**理想气体迈耶公式**：
 
@@ -203,13 +203,13 @@ $$
 
 理解以下四种过程，先判断**保持不变的量**，再判断 $A$，最后用第一定律求 $Q$。
 
-![四种典型过程的曲线形状比较](./_assets/images/physics_13_07_four_processes.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_four_processes_779b1649-7b6a-4b56-adae-ee79eb91164b.png]]
 
 ### 1. 等容过程：$V$ 为常量
 
 体积不变，状态方程推出 $p/T$ 为常量，因此 $p$–$V$ 图上为**竖直线**。
 
-![等容过程图](./_assets/images/physics_13_03_isochoric.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_isochoric_266d91ed-d6e2-4a35-b95b-0f32208a9318.png]]
 
 $$
 \frac{p_1}{T_1}=\frac{p_2}{T_2},\qquad
@@ -226,7 +226,7 @@ $$
 
 由状态方程有 $V/T$ 为常量，$p$–$V$ 图上为**水平线**。
 
-![等压过程与矩形面积表示的功](./_assets/images/physics_13_04_isobaric.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_isobaric_6db38997-2815-405c-9ec2-c57fdd962a5c.png]]
 
 $$
 \frac{V_1}{T_1}=\frac{V_2}{T_2},
@@ -258,7 +258,7 @@ $$
 
 一定量理想气体满足 $pV=\nu RT=\text{常量}$，所以等温线是**双曲线**。
 
-![等温双曲线与气体膨胀的功](./_assets/images/physics_13_05_isothermal.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_isothermal_ecde7c02-9065-4811-b51c-89a4fdbe4208.png]]
 
 由于 $\Delta T=0$，
 
@@ -281,7 +281,7 @@ $$
 > [!warning] 等温并不等于绝热
 > 等温只要求温度不变。理想气体等温膨胀时，虽然内能不变，但要不断吸热才能补偿对外做的功。
 
-![相同初末态采用不同压缩路径，功不同](./_assets/images/physics_13_12_compression_paths.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_compression_paths_a3d3e548-aadb-440f-8c19-1183745a59b0.png]]
 
 > [!example] 例 3：同终态、不同压缩路径
 > 一定量氮气最初 $p_1=1.013\times10^5\,\mathrm{Pa}$、$V_1=100\,\mathrm{cm^3}$，等温压缩至 $V_2=20\,\mathrm{cm^3}$。
@@ -325,7 +325,7 @@ $$
 
 可逆绝热膨胀时 $A>0$、$\Delta U<0$，温度下降；可逆绝热压缩时 $A<0$、$\Delta U>0$，温度上升。
 
-![同一初态的等温线和绝热线斜率比较](./_assets/images/physics_13_08_adiabat_steeper.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_adiabat_steeper_49ca65a1-3f7b-49ee-bcd6-3cd3140ae3b3.png]]
 
 在同一状态点比较斜率：
 
@@ -339,7 +339,7 @@ $$
 > [!danger] 不能把绝热过程一律代入 $pV^\gamma=\text{常量}$
 > 此式还要求理想气体、热容近似不变、过程可逆且准静态。**绝热自由膨胀**虽然 $Q=0$，但不是上述准静态绝热过程；不能套用泊松公式。
 
-![绝热自由膨胀：不做功且内能不变](./_assets/images/physics_13_09_free_expansion.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_free_expansion_eaa97123-e3ee-4e01-86b6-bed3140bacf6.png]]
 
 理想气体向真空**绝热自由膨胀**，对真空做的边界功为零：$Q=A=0$，于是 $\Delta U=0$、$T_2=T_1$。但体积增大、压强下降；它是不可逆过程。
 
@@ -366,7 +366,7 @@ $$\boxed{pV^n=\text{常量}},$$
 
 这里的 **$n$ 是多方指数**，不是物质的量；物质的量仍记为 $\nu$。
 
-![不同多方指数下的曲线示意](./_assets/images/physics_13_11_polytropic.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_polytropic_e8794b2a-df40-489b-8548-81c29b9b702d.png]]
 
 当 $n\neq1$ 时，
 
@@ -390,7 +390,7 @@ $$
 
 ### 6. 曲线题：非等值过程与温度极值
 
-![直线过程的温度最大点示意](./_assets/images/physics_13_10_straight_path_tmax.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_straight_path_tmax_5a88f8f8-7c57-45ad-92dd-846168096c01.png]]
 
 不是所有 $p$–$V$ 过程都属于等容、等压、等温、绝热。对任意已知过程方程 $p=p(V)$，只要气体满足理想状态方程，就能写出
 
@@ -422,11 +422,11 @@ $$
 
 如果循环在 $p$–$V$ 图上构成封闭曲线，则封闭曲线的**有向面积**就是净功。循环的方向决定正负。
 
-![顺时针正循环，面积为正功](./_assets/images/physics_13_13_clockwise_cycle.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_clockwise_cycle_e6306bca-63ae-472d-9026-8d64f22e943b.png]]
 
 **正循环**：顺时针，气体对外界做净正功，$A_{\rm 净}>0$，$Q_{\rm 净}>0$。这对应典型热机。
 
-![逆时针逆循环，面积为负功](./_assets/images/physics_13_14_counterclockwise_cycle.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_counterclockwise_cycle_2e5dfffc-5a7e-415b-9881-650ec48d5360.png]]
 
 **逆循环**：逆时针，外界对工作物质做净功，$A_{\rm 净}<0$。这对应制冷机、热泵所采用的方向。
 
@@ -439,7 +439,7 @@ $$
 
 $$A=Q_{\rm 吸}-|Q_{\rm 放}|.$$
 
-![热机能量流向示意图](./_assets/images/physics_13_15_heat_engine.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_heat_engine_5ac703d4-e6d5-425b-b0b0-82c9eca10cd3.png]]
 
 定义热机效率
 
@@ -472,7 +472,7 @@ $$
 3. $c\to d$：绝热膨胀，对外做功。
 4. $d\to a$：等容放热，回到初态。
 
-![奥托循环的四阶段 p-V 图](./_assets/images/physics_13_16_otto_cycle.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_otto_cycle_5c8750c3-5148-4efa-bf6e-b77d78003310.png]]
 
 因为绝热段 $Q=0$，吸放热量集中在两个等容段：
 
@@ -491,7 +491,7 @@ $$
 
 **卡诺正循环**由两段可逆等温过程和两段可逆绝热过程组成，工作物质与两个恒温热源交换热量。
 
-![卡诺正循环 p-V 曲线](./_assets/images/physics_13_17_carnot_pv.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_carnot_pv_6ea9f946-4325-4925-8d82-94beaa15f419.png]]
 
 沿图中 $1\to2\to3\to4\to1$：
 
@@ -532,7 +532,7 @@ $$
 
 $$|A|=|Q_{\rm 放}|-Q_{\rm 吸}.$$
 
-![制冷机的功与热量流向](./_assets/images/physics_13_18_refrigerator.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_refrigerator_7de24bb7-3642-4fdc-9cc5-481306e77162.png]]
 
 **制冷系数**定义为
 
@@ -570,7 +570,7 @@ $$
 
 ### 2. 两种等价表述
 
-![热力学第二定律的两种表述](./_assets/images/physics_13_21_second_law_forms.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_second_law_forms_da7a5dd7-5b4f-4e94-ab02-d4a72641b91c.png]]
 
 **克劳修斯表述**：不能把热量从低温物体传到高温物体，而不引起其他变化。换言之，热量**不能自发地**从低温物体传向高温物体。
 
@@ -586,7 +586,7 @@ $$
 
 如果系统发生某过程后，存在逆过程，使系统和外界**同时**完全恢复各自初态，则该过程可逆。实际热现象中的摩擦、热传导、扩散、混合、自由膨胀通常不可逆。
 
-![两种途径可以连接同一初末态，但能量交换依赖路径](./_assets/images/physics_13_20_reversible_vs_irreversible.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_reversible_vs_irreversible_25d8c43e-cb91-45fd-a68f-8ce30cd92069.png]]
 
 > [!note] 不可逆不等于“系统回不去”
 > 不可逆过程发生后，系统本身可以借助外界作用回到初态；但这样做往往伴随外界发生额外变化，无法使**系统与外界同时完全恢复**。这才是判断可逆性的要点。
@@ -646,7 +646,7 @@ $$
 
 熵的国际单位是 $\mathrm{J/K}$。熵的**变化量**仅取决于始末平衡态，与计算时选择哪条可逆路径无关。
 
-![利用连接相同始末态的可逆路径求熵变](./_assets/images/physics_13_22_entropy_path.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_entropy_path_04debc59-faec-43d2-bd8b-a606399fc028.png]]
 
 > [!danger] 计算熵变的根本规则
 > 即使实际过程是不可逆的，只要能确定初、末平衡态，也可以**另行设计一条可逆路径**来计算两态的熵差。不能把不可逆实际过程中交换的 $\delta Q$ 不加限定地直接代入 $\Delta S=\int\delta Q/T$。
@@ -699,7 +699,7 @@ $$
 | 可逆绝热 | $\Delta S=0$ |
 | 绝热自由膨胀 | $\Delta S=\nu R\ln(V_2/V_1)>0$ |
 
-![理想气体绝热自由膨胀与熵增加](./_assets/images/physics_13_24_free_expansion_entropy.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_free_expansion_entropy_302f6be9-5bc9-4cb5-aa37-215ec67c5ca0.png]]
 
 > [!example] 例 8：不可逆绝热自由膨胀怎样算熵变
 > 理想气体从 $(T_0,V_1)$ 向真空自由膨胀到 $(T_0,V_2)$，实际过程 $Q=0$、$A=0$、$\Delta U=0$。不能据此说 $\Delta S=0$。
@@ -730,15 +730,15 @@ $$
 
 温熵图中曲线下方的有向面积对应可逆热量。可逆吸热过程向熵增方向移动，热量为正；可逆放热过程相反。
 
-![温熵曲线下方面积表示可逆热量](./_assets/images/physics_13_23_ts_heat_area.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_ts_heat_area_c1b1ad18-f42f-4da0-acac-fc94c24390a1.png]]
 
 下图把 $p$–$V$ 与 $T$–$S$ 的面积意义放在一起比较。
 
-![p-V 图与 T-S 图的面积分别对应什么](./_assets/images/physics_13_28_pv_ts_compare.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_pv_ts_compare_45566399-a78a-400b-a0ab-3db58c7fe184.png]]
 
 在 $T$–$S$ 图中：可逆等温过程是**水平线**，可逆绝热（等熵）过程是**竖直线**。因此卡诺循环是矩形。
 
-![卡诺循环的温熵矩形图](./_assets/images/physics_13_19_carnot_ts.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_carnot_ts_61a2fadb-7ab5-417e-9548-5fb7e5a14b76.png]]
 
 高温段吸热 $Q_{\rm 吸}=T_{\rm 高}(S_2-S_1)$，低温段放热量的绝对值 $|Q_{\rm 放}|=T_{\rm 低}(S_2-S_1)$，所以循环面积表示净功：
 
@@ -775,7 +775,7 @@ $$
 
 等号对应可逆过程，严格大于零对应内部发生不可逆变化的过程。实际孤立系统的自发变化趋于使熵增加，直到达到与宏观约束相容的平衡态。
 
-![孤立系统熵增加原理示意](./_assets/images/physics_13_27_entropy_increase.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_entropy_increase_3ef9fd0d-da58-4758-ae45-6a158997d95f.png]]
 
 > [!important] 热力学第二定律的熵判据
 > **孤立系统的熵不能自发减少**。注意这里强调“孤立系统”；一个开放系统或与外界交换热量的封闭系统，自己的熵可以减少，只要把外界的熵变化一并考虑，总的熵产生仍不为负。
@@ -794,7 +794,7 @@ $$
 
 这里采用简单的“每个粒子可出现在左或右”的示意模型，用于说明不同宏观态的多重性，不等于真实气体微观态的完整计数方法。
 
-![两室粒子分布的微观态数随分布比例变化](./_assets/images/physics_13_25_microstate_count.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_microstate_count_23c4bf7f-c4b4-4bdd-9bd5-e65f20a7bcc5.png]]
 
 左右粒子数接近均分时，通常具有更多的微观配置；全部粒子集中到一侧虽然并非逻辑上不可能，却是极不典型的宏观状态。
 
@@ -817,7 +817,7 @@ $$
 
 其中 $k=1.38\times10^{-23}\,\mathrm{J/K}$ 为玻尔兹曼常量，$\Omega$ 为所采用统计模型中宏观态对应的微观态数；在连续经典相空间的严格处理里还涉及相空间测度与归一化。
 
-![玻尔兹曼熵与微观态数的关系](./_assets/images/physics_13_26_boltzmann_entropy.png)
+![[Assets/UniversityPhysics_20261028_Ch13Thermodynamics_7d1c9567044f217c_assets/images/physics_thermo_boltzmann_entropy_0235078c-690b-4ea0-be76-ac0f77e25758.png]]
 
 因 $\ln\Omega$ 随 $\Omega$ 增大而增大，越典型、越容易由大量微观态实现的宏观状态，通常具有更高的熵。
 

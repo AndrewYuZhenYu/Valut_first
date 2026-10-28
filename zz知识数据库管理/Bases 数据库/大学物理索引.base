@@ -1,11 +1,21 @@
+formulas:
+  status: ""
 views:
   - type: table
     name: 视图
     filters:
       and:
         - file.inFolder("大学物理")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - formula.status
     sort:
-      - property: file.name
+      - property: formula.status
         direction: ASC
+      - property: file.name
+        direction: DESC
   - type: table
     name: 视图 2

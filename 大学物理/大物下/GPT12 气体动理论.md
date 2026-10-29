@@ -1,0 +1,873 @@
+# 第十二章　气体动理论
+
+> [!abstract] 本章知识主线
+> **平衡态与状态参数 → 理想气体物态方程 → 分子运动的统计模型 → 压强和温度的微观解释 → 能量均分与内能 → 经典速率分布 → 分子碰撞及平均自由程。**
+>
+> 本章从大量微观分子的无规则运动出发，解释压强、温度和内能等宏观热学量。宏观规律依靠的是统计平均，而不是某一个分子的运动状态。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_concept_map_ebaa55cd-4562-47fd-8dd6-3ca9eb7b7112.png]]
+
+## 12.1 理想气体的物态方程
+
+### 12.1.1 热力学系统与平衡态
+
+**热力学系统**是被选定为研究对象的宏观物质体系，由大量微观粒子组成。系统之外、能够与系统发生相互作用的部分称为**外界**。系统与外界可能交换能量，也可能交换物质。
+
+**热力学平衡态**是指：当系统与外界没有宏观净能量和物质交换、外界条件稳定时，经过足够长时间，系统宏观性质不再随时间变化的状态。即使达到平衡，系统内部的分子仍在持续而无规则地运动；不再发生的是可观测的**宏观净变化**。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_system_particles_15dbca8c-0d4b-447f-9ce0-dbd1e9e080f4.png]]
+
+如容器被隔板分成左右两部分，初始只在左室充气；拆除隔板以后，气体自行扩散到整个容器，最终达到空间上近似均匀的平衡分布。这个过程中的中间状态一般不是平衡态。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_equilibrium_86120df8-cf0d-4912-a51a-3decf3de4987.png]]
+
+**稳恒态**与平衡态不同。稳恒态的宏观性质虽然也可以不随时间变化，但系统仍可能持续地与外界交换能量或物质，例如存在恒定热流的传热体系。平衡态则不存在这样的宏观净流。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_eq_steady_1aebc3b8-8fe9-42e9-97bd-50c48620b381.png]]
+
+> [!warning] 不能混淆的三个判断
+> - **分子还在运动**不意味着系统不是平衡态。
+> - **宏观量不随时间改变**并不自动说明系统是热力学平衡态；稳恒态也可能满足这一点。
+> - **系统正在经历缓慢变化**也不代表过程中的每个实际状态都绝对平衡。足够缓慢时，可以用准静态近似描述。
+
+### 12.1.2 状态参量与准静态过程
+
+在平衡态下，描述系统宏观状态的物理量称为**状态参量**。常见的参量如下。
+
+| 类别 | 常见量 | 说明 |
+|---|---|---|
+| 几何量 | 体积 $V$ | 系统占据的空间大小 |
+| 力学量 | 压强 $p$ | 气体对容器壁单位面积的平均作用力 |
+| 热学量 | 热力学温度 $T$ | 反映系统冷热程度的状态量 |
+| 化学量 | 物质的量 $\nu$、组分的摩尔分数 | 与粒子数及组成有关 |
+
+**准静态过程**：系统变化得足够缓慢，任一中间状态都可以视为无限接近平衡态，能够用一系列平衡态参量来描述。在 $p-V$、$p-T$ 或 $V-T$ 状态图上，准静态过程表现为连续曲线。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_process_pv_fb4bc732-859f-4217-a573-a7690f7cb76c.png]]
+
+- **等温过程**：$T$ 保持不变。
+- **等容过程**：$V$ 保持不变。
+- **等压过程**：$p$ 保持不变。
+
+这些名称只规定某个参量不变，不表示实际过程一定可以任意快地进行。对于理想气体的平衡态，任意三个参量中，固定气体总量后只有两个独立。
+
+### 12.1.3 温度、热平衡与温标
+
+若物体 A 和 B 分别与 C 处于热平衡，则 A 和 B 彼此也处于热平衡。这是**热力学第零定律**。它为用共同的温度描述热平衡提供基础。
+
+**经验温标**依赖特定测温物质的测温属性，例如液柱长度、电阻、气体压强或气体体积。建立经验温标通常需要选择测温属性、规定固定点并给出插值规律。不同测温物质的读数在某些范围内可能不完全一致。
+
+**热力学温标**不依赖某一种具体测温物质，单位为开尔文（K）。摄氏温度 $t$ 与热力学温度 $T$ 的关系为
+
+$$
+\boxed{\frac{T}{\mathrm K}=\frac{t}{\,^{\circ}\mathrm C}+273.15}
+$$
+
+温差具有同样的数值大小：$\Delta T/\mathrm K=\Delta t/\,^{\circ}\mathrm C$。在普通近似计算中可取 $273$，但温标换算的精确常数是 $273.15$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_temperature_scales_0f9776b7-a319-4682-85e5-ba3399799ad2.png]]
+
+> [!important] 温度计算的约束
+> 理想气体物态方程、麦克斯韦速率分布及能量均分公式中的 $T$ 都是**热力学温度**，不能把 $27\,^{\circ}\mathrm C$ 直接代入为 $T=27$。
+
+### 12.1.4 理想气体的实验规律
+
+在一定质量的稀薄气体、适当温度和压强范围内，可以近似使用下列规律。
+
+1. **玻意耳定律（等温）**：$pV=\text{常量}$，即 $p_1V_1=p_2V_2$。
+2. **查理定律（等容）**：$p/T=\text{常量}$，即 $p_1/T_1=p_2/T_2$。
+3. **盖—吕萨克定律（等压）**：$V/T=\text{常量}$，即 $V_1/T_1=V_2/T_2$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_gas_laws_8082c93a-20f3-4eb1-bf30-c47268ffdddc.png]]
+
+三种实验规律统一为定量气体的状态关系：
+
+$$
+\frac{p_1V_1}{T_1}=\frac{p_2V_2}{T_2}.
+$$
+
+其使用前提是同一份气体、物质的量不变，并且各状态可以按理想气体近似处理；漏气、充气等质量改变的情形必须分别写物态方程。
+
+### 12.1.5 阿伏伽德罗常量及符号约定
+
+**物质的量**以摩尔（mol）为单位。$1\ \mathrm{mol}$ 物质所包含的基本粒子数为阿伏伽德罗常量 $N_A$，本课程常用近似为
+
+$$
+N_A\approx 6.02\times10^{23}\ \mathrm{mol^{-1}}.
+$$
+
+本章符号固定如下，以避免同一个字母承担两种物理意义：
+
+| 符号 | 含义 | 单位 |
+|---|---|---|
+| $m$ | 整份气体质量 | kg |
+| $M$ | 摩尔质量 | kg·mol$^{-1}$ |
+| $m_0$ | 单个分子质量 | kg |
+| $\nu$ | **物质的量** | mol |
+| $N$ | 整份气体中的分子总数 | 1 |
+| $n=N/V$ | **分子数密度** | m$^{-3}$ |
+| $p,V,T$ | 压强、体积、热力学温度 | Pa、m$^3$、K |
+
+基本换算关系：
+
+$$
+\boxed{\nu=\frac{m}{M}=\frac{N}{N_A}},\qquad
+m_0=\frac{M}{N_A},\qquad n=\frac{N}{V}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_mole_number_density_97aa9bd4-1b73-43d0-a06e-8a772c037364.png]]
+
+> [!warning] $\nu$ 和 $n$ 在本章不能交换
+> 课件中**物质的量采用希腊字母 $\nu$**，而 $n$ 用于**单位体积内的分子数**。它们不但含义不同，量纲也不同。后面 $p=nkT$ 的 $n$ 尤其容易混淆。
+
+### 12.1.6 理想气体物态方程的推导和使用
+
+由实验规律可知定量气体有 $pV/T=\text{常量}$。标准条件下，$1\ \mathrm{mol}$ 理想气体约占 $22.4\ \mathrm L$，据此引入普适气体常量
+
+$$
+R\approx8.31\ \mathrm{J\,mol^{-1}\,K^{-1}}.
+$$
+
+于是得到**理想气体物态方程**：
+
+$$
+\boxed{pV=\nu RT=\frac{m}{M}RT.}
+$$
+
+把 $\nu=N/N_A$ 代入，并定义玻尔兹曼常量 $k=R/N_A$，则
+
+$$
+\boxed{p=nkT},\qquad
+k\approx1.38\times10^{-23}\ \mathrm{J\,K^{-1}}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_state_equation_bridge_c5e26787-25ff-41ea-8c65-37c85d64d62f.png]]
+
+两种表达对应两种观察尺度：$pV=\nu RT$ 把气体看作具有总物质的量 $\nu$ 的宏观对象；$p=nkT$ 则突出单位体积内的分子数 $n$ 与温度。
+
+**例 1　有漏气过程的气体物态方程**
+
+一个容器盛有 $0.10\ \mathrm{kg}$ 氧气，初态 $p_1=1.0\times10^6\ \mathrm{Pa}$，$t_1=47\,^{\circ}\mathrm C$。由于漏气，末态压强降为初态的 $5/8$，温度降至 $27\,^{\circ}\mathrm C$；容器刚性，体积不变。求容器体积与漏出氧气的质量，取 $M_{\mathrm{O_2}}=0.032\ \mathrm{kg/mol}$。
+
+由初态的气体物态方程：
+
+$$
+V=\frac{m_1RT_1}{Mp_1}
+=\frac{0.10\times8.31\times320}{0.032\times10^6}
+=8.31\times10^{-3}\ \mathrm{m^3}.
+$$
+
+刚性容器中 $V$ 相同，但气体质量已经改变。由 $m\propto p/T$：
+
+$$
+\frac{m_2}{m_1}=\frac{p_2T_1}{p_1T_2}
+=\frac58\times\frac{320}{300}=\frac23,
+$$
+
+故 $m_2\approx0.0667\ \mathrm{kg}$，漏气质量为 $m_1-m_2\approx0.0333\ \mathrm{kg}$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_temperature_motion_d3b3325e-9280-418c-97e9-13825998dbeb.png]]
+
+> [!tip] 物态方程题的统一流程
+> **明确质量是否改变 → 全部温度换成 K → 使用统一 SI 单位 → 为各个状态分别列出方程 → 检验结果的物理量纲。** 对漏气问题，不能直接套用定质量的 $p_1V_1/T_1=p_2V_2/T_2$。
+
+---
+
+## 12.2 理想气体压强和温度的微观解释
+
+### 12.2.1 从微观运动到宏观统计量
+
+微观描述关注**分子质量、位置、速度、动量和单次碰撞**；宏观描述关注**压强、温度、内能、体积**等。少量分子的瞬时运动通常不能决定宏观状态，但大量分子的统计平均量可以表现出稳定规律。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_micro_macro_e7408cd8-7cba-4e4b-8b5c-df41b0e8845e.png]]
+
+理想气体分子模型使用以下近似条件：
+
+1. 分子可以看作质点，分子本身的体积相对气体体积可忽略。
+2. 除碰撞期间外，分子间相互作用力可以忽略。
+3. 分子相互碰撞以及与容器壁碰撞都近似为完全弹性碰撞。
+4. 分子的运动遵从经典力学，且系统包含足够大量分子。
+
+> [!note] “理想”不等于“所有情形都正确”
+> 当气体密度过高、温度过低以致分子间相互作用不能忽略，或运动速度接近光速等情况下，相关经典近似会失效。本章推导均以经典稀薄气体为背景。
+
+### 12.2.2 热力学平衡时的统计假设
+
+在没有外场引起的空间不均匀性时，平衡态理想气体具有：
+
+**（一）空间均匀性**：分子的数密度在各处相同，$n=dN/dV=N/V$。
+
+**（二）速度各向同性**：分子速度在不同空间方向没有偏好，三个分量的统计性质相同。
+
+$$
+\overline{v_x}=\overline{v_y}=\overline{v_z}=0,
+\qquad
+\overline{v_x^2}=\overline{v_y^2}=\overline{v_z^2}.
+$$
+
+因为 $v^2=v_x^2+v_y^2+v_z^2$，可得
+
+$$
+\boxed{\overline{v_x^2}=\overline{v_y^2}=\overline{v_z^2}
+=\frac13\overline{v^2}}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_isotropy_0253ae4e-f80e-4325-b293-8c2f332349ad.png]]
+
+> [!warning] 先取平均与先平方，结论完全不同
+> 速度的平均分量可以为零：$\overline{v_x}=0$；但 $\overline{v_x^2}>0$。不能写成 $\overline{v_x^2}=(\overline{v_x})^2$。这是统计理论中十分常见的错误。
+
+### 12.2.3 压强来自大量分子碰壁：逐步推导
+
+设每个分子质量为 $m_0$，选取一面与 $x$ 轴垂直的壁，面积元为 $dS$。一个沿正 $x$ 方向撞向壁面的分子，其速度分量 $v_x$ 在理想弹性碰撞后反向。
+
+$$
+\Delta p_x^{(\mathrm{分子})}=-2m_0v_x,
+\qquad I_x^{(\mathrm{壁受})}=+2m_0v_x.
+$$
+
+这里 $I_x$ 是壁面受到的冲量，取朝向壁面的法向为正；若仅讨论大小，则为 $2m_0|v_x|$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_wall_collision_f2989e0d-1cec-43f3-ab77-53b44cf19e22.png]]
+
+**第一步：统计时间 $dt$ 内可能撞壁的粒子。** 对给定 $v_x>0$ 的一组粒子，能在 $dt$ 内撞上这面墙的粒子，其所在区域为面积 $dS$、厚度 $v_xdt$ 的薄层。
+
+$$
+dV=v_xdt\,dS.
+$$
+
+如果这组分子的数密度为 $n_i$，相应粒子数 $dN_i=n_iv_xdt\,dS$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_collision_slab_94d7e65f-14fa-4345-98e8-df1a11d0863c.png]]
+
+**第二步：计算冲量与单位时间受力。** 在同一速度组内，壁面受到的总冲量是
+
+$$
+dI_i=(2m_0v_x)\,dN_i
+=2m_0n_iv_x^2dt\,dS.
+$$
+
+平衡态下，因左右速度分布对称，仅有一半对应于向壁面运动的粒子群。对所有速度组按统计平均相加，得
+
+$$
+F=n m_0\overline{v_x^2}\,dS.
+$$
+
+于是
+
+$$
+p=\frac F{dS}=nm_0\overline{v_x^2}
+=\boxed{\frac13 nm_0\overline{v^2}}.
+$$
+
+其中 $n=N/V$ 为所有方向分子的总数密度，$\overline{v^2}$ 为速度平方的统计平均值。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_velocity_components_cda91b96-9e1c-4d01-9527-83d82bf10e3b.png]]
+
+**第三步：用平均平动动能改写压强公式。** 定义单个分子的平均平动动能
+
+$$
+\overline{\varepsilon_k}=\frac12m_0\overline{v^2}.
+$$
+
+代入得气体压强的微观公式：
+
+$$
+\boxed{p=\frac23n\overline{\varepsilon_k}}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_pressure_energy_27710182-ca26-4713-8434-669d6aab5638.png]]
+
+> [!important] 这个公式的物理意义
+> 在相同数密度下，分子平均平动动能越大，气体压强越大；在相同平均平动动能下，单位体积包含的分子数越多，压强也越大。压强体现的是**大量分子连续碰壁的平均效果**，讨论单个分子的“压强”没有相应的宏观统计意义。
+
+### 12.2.4 温度的微观意义
+
+由宏观物态方程 $p=nkT$ 与微观压强公式 $p=(2/3)n\overline{\varepsilon_k}$ 比较，消去共同因子 $n$：
+
+$$
+\boxed{\overline{\varepsilon_k}=\frac32 kT},\qquad
+\frac12m_0\overline{v^2}=\frac32kT.
+$$
+
+因此，温度是大量分子**无规则热运动平均平动动能**的标志，而不是反映单个分子的确定温度。对不同种类、处于相同温度的理想气体分子，平均平动动能相同，但分子质量不同，速度统计量可以不同。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_mean_kinetic_528f2a97-e147-453e-8424-620c0ced0562.png]]
+
+注意此处 $\overline{\varepsilon_k}$ **只指平动动能**；双原子和多原子分子的转动或振动能量不包含在内。温度升高表示统计平均的热运动增强，并不意味着每个分子的速度都会同步增加。
+
+### 12.2.5 方均根速率
+
+定义分子的**方均根速率**（root-mean-square speed）：
+
+$$
+v_{\mathrm{rms}}=\sqrt{\overline{v^2}}
+=\boxed{\sqrt{\frac{3kT}{m_0}}=\sqrt{\frac{3RT}{M}}}.
+$$
+
+其物理意义是先对速率平方取平均，再开平方。对于相同的温度，较轻的分子具有较大的方均根速率；对于同一种分子，方均根速率随 $\sqrt T$ 增长。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_rms_compare_5453ae23-b80d-4a59-b0cf-53d4ae048f1b.png]]
+
+**例 2　根据密度求方均根速率。** 利用质量密度 $\rho=m/V=nm_0$，可把压强公式写成
+
+$$
+p=\frac13\rho\overline{v^2}
+\quad\Longrightarrow\quad
+v_{\mathrm{rms}}=\sqrt{\frac{3p}{\rho}}.
+$$
+
+取 $p=1.013\times10^5\ \mathrm{Pa}$、$\rho=1.29\ \mathrm{kg/m^3}$，得 $v_{\mathrm{rms}}\approx485\ \mathrm{m/s}$。
+
+> [!tip] 三种常用写法的选用
+> 已知分子质量 $m_0$ 时用 $\sqrt{3kT/m_0}$；已知摩尔质量 $M$ 时用 $\sqrt{3RT/M}$；已知宏观密度 $\rho$ 和压强 $p$ 时用 $\sqrt{3p/\rho}$。
+
+### 12.2.6 混合气体的道尔顿分压定律
+
+同一种平衡温度下，理想混合气体的总分子数密度为各组分数密度之和：
+
+$$
+n=n_1+n_2+\cdots.
+$$
+
+由 $p=nkT$，总压强等于各组分**分压强**之和：
+
+$$
+\boxed{p=p_1+p_2+\cdots},\qquad p_j=n_jkT.
+$$
+
+在气体组分可以用理想气体近似且温度相同的前提下，分压强表示某一组分若单独占据整个容器体积时产生的压强。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_mixture_7fc9c673-ece6-4f54-8c3e-69684b0b7f68.png]]
+
+---
+
+## 12.3 能量均分定理与理想气体内能
+
+### 12.3.1 分子的自由度
+
+**自由度**是确定某物体或分子运动状态所需的独立广义坐标数。在气体分子经典模型中，区分平动、转动和振动自由度，是计算平均能量的关键。
+
+| 模型 | 平动 $t$ | 转动 $r$ | 常温刚性近似的总自由度 $i=t+r$ |
+|---|---:|---:|---:|
+| 单原子分子（如 He） | 3 | 0 | 3 |
+| 线性刚性分子（如 O$_2$、N$_2$） | 3 | 2 | 5 |
+| 非线性刚性多原子分子（如 H$_2$O、NH$_3$） | 3 | 3 | 6 |
+
+**单原子分子**可以视作质点，其位置由三个独立空间坐标决定，故有 3 个平动自由度。
+
+**双原子刚性分子**除了分子质心的三个平动自由度，还具有两条与分子轴垂直的独立转动自由度。理想刚性细杆沿自身轴线转动的转动惯量近似为零，因此在该模型中忽略这种转动。
+
+**非线性多原子刚性分子**有 3 个平动和 3 个转动自由度。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_degrees_models_7818ec56-a4f5-4ffe-8151-361ba6be23ab.png]]
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_diatomic_rotation_0c2e1a00-8cd9-42ef-a6be-0c95c15236b4.png]]
+
+### 12.3.2 振动自由度及 $i=t+r+2s$
+
+若进一步考虑分子内原子的振动，不能简单认为一个振动模式只对应一项 $kT/2$。在**经典简谐振子模型**中，一个振动模式同时具有两项二次型能量：
+
+- 与动量（速度）有关的**振动动能**，平均为 $kT/2$；
+- 与位移有关的**弹性势能**，平均为 $kT/2$。
+
+因此，每个振动模式的平均总能量为 $kT$。设有 $s$ 个可被热激发的独立简谐振动模式，则能量计算中可定义
+
+$$
+\boxed{i=t+r+2s}.
+$$
+
+需要特别区分：这里 $i$ 是**按二次型能量项数折算的有效能量自由度**；它不等同于构型空间中的独立几何坐标个数。$s=0$ 对应暂不计入振动的刚性近似。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_vibration_energy_d51bcc82-efe3-4d8e-87eb-9b1590e1cb67.png]]
+
+> [!warning] 自由度公式的适用范围
+> 气体分子具有量子化的转动、振动能级，低温或一般常温下某些模式可能没有被充分激发。**不能不分气体类型、温度与模型就把全部振动自由度加入内能。** 本章常见计算题默认采用经典刚性理想气体近似，即 $i=3,5,6$。
+
+### 12.3.3 能量按自由度均分定理
+
+在经典热平衡条件下，分子能量表达式中每一项独立的**二次型**自由度，平均分配能量 $kT/2$。故刚性分子的平均总动能是
+
+$$
+\boxed{\overline{\varepsilon}=\frac i2kT}.
+$$
+
+对单原子、线性双原子、非线性多原子刚性分子，分别为
+
+$$
+\overline{\varepsilon}_{\rm mono}=\frac32kT,\qquad
+\overline{\varepsilon}_{\rm di}=\frac52kT,\qquad
+\overline{\varepsilon}_{\rm nonlinear}=3kT.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_equipartition_2103d323-a811-46e5-9a80-7e0fdc5a9190.png]]
+
+能量均分定理给出的是**大量分子能量的统计平均**，并不是说任何时刻各个分子的能量完全相同，也不是说任意非二次型能量都可简单分配 $kT/2$。
+
+### 12.3.4 理想气体内能
+
+在理想气体模型下，分子之间除弹性碰撞外没有平均相互作用势能，故其内能由分子平动、转动及适用情况下的振动能量组成；**不包括气体整体宏观定向运动的动能**。
+
+对于 $N$ 个相同分子的气体：
+
+$$
+U=N\frac i2kT.
+$$
+
+因为 $N=\nu N_A$、$N_Ak=R$，得到
+
+$$
+\boxed{U=\frac i2\nu RT=\frac i2pV}.
+$$
+
+这说明：在气体物质的量 $\nu$ 及有效自由度 $i$ 不变时，**理想气体内能只与温度有关**。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_internal_energy_2b5516f2-b53c-437b-b739-e126791da786.png]]
+
+对固定物质的量且自由度在温区内不变的气体，
+
+$$
+\Delta U=\frac i2\nu R(T_2-T_1),
+\qquad C_{V,m}=\frac i2R.
+$$
+
+其中 $C_{V,m}$ 为此经典模型对应的**摩尔定容热容**；它是理解内能随温度变化的直接推论，实际气体的热容可能随温度变化。
+
+对于几种不同组分组成的理想混合气体，内能可加：
+
+$$
+\boxed{U=\sum_j\frac{i_j}{2}\nu_jRT}.
+$$
+
+**例 3　氦气与氧气混合物的内能。** 容器中含 $8\ \mathrm g$ 氦气和 $64\ \mathrm g$ 氧气，温度 $T=300\ \mathrm K$。若采用常温刚性分子模型，$M_{\rm He}=4\ \mathrm{g/mol}$、$M_{\rm O_2}=32\ \mathrm{g/mol}$，则两种气体各为 $2\ \mathrm{mol}$，而 $i_{\rm He}=3$、$i_{\rm O_2}=5$。
+
+$$
+\begin{aligned}
+U&=\frac32\times2RT+\frac52\times2RT\\
+ &=8RT=8\times8.31\times300\\
+ &=1.9944\times10^4\ \mathrm J.
+\end{aligned}
+$$
+
+> [!warning] 混合气体不能随便使用同一个自由度
+> 遇到组分不同的混合物，应按 $\sum_j(i_j/2)\nu_jRT$ 逐项计算；只有各组分具有相同的有效自由度时，才能直接合并成一个总物质的量公式。
+
+---
+
+## 12.4 平衡态的经典统计分布
+
+### 12.4.1 概率分布函数的含义
+
+宏观上稳定的性质，可以由大量随机微观事件形成。例如，许多小球在伽尔顿板上不断发生随机偏转，单个小球的落点不可预知，整体落点的频数分布却具有稳定规律。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_galton_844493e2-3bc4-46b2-8056-b3c752a6d34c.png]]
+
+设系统内共有 $N$ 个分子，随机变量 $x$ 在 $[x,x+dx]$ 区间的分子数为 $dN$。引入**概率密度函数**
+
+$$
+f(x)=\frac1N\frac{dN}{dx}.
+$$
+
+它给出单位变量宽度内的概率密度，不是 $x$ 取某个确定值的概率。落在区间 $[a,b]$ 的概率为
+
+$$
+P(a\le x\le b)=\int_a^b f(x)\,dx.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_prob_area_90568d00-bea3-471b-ab9a-589878cd0ee9.png]]
+
+全部可能取值的概率之和为 1，这要求
+
+$$
+\boxed{\int_{\mathrm{全部定义域}}f(x)\,dx=1}.
+$$
+
+对于任意物理量 $\varphi(x)$，统计平均值为
+
+$$
+\boxed{\overline{\varphi(x)}=\int\varphi(x)f(x)\,dx}.
+$$
+
+尤其：$\overline{x}=\int xf(x)dx$，$\overline{x^2}=\int x^2f(x)dx$。这里的积分区间均为概率密度的全部定义域。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_normalization_8ec113a3-4062-4085-bbdb-f86d4abd7272.png]]
+
+### 12.4.2 麦克斯韦速率分布
+
+**速率** $v=|\boldsymbol v|$ 是非负标量，不同于速度矢量；速率分布只研究速率的大小，不考虑方向。对温度为 $T$ 的经典理想气体，平衡态分子速率的麦克斯韦分布为
+
+$$
+\boxed{
+ f(v)=4\pi\left(\frac{m_0}{2\pi kT}\right)^{3/2}
+ v^2\exp\!\left(-\frac{m_0v^2}{2kT}\right),\quad v\ge0.
+}
+$$
+
+这里 $f(v)dv=dN/N$ 表示速率位于 $v$ 至 $v+dv$ 之间的分子数占总数的比率。因此
+
+$$
+\int_0^\infty f(v)\,dv=1,
+\qquad dN=Nf(v)\,dv.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_maxwell_861b089a-8c1d-4ecb-9f22-3de138e6d5e7.png]]
+
+**曲线为何先升后降？** 公式里的 $v^2$ 因子使极小速率附近的概率密度从零开始增大；指数因子 $\exp[-m_0v^2/(2kT)]$ 使高速粒子所占比例迅速减小。二者共同形成一个具有峰值、向右拖尾的曲线。
+
+### 12.4.3 从速率分布求平均量
+
+知道 $f(v)$ 后，任意速率函数 $\varphi(v)$ 的平均值可由
+
+$$
+\overline{\varphi(v)}=\int_0^\infty\varphi(v)f(v)\,dv
+$$
+
+求得。三个尤其重要的量如下。
+
+**一、平均速率**
+
+$$
+\boxed{\overline v=\int_0^\infty vf(v)\,dv
+=\sqrt{\frac{8kT}{\pi m_0}}
+=\sqrt{\frac{8RT}{\pi M}}}.
+$$
+
+平均速率用于计算粒子的典型飞行距离、碰撞频率等问题。
+
+**二、方均根速率**
+
+$$
+\boxed{v_{\rm rms}=\sqrt{\overline{v^2}}
+=\sqrt{\int_0^\infty v^2f(v)\,dv}
+=\sqrt{\frac{3kT}{m_0}}}.
+$$
+
+它与平均平动动能直接关联：$\overline{\varepsilon_k}=m_0v_{\rm rms}^2/2$。
+
+**三、最概然速率**
+
+令分布函数在峰值处满足 $df/dv=0$，求得
+
+$$
+\boxed{v_p=\sqrt{\frac{2kT}{m_0}}=\sqrt{\frac{2RT}{M}}}.
+$$
+
+它是使**单位速率区间附近分子数密度最大**的速率，而不是“所有分子都具有”的速率。
+
+### 12.4.4 三种速率的比较
+
+将三个速率都写成 $\sqrt{RT/M}$ 的倍数：
+
+$$
+\boxed{v_p=\sqrt2\sqrt{\frac{RT}{M}},\qquad
+\overline v=\sqrt{\frac8\pi}\sqrt{\frac{RT}{M}},\qquad
+v_{\rm rms}=\sqrt3\sqrt{\frac{RT}{M}}.}
+$$
+
+由于 $\sqrt2\approx1.414$、$\sqrt{8/\pi}\approx1.596$、$\sqrt3\approx1.732$，故
+
+$$
+\boxed{v_p<\overline v<v_{\rm rms}}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_three_speeds_bbabbb83-fd20-4804-8c30-ed446266c3c3.png]]
+
+| 名称 | 数学操作 | 直接用途 |
+|---|---|---|
+| 最概然速率 $v_p$ | 寻找 $f(v)$ 最大值的位置 | 讨论分布峰位 |
+| 平均速率 $\overline v$ | 对 $v$ 作加权平均 | 平均碰撞频率与平均自由程 |
+| 方均根速率 $v_{\rm rms}$ | 对 $v^2$ 先求平均再开方 | 压强公式、平均平动动能 |
+
+> [!warning] 最概然速率和最大概率不是同一概念
+> $v_p$ 是横轴上的一个**速率值**；$f(v_p)$ 是纵轴上的**概率密度最大值**。对于连续分布，$v=v_p$ 的单点概率依然为零，必须指定有限速率区间才有非零概率。
+
+### 12.4.5 温度和分子质量如何改变分布形状
+
+从 $f(v)$ 公式可见，决定分布特征的主要参数是 $kT/m_0$。
+
+- **同一种气体升温**：三个特征速率都增大；峰位右移，峰高降低，曲线变宽并延伸到更高的速率区域。
+- **同一温度下分子质量变小**：分布也向高速端移动，较轻分子的典型速率更大。
+- 在改变温度或质量时，**归一化后的总面积始终为 1**；峰高降低并不表示分子“少了”。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_maxwell_temperature_f18710e7-602a-4f7b-b586-358956fe3850.png]]
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_maxwell_mass_bd4ff928-5e27-4228-843c-cdca00e52452.png]]
+
+> [!tip] 利用曲线形状快速比较
+> 先检查题目是否指同一种气体，再看温度。固定 $m_0$ 时，峰位越靠右通常意味着温度越高；固定温度时，峰位越靠右通常意味着分子质量越小。
+
+### 12.4.6 区间分子数和条件平均速率
+
+分子速率落在 $[v_1,v_2]$ 内的比率是
+
+$$
+\frac{\Delta N}{N}=\int_{v_1}^{v_2}f(v)\,dv,
+\qquad
+\Delta N=N\int_{v_1}^{v_2}f(v)\,dv.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_velocity_interval_9ce1c752-028b-4ce3-af5b-2a3ac2fd33b5.png]]
+
+若题目问**“位于该速率区间的分子的平均速率”**，这是对该区间内分子的**条件平均**，必须用该区间包含的分子数归一化：
+
+$$
+\boxed{\overline v_{[v_1,v_2]}
+=\frac{\displaystyle\int_{v_1}^{v_2}v f(v)\,dv}
+{\displaystyle\int_{v_1}^{v_2}f(v)\,dv}}.
+$$
+
+不能直接把全体分子的平均公式截成区间积分，而忘记分母。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_conditional_speed_7eb3436e-005b-4bd0-a001-62a20d431627.png]]
+
+**例 4　一条给定概率密度曲线的综合练习。** 已知
+
+$$
+f(v)=\begin{cases}
+kv^3,&0\le v\le v_0,\\
+0,&\text{其他}.
+\end{cases}
+$$
+
+求归一化常数、全体平均速率、区间 $[0,v_0/3]$ 内分子数占比及其条件平均速率。
+
+由归一化条件：
+
+$$
+1=\int_0^{v_0}kv^3\,dv=\frac{kv_0^4}{4}
+\quad\Longrightarrow\quad\boxed{k=\frac4{v_0^4}}.
+$$
+
+全体分子的平均速率为
+
+$$
+\overline v=\int_0^{v_0}v\frac{4v^3}{v_0^4}dv
+=\boxed{\frac45v_0}.
+$$
+
+区间内分子比例是
+
+$$
+P\!\left(0\le v\le\frac{v_0}{3}\right)
+=\int_0^{v_0/3}\frac{4v^3}{v_0^4}dv
+=\boxed{\frac1{81}}.
+$$
+
+该区间的条件平均为
+
+$$
+\overline v_{[0,v_0/3]}
+=\frac{\int_0^{v_0/3}v\frac{4v^3}{v_0^4}dv}
+{1/81}
+=\boxed{\frac4{15}v_0}.
+$$
+
+如果补充条件 $P(0\le v\le v_1)=1/16$，则 $(v_1/v_0)^4=1/16$，得 $v_1=v_0/2$。
+
+> [!warning] 四种积分题要分清
+> **求常数**用归一化；**求全体均值**用全定义域加权积分；**求某段粒子数比例**用区间面积；**求某段粒子的均值**则用区间加权积分除以区间面积。
+
+### 12.4.7 玻尔兹曼分布：重力场内气体的高度分布（选学）
+
+在均匀重力场中，设气体温度 $T$ 不随高度 $z$ 变化。取一薄层气体，其上、下表面的压强差平衡该层气体的重力：
+
+$$
+dp=-\rho g\,dz=-m_0ng\,dz.
+$$
+
+代入 $p=nkT$，并利用 $T$ 恒定得到
+
+$$
+\frac{dp}{p}=-\frac{m_0g}{kT}dz.
+$$
+
+积分后获得**等温气压公式**：
+
+$$
+\boxed{p(z)=p_0\exp\!\left(-\frac{m_0gz}{kT}\right)}.
+$$
+
+相应的分子数密度为
+
+$$
+\boxed{n(z)=n_0\exp\!\left(-\frac{m_0gz}{kT}\right)}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_barometric_9785812c-ece8-4bcf-8b99-f3ebb730c856.png]]
+
+在更一般的外势场中，粒子处于势能 $\varepsilon_p(\boldsymbol r)$ 处的数密度符合玻尔兹曼权重
+
+$$
+\boxed{n(\boldsymbol r)\propto
+\exp\!\left(-\frac{\varepsilon_p(\boldsymbol r)}{kT}\right)}.
+$$
+
+势能较高的位置粒子数密度较小，但不是完全没有粒子。上式描述的是**平衡温度下的空间概率权重**，它不同于前面的**速率分布函数**。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_boltzmann_particles_36a22d82-8d8a-419e-b98a-a782fdf24a6c.png]]
+
+> [!note] 等温气压公式的边界
+> 此处假定重力加速度近似恒定、气体可视作理想气体且整个高度范围内温度不变。真实大气存在温度随高度变化等复杂现象，不宜把这个简单指数公式无条件用于全部大气层。
+
+---
+
+## 12.5 分子碰撞和气体的输运现象
+
+### 12.5.1 碰撞怎样导致宏观输运
+
+即使气体处于平衡态，分子也会不断相互碰撞。若气体存在密度、温度或流速梯度，碰撞与自由飞行会使物质、能量和动量发生宏观转移，表现为**扩散、热传导与黏性**等输运现象。
+
+- **扩散**：不同区域间分子的净迁移使组分浓度趋于均匀。
+- **热传导**：分子碰撞及运动使能量从较热区域净传向较冷区域。
+- **黏性**：不同流速气体层间通过分子运动交换动量。
+
+这三类现象的共同微观基础，是**无规则分子运动与频繁碰撞共同引起的统计输运**。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_transport_mixing_9ef8ecbc-a118-4cd1-9a2e-49381b4a3cb2.png]]
+
+### 12.5.2 平均自由程与平均碰撞频率
+
+分子在相邻两次碰撞之间所经历的自由运动路程，称为一次**自由程**。不同自由程长度不相同，它们的统计平均值为**平均自由程** $\lambda$。
+
+单位时间内一个分子与其他分子碰撞的平均次数称为**平均碰撞频率** $\overline Z$，二者满足
+
+$$
+\boxed{\lambda=\frac{\overline v}{\overline Z}}.
+$$
+
+这里 $\overline v$ 是**平均速率**，不要误用方均根速率 $v_{\rm rms}$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_mean_free_path_cd5e20cb-ec40-4482-a4b5-6cea677ff770.png]]
+
+### 12.5.3 硬球分子模型与有效碰撞截面
+
+在最简单的**硬球模型**中，每个分子被看作直径为 $d$ 的小球。两球发生碰撞的条件是两球球心的距离小于或等于 $d$。若以一个分子为参照，让另一个分子运动，可以将发生碰撞的区域化成有效半径为 $d$ 的圆截面，其面积为
+
+$$
+\boxed{\sigma=\pi d^2}.
+$$
+
+注意 $d$ 已经是**单个球的直径**，但有效碰撞截面的半径同样为 $d$，不是 $d/2$。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_collision_cross_section_ecdd08c3-0a0b-426b-b564-1ebb5aec3562.png]]
+
+### 12.5.4 平均碰撞频率与平均自由程公式
+
+若把其他分子暂时看作不动，运动分子在时间 $dt$ 内扫过有效体积 $\pi d^2\overline v\,dt$，平均遭遇次数约为 $n\pi d^2\overline v\,dt$。
+
+实际所有分子都在运动；在经典平衡态、相同硬球分子的麦克斯韦分布模型下，平均相对速率比平均单分子速率大 $\sqrt2$ 倍，因此
+
+$$
+\boxed{\overline Z=\sqrt2\pi d^2n\overline v}.
+$$
+
+进一步得到
+
+$$
+\boxed{\lambda=\frac1{\sqrt2\pi d^2n}}.
+$$
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_collision_tube_58ce2fb9-e1b0-4c52-aa9b-e5b5f43971a9.png]]
+
+把 $n=p/(kT)$ 代入，可写成更便于宏观计算的形式：
+
+$$
+\boxed{\lambda=\frac{kT}{\sqrt2\pi d^2p}}.
+$$
+
+因此，**保持温度和分子直径不变**时，压强越高，平均自由程越短；**保持压强和分子直径不变**时，温度越高，平均自由程越长。
+
+![[Assets/UniversityPhysics_20261029_Ch12KineticTheory_ec2f666406ec5ff4_assets/images/physics_gas_lambda_pressure_ce2bb041-0fb7-46d8-9c25-0748e868ff9a.png]]
+
+> [!warning] 影响平均自由程的变量要明确控制条件
+> - 在 $n$ 固定时：$\lambda$ 与温度无关（硬球模型、$d$ 近似不变）。
+> - 在 $p$ 固定时：$\lambda\propto T$。
+> - 在 $T$ 固定时：$\lambda\propto1/p$。
+>
+> 所以只说“升温会使平均自由程变大”而不规定其他变量，不是完整的物理表述。
+
+### 12.5.5 数量级与物理图像
+
+普通条件下，分子直径约为 $10^{-10}\ \mathrm m$，气体的平均自由程可以远大于其分子直径。虽然单个分子运动速度可达数百米每秒，但因碰撞频率很高，其运动轨迹是在短距离自由飞行后不断折转，而不是长期沿直线穿过整个房间。
+
+取 $T\approx273\ \mathrm K$、$p\approx1.01\times10^5\ \mathrm{Pa}$、$d\approx3\times10^{-10}\ \mathrm m$，由 $\lambda=kT/(\sqrt2\pi d^2p)$ 得
+
+$$
+\lambda\approx9.3\times10^{-8}\ \mathrm m,
+$$
+
+即约 $10^{-7}\ \mathrm m$ 的数量级。具体数值会随分子有效直径和外界条件而改变。
+
+> [!tip] 为什么宏观扩散远慢于分子自身的速率？
+> 分子飞得很快，但每走很短距离就可能改变方向。**微观高速的无规则运动**不等于**宏观浓度扩散的定向速度**，两者是不同概念。
+
+---
+
+## 12.6 公式、模型与典型题速查
+
+### 12.6.1 公式总表
+
+| 知识点 | 公式 | 前提或关键说明 |
+|---|---|---|
+| 物质的量 | $\nu=m/M=N/N_A$ | $\nu$ 单位 mol |
+| 数密度 | $n=N/V$ | $n$ 单位 $\mathrm{m^{-3}}$ |
+| 理想气体物态方程 | $pV=\nu RT$ | 平衡态理想气体 |
+| 微观形式 | $p=nkT$ | $k=R/N_A$ |
+| 压强微观公式 | $p=\frac13nm_0\overline{v^2}$ | 理想气体、各向同性 |
+| 平动动能 | $\overline{\varepsilon_k}=\frac32kT$ | 只考虑平动 |
+| 方均根速率 | $v_{\rm rms}=\sqrt{3RT/M}$ | $M$ 必须为 kg/mol |
+| 能量均分 | 每个二次型能量项 $\frac12kT$ | 经典热平衡 |
+| 刚性理想气体内能 | $U=\frac i2\nu RT$ | $i$ 随模型选取 |
+| 麦克斯韦分布 | $f(v)=4\pi(\frac{m_0}{2\pi kT})^{3/2}v^2e^{-m_0v^2/(2kT)}$ | $v\ge0$ |
+| 平均速率 | $\overline v=\sqrt{8RT/(\pi M)}$ | 用于平均碰撞频率 |
+| 最概然速率 | $v_p=\sqrt{2RT/M}$ | 分布曲线的峰位 |
+| 区间概率 | $\int_{v_1}^{v_2}f(v)dv$ | 曲线下面积 |
+| 条件平均 | $\int_{v_1}^{v_2}vf(v)dv/\int_{v_1}^{v_2}f(v)dv$ | 分母不可省略 |
+| 等温气压公式 | $p=p_0e^{-m_0gz/(kT)}$ | 均匀重力场、等温 |
+| 平均碰撞频率 | $\overline Z=\sqrt2\pi d^2n\overline v$ | 同种硬球、平衡分布 |
+| 平均自由程 | $\lambda=1/(\sqrt2\pi d^2n)$ | 同上 |
+| 平均自由程的物态写法 | $\lambda=kT/(\sqrt2\pi d^2p)$ | 理想气体 |
+
+### 12.6.2 常用常量及单位
+
+| 常量 | 常用数值 | 单位 |
+|---|---:|---|
+| 摩尔气体常量 $R$ | $8.31$ | J·mol$^{-1}$·K$^{-1}$ |
+| 玻尔兹曼常量 $k$ | $1.38\times10^{-23}$ | J·K$^{-1}$ |
+| 阿伏伽德罗常量 $N_A$ | $6.02\times10^{23}$ | mol$^{-1}$ |
+| 摄氏到热力学温度的零点差 | $273.15$ | K |
+| 标准条件下理想气体摩尔体积（传统近似） | $22.4\times10^{-3}$ | m$^3$·mol$^{-1}$ |
+
+> [!note] 单位的关键细节
+> 摩尔质量若给成 $28\ \mathrm{g/mol}$，代入 $\sqrt{3RT/M}$ 时必须换成 $0.028\ \mathrm{kg/mol}$；体积若为 L，代入 $pV=\nu RT$ 前须换成 m$^3$。SI 单位下 $1\ \mathrm{Pa}=1\ \mathrm{N/m^2}$。
+
+### 12.6.3 按问题类型选择求解入口
+
+| 题目要求 | 优先使用的关系 | 特别注意 |
+|---|---|---|
+| 求气体质量、摩尔数或体积 | $pV=\nu RT$ | 漏气时质量前后不同 |
+| 由气体密度求分子速率 | $v_{\rm rms}=\sqrt{3p/\rho}$ | $\rho$ 为质量密度 |
+| 解释温度和压强的微观本质 | $p=\frac23n\overline{\varepsilon_k}$ | $\overline{\varepsilon_k}$ 仅为平动 |
+| 求单/双/多原子刚性气体内能 | $U=\frac i2\nu RT$ | 先定有效自由度 $i$ |
+| 比较速率分布曲线 | $v_p\propto\sqrt{T/M}$ | 同温比质量、同气体比温度 |
+| 求某速率区间中的分子比例 | $\int_{v_1}^{v_2}f(v)dv$ | 概率密度要归一化 |
+| 求子区间分子的平均速率 | 条件平均公式 | **必须有分母** |
+| 求不同高度的数密度 | $n(z)=n_0e^{-m_0gz/kT}$ | 等温和重力场近似 |
+| 求平均自由程 | $\lambda=kT/(\sqrt2\pi d^2p)$ | 确定压强、温度与直径 |
+
+### 12.6.4 章节理解与自检
+
+1. **平衡态和稳恒态有何区别？** 平衡态不存在宏观净流；稳恒态宏观量可以不变，但可能维持稳态输运。
+2. **为什么 $\overline{v_x}=0$，而 $\overline{v_x^2}>0$？** 前者方向抵消，后者平方后为非负并反映运动强度。
+3. **理想气体压强为何会出现 $1/3$？** 三个相互正交方向在各向同性统计平均中等价。
+4. **理想气体的温度对应什么微观量？** 单分子的平均**平动**动能 $\frac32kT$，不是它的总转动、振动能量。
+5. **为什么相同温度下氢气与氧气分子速度不同？** 平均平动动能相同，但分子质量不同，$v_{\rm rms}\propto1/\sqrt{m_0}$。
+6. **分子自由度与内能如何联系？** 每个可用二次型能量项在经典模型下贡献 $kT/2$，因此 $U=(i/2)\nu RT$。
+7. **为什么麦克斯韦分布曲线下面积等于 1？** 所有速率的粒子比例相加应为全部粒子。
+8. **最概然、平均、方均根速率的大小关系为何？** $v_p<\overline v<v_{\rm rms}$，对应不同统计操作。
+9. **平均碰撞频率与平均自由程的关系？** $\lambda=\overline v/\overline Z$。
+10. **在温度不变而压强增大时平均自由程为何变短？** 数密度增大、碰撞更加频繁，故 $\lambda\propto1/p$。
+
+> [!summary] 必须形成的完整认知
+> **状态方程**连接 $p,V,T,\nu$；**压强公式**解释来自壁面碰撞的动量传递；**温度公式**解释分子平均平动动能；**能量均分**在经典近似下求多种分子的内能；**分布函数**描述随机运动的整体规律；**碰撞统计**则解释自由程与宏观输运。它们共同构成从微观到宏观的气体动理论。
+

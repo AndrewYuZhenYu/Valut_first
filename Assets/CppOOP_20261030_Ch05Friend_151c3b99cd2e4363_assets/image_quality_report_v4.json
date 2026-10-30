@@ -1,0 +1,1432 @@
+[
+  {
+    "name": "cppfriend_access_boundary",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1482,
+      696
+    ],
+    "content_original_bounds": [
+      56,
+      204,
+      1434,
+      694
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2890,
+      1358
+    ]
+  },
+  {
+    "name": "cppfriend_build_pipeline",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      606
+    ],
+    "content_original_bounds": [
+      60,
+      280,
+      1500,
+      680
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1182
+    ]
+  },
+  {
+    "name": "cppfriend_compile_diagnostic_map",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1374,
+      622
+    ],
+    "content_original_bounds": [
+      102,
+      218,
+      1326,
+      634
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2680,
+      1213
+    ]
+  },
+  {
+    "name": "cppfriend_const_member_mutates_target",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      700
+    ],
+    "content_original_bounds": [
+      90,
+      230,
+      1500,
+      724
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1365
+    ]
+  },
+  {
+    "name": "cppfriend_const_ref_args",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1446,
+      606
+    ],
+    "content_original_bounds": [
+      94,
+      256,
+      1398,
+      656
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2820,
+      1182
+    ]
+  },
+  {
+    "name": "cppfriend_debug_preprocessor",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1454,
+      592
+    ],
+    "content_original_bounds": [
+      70,
+      220,
+      1406,
+      606
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2836,
+      1155
+    ]
+  },
+  {
+    "name": "cppfriend_distance_calls",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1448,
+      704
+    ],
+    "content_original_bounds": [
+      86,
+      226,
+      1400,
+      724
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2824,
+      1373
+    ]
+  },
+  {
+    "name": "cppfriend_distance_plane",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1474,
+      714
+    ],
+    "content_original_bounds": [
+      178,
+      176,
+      1426,
+      684
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2875,
+      1393
+    ]
+  },
+  {
+    "name": "cppfriend_forward_declaration",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      692
+    ],
+    "content_original_bounds": [
+      64,
+      210,
+      1500,
+      696
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1350
+    ]
+  },
+  {
+    "name": "cppfriend_friend_class_scope",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      714
+    ],
+    "content_original_bounds": [
+      72,
+      224,
+      1500,
+      732
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1393
+    ]
+  },
+  {
+    "name": "cppfriend_friend_compile_order",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1436,
+      716
+    ],
+    "content_original_bounds": [
+      74,
+      198,
+      1388,
+      708
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2801,
+      1397
+    ]
+  },
+  {
+    "name": "cppfriend_friend_coupling_change",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      728
+    ],
+    "content_original_bounds": [
+      86,
+      198,
+      1500,
+      720
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1420
+    ]
+  },
+  {
+    "name": "cppfriend_friend_edges",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1380,
+      704
+    ],
+    "content_original_bounds": [
+      188,
+      248,
+      1332,
+      746
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2691,
+      1373
+    ]
+  },
+  {
+    "name": "cppfriend_friend_scope_demo",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      690
+    ],
+    "content_original_bounds": [
+      92,
+      228,
+      1486,
+      712
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1346
+    ]
+  },
+  {
+    "name": "cppfriend_function_odr",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1292,
+      736
+    ],
+    "content_original_bounds": [
+      222,
+      184,
+      1244,
+      714
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2520,
+      1436
+    ]
+  },
+  {
+    "name": "cppfriend_getters_vs_friend",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      718
+    ],
+    "content_original_bounds": [
+      114,
+      194,
+      1500,
+      706
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1401
+    ]
+  },
+  {
+    "name": "cppfriend_grade_friend_decision",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      574
+    ],
+    "content_original_bounds": [
+      88,
+      246,
+      1500,
+      614
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1120
+    ]
+  },
+  {
+    "name": "cppfriend_header_guard",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1366,
+      728
+    ],
+    "content_original_bounds": [
+      248,
+      204,
+      1318,
+      726
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2664,
+      1420
+    ]
+  },
+  {
+    "name": "cppfriend_header_include_lookup",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1486,
+      688
+    ],
+    "content_original_bounds": [
+      80,
+      224,
+      1438,
+      706
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2898,
+      1342
+    ]
+  },
+  {
+    "name": "cppfriend_include_expansion",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      706
+    ],
+    "content_original_bounds": [
+      100,
+      212,
+      1500,
+      712
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1377
+    ]
+  },
+  {
+    "name": "cppfriend_incomplete_type_cases",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1484,
+      694
+    ],
+    "content_original_bounds": [
+      62,
+      226,
+      1436,
+      714
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2894,
+      1354
+    ]
+  },
+  {
+    "name": "cppfriend_int_to_real",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1466,
+      648
+    ],
+    "content_original_bounds": [
+      78,
+      224,
+      1418,
+      666
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2859,
+      1264
+    ]
+  },
+  {
+    "name": "cppfriend_macro_double_eval",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1468,
+      650
+    ],
+    "content_original_bounds": [
+      78,
+      218,
+      1420,
+      662
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2863,
+      1268
+    ]
+  },
+  {
+    "name": "cppfriend_macro_parentheses",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      702
+    ],
+    "content_original_bounds": [
+      70,
+      220,
+      1500,
+      716
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1369
+    ]
+  },
+  {
+    "name": "cppfriend_member_friend_arith",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      710
+    ],
+    "content_original_bounds": [
+      90,
+      204,
+      1500,
+      708
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1385
+    ]
+  },
+  {
+    "name": "cppfriend_member_friend_transform",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1470,
+      746
+    ],
+    "content_original_bounds": [
+      74,
+      198,
+      1422,
+      738
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2867,
+      1455
+    ]
+  },
+  {
+    "name": "cppfriend_member_header_depend",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      724
+    ],
+    "content_original_bounds": [
+      76,
+      218,
+      1500,
+      736
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1412
+    ]
+  },
+  {
+    "name": "cppfriend_node_layout_exact",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      720
+    ],
+    "content_original_bounds": [
+      84,
+      220,
+      1466,
+      734
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1404
+    ]
+  },
+  {
+    "name": "cppfriend_object_lifetime_order",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      640
+    ],
+    "content_original_bounds": [
+      46,
+      270,
+      1458,
+      704
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1248
+    ]
+  },
+  {
+    "name": "cppfriend_path_escape",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1468,
+      614
+    ],
+    "content_original_bounds": [
+      78,
+      230,
+      1420,
+      638
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2863,
+      1198
+    ]
+  },
+  {
+    "name": "cppfriend_permission_cells",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      748
+    ],
+    "content_original_bounds": [
+      88,
+      190,
+      1500,
+      732
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1459
+    ]
+  },
+  {
+    "name": "cppfriend_pointer_ownership",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1440,
+      720
+    ],
+    "content_original_bounds": [
+      78,
+      216,
+      1392,
+      730
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2808,
+      1404
+    ]
+  },
+  {
+    "name": "cppfriend_pop_oldtop_snapshot",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      580
+    ],
+    "content_original_bounds": [
+      200,
+      258,
+      1500,
+      632
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1131
+    ]
+  },
+  {
+    "name": "cppfriend_pop_zero_ambiguity",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1472,
+      708
+    ],
+    "content_original_bounds": [
+      76,
+      238,
+      1424,
+      740
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2871,
+      1381
+    ]
+  },
+  {
+    "name": "cppfriend_print_off_by_one",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1446,
+      762
+    ],
+    "content_original_bounds": [
+      94,
+      236,
+      1398,
+      792
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2820,
+      1486
+    ]
+  },
+  {
+    "name": "cppfriend_push_alloc_first",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1400,
+      608
+    ],
+    "content_original_bounds": [
+      164,
+      332,
+      1352,
+      734
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2730,
+      1186
+    ]
+  },
+  {
+    "name": "cppfriend_push_top_commit",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1210,
+      670
+    ],
+    "content_original_bounds": [
+      138,
+      222,
+      1162,
+      686
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2360,
+      1307
+    ]
+  },
+  {
+    "name": "cppfriend_raw_pointer_alias",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1400,
+      706
+    ],
+    "content_original_bounds": [
+      134,
+      226,
+      1352,
+      726
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2730,
+      1377
+    ]
+  },
+  {
+    "name": "cppfriend_real_int_trunc",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      654
+    ],
+    "content_original_bounds": [
+      142,
+      250,
+      1500,
+      698
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1276
+    ]
+  },
+  {
+    "name": "cppfriend_real_to_int_collision",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1462,
+      738
+    ],
+    "content_original_bounds": [
+      78,
+      204,
+      1414,
+      736
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2851,
+      1440
+    ]
+  },
+  {
+    "name": "cppfriend_self_member_size",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1474,
+      642
+    ],
+    "content_original_bounds": [
+      68,
+      222,
+      1426,
+      658
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2875,
+      1252
+    ]
+  },
+  {
+    "name": "cppfriend_set_add_trace",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      622
+    ],
+    "content_original_bounds": [
+      136,
+      258,
+      1464,
+      674
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1213
+    ]
+  },
+  {
+    "name": "cppfriend_set_capacity",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1484,
+      570
+    ],
+    "content_original_bounds": [
+      96,
+      286,
+      1436,
+      650
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2894,
+      1112
+    ]
+  },
+  {
+    "name": "cppfriend_set_clear_logic",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1462,
+      696
+    ],
+    "content_original_bounds": [
+      138,
+      206,
+      1414,
+      696
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2851,
+      1358
+    ]
+  },
+  {
+    "name": "cppfriend_set_conversion_paths",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1476,
+      648
+    ],
+    "content_original_bounds": [
+      82,
+      216,
+      1428,
+      658
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2879,
+      1264
+    ]
+  },
+  {
+    "name": "cppfriend_set_dedup_trace",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      732
+    ],
+    "content_original_bounds": [
+      100,
+      222,
+      1476,
+      748
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1428
+    ]
+  },
+  {
+    "name": "cppfriend_setname_alias_danger",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      698
+    ],
+    "content_original_bounds": [
+      78,
+      226,
+      1500,
+      718
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1362
+    ]
+  },
+  {
+    "name": "cppfriend_shared_static_pointer",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1440,
+      654
+    ],
+    "content_original_bounds": [
+      82,
+      248,
+      1392,
+      696
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2808,
+      1276
+    ]
+  },
+  {
+    "name": "cppfriend_signature_mismatch",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1474,
+      696
+    ],
+    "content_original_bounds": [
+      70,
+      240,
+      1426,
+      730
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2875,
+      1358
+    ]
+  },
+  {
+    "name": "cppfriend_specific_member_right",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      688
+    ],
+    "content_original_bounds": [
+      70,
+      228,
+      1462,
+      710
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1342
+    ]
+  },
+  {
+    "name": "cppfriend_stack_destructor",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      658
+    ],
+    "content_original_bounds": [
+      154,
+      284,
+      1500,
+      736
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1284
+    ]
+  },
+  {
+    "name": "cppfriend_stack_interactive_trace",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1478,
+      764
+    ],
+    "content_original_bounds": [
+      132,
+      204,
+      1430,
+      762
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2883,
+      1490
+    ]
+  },
+  {
+    "name": "cppfriend_stack_layout",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      680
+    ],
+    "content_original_bounds": [
+      66,
+      216,
+      1478,
+      690
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1326
+    ]
+  },
+  {
+    "name": "cppfriend_stack_lifetime",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1484,
+      628
+    ],
+    "content_original_bounds": [
+      92,
+      280,
+      1436,
+      702
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2894,
+      1225
+    ]
+  },
+  {
+    "name": "cppfriend_stack_pointer_relink",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1406,
+      696
+    ],
+    "content_original_bounds": [
+      100,
+      232,
+      1358,
+      722
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2742,
+      1358
+    ]
+  },
+  {
+    "name": "cppfriend_stack_pop",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1486,
+      714
+    ],
+    "content_original_bounds": [
+      74,
+      204,
+      1438,
+      712
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2898,
+      1393
+    ]
+  },
+  {
+    "name": "cppfriend_stack_push",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1484,
+      718
+    ],
+    "content_original_bounds": [
+      64,
+      206,
+      1436,
+      718
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2894,
+      1401
+    ]
+  },
+  {
+    "name": "cppfriend_stack_shallow_copy",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1272,
+      690
+    ],
+    "content_original_bounds": [
+      138,
+      224,
+      1224,
+      708
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2481,
+      1346
+    ]
+  },
+  {
+    "name": "cppfriend_static_member_storage",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1402,
+      664
+    ],
+    "content_original_bounds": [
+      74,
+      206,
+      1354,
+      664
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2734,
+      1295
+    ]
+  },
+  {
+    "name": "cppfriend_student_setname_lifetime",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      642
+    ],
+    "content_original_bounds": [
+      92,
+      278,
+      1500,
+      714
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1252
+    ]
+  },
+  {
+    "name": "cppfriend_this_vs_nonmember",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      668
+    ],
+    "content_original_bounds": [
+      68,
+      202,
+      1486,
+      664
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1303
+    ]
+  },
+  {
+    "name": "cppfriend_three_file_boundary",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      720
+    ],
+    "content_original_bounds": [
+      74,
+      214,
+      1500,
+      728
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1404
+    ]
+  },
+  {
+    "name": "cppfriend_two_class_friend",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1462,
+      728
+    ],
+    "content_original_bounds": [
+      74,
+      222,
+      1414,
+      744
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2851,
+      1420
+    ]
+  },
+  {
+    "name": "cppfriend_undefined_reference",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1500,
+      676
+    ],
+    "content_original_bounds": [
+      114,
+      230,
+      1500,
+      700
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2925,
+      1319
+    ]
+  },
+  {
+    "name": "cppfriend_use_after_free",
+    "old_canvas": [
+      1500,
+      820
+    ],
+    "new_canvas": [
+      1466,
+      630
+    ],
+    "content_original_bounds": [
+      86,
+      232,
+      1418,
+      656
+    ],
+    "font_render": "outlined glyph paths",
+    "png_resolution": [
+      2859,
+      1229
+    ]
+  }
+]

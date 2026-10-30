@@ -1,0 +1,419 @@
+[
+  {
+    "base": "cppfriend_access_boundary_a956dd14-44c1-49cb-afd6-f5057289b882",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_build_pipeline_bd429d33-3c46-4e85-8a43-73f22cf0d70b",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_compile_diagnostic_map_bb955d23-7a44-441c-ac34-8ad730a1ea38",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_const_member_mutates_target_e02cf075-1cba-4861-bf68-9dcf11c35b5a",
+    "compacted": true,
+    "saved_vertical_units": 64.0,
+    "gap": [
+      546,
+      642
+    ]
+  },
+  {
+    "base": "cppfriend_const_ref_args_70fa1a08-0446-4428-bd78-8d554d5b17ae",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_debug_preprocessor_ac3adb52-fed3-456e-9566-c9eb5dc8d98b",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_distance_calls_1d4915f9-febf-4094-9533-ceda4af73a25",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_distance_plane_e4a53491-dee9-4936-a287-479fcf6c2d76",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_forward_declaration_4e1190b2-aaa6-4bab-bad5-c95f4999218a",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_friend_class_scope_ef883456-d80b-4102-9662-9b94fd28d83a",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_friend_compile_order_9c3c50bb-f7f1-4e36-b07b-f42803fe53b1",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_friend_coupling_change_256b54de-9354-418d-a35a-9e5198ecad66",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_friend_edges_512a43d6-5820-47c0-b9b2-43e32b562b83",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_friend_scope_demo_a0ca2a89-5d9a-43b3-a2dc-9d8beeb67579",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_function_odr_fdb66cea-3fc8-4828-8b99-923f3dad8544",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_getters_vs_friend_5030bd3b-c7b4-4401-b08a-ea0386f61344",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_grade_friend_decision_49ecf05b-401f-441f-932c-960b8894cf88",
+    "compacted": true,
+    "saved_vertical_units": 98.0,
+    "gap": [
+      384,
+      514
+    ]
+  },
+  {
+    "base": "cppfriend_header_guard_47600393-2b05-4d9e-8788-89a189ef7334",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_header_include_lookup_a4cd0a50-6a78-4e18-b60d-24400b5a833b",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_include_expansion_6840f588-3fa3-4e31-9bf9-97310a64bbb5",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_incomplete_type_cases_f2a506a2-a192-4103-8157-4f590602efcb",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_int_to_real_1cd733c0-bc7c-44c3-a53f-ff4b37b26eae",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_macro_double_eval_b1cdd53a-7f1a-4c29-bf47-01a97b43a9e6",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_macro_parentheses_43b6aa55-b9cb-4a4d-a9d0-eff45ef2b5dc",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_member_friend_arith_d5992fdb-ee6d-492c-8e30-2d9d0976f42d",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_member_friend_transform_2d90d5ac-5050-4fae-b9d8-b37a33376bd8",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_member_header_depend_b46307ec-5cb9-45ff-b9ef-166bac6fe891",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_node_layout_exact_47cd588e-32f6-4f9d-842c-6ad7b7d5f26a",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_object_lifetime_order_b5a4b7d9-c2a7-441e-8108-b6c0d350abd7",
+    "compacted": true,
+    "saved_vertical_units": 70.0,
+    "gap": [
+      476,
+      578
+    ]
+  },
+  {
+    "base": "cppfriend_path_escape_404024c4-2f4d-4e55-8518-fed75ce01454",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_permission_cells_7d5d522e-f1ab-41d0-9ca9-74e1e6cba27b",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_pointer_ownership_f3bfda1e-9310-43ef-bdfb-0183d4b4257b",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_pop_oldtop_snapshot_52b5440a-cdaf-460d-b7a3-90174bb9c9a2",
+    "compacted": true,
+    "saved_vertical_units": 82.0,
+    "gap": [
+      404,
+      518
+    ]
+  },
+  {
+    "base": "cppfriend_pop_zero_ambiguity_73c3576c-d0bd-4273-bea8-9f3759ae5399",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_print_off_by_one_b857c2c9-3898-43d5-8007-edaa9cfa72a4",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_push_alloc_first_9f7b40a9-2801-4fa7-9d0d-df989fc0e1e9",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_push_top_commit_55fa66e2-21a8-4994-8190-fcce55c5d736",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_raw_pointer_alias_adb27e51-4ebc-412b-9c1b-932dc11256f3",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_real_int_trunc_0f0ed0ba-7492-486b-9278-ac440e3b22b6",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_real_to_int_collision_bad49d4f-b5cb-43a2-b7f3-def2f0325acc",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_self_member_size_e5808762-2176-4d8c-8e20-bb9133a75f8a",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_set_add_trace_e8c885f9-9716-4e59-83b7-b329217d64f6",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_set_capacity_90e0aa91-b9fc-40f1-9482-a56f6970ee3f",
+    "compacted": true,
+    "saved_vertical_units": 62.98,
+    "gap": [
+      408,
+      503
+    ]
+  },
+  {
+    "base": "cppfriend_set_clear_logic_c6e49490-a333-45f1-bbff-bac8682dc264",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_set_conversion_paths_6c8ca8b8-62d7-4a37-8218-0d82856376b1",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_set_dedup_trace_3d100bb1-390e-4657-900e-06b18ca6f19c",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_setname_alias_danger_bccf5e97-869f-4d0f-9b67-13a76c250e1c",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_shared_static_pointer_0fc0f92b-f773-4f53-aa3d-eb99603825ec",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_signature_mismatch_094a3219-3815-4f90-aaa6-9b7e5c20db8c",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_specific_member_right_f10e9bef-1231-4793-bcce-a23be700d354",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_stack_destructor_f616d691-d458-4cd9-b33e-b92901a94e0a",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_stack_interactive_trace_a078d588-8357-419c-b274-27fe0a589c6f",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_stack_layout_8a813e30-b22a-4601-b3a7-9f5ccf0f1670",
+    "compacted": true,
+    "saved_vertical_units": 64.0,
+    "gap": [
+      522,
+      618
+    ]
+  },
+  {
+    "base": "cppfriend_stack_lifetime_4bad3f48-9999-4cb8-85c9-205828ef3a81",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_stack_pointer_relink_4d49964b-e177-40a2-a9ff-1c6af1935040",
+    "compacted": true,
+    "saved_vertical_units": 37.36,
+    "gap": [
+      358,
+      427
+    ]
+  },
+  {
+    "base": "cppfriend_stack_pop_9ce850d2-a0b4-49a3-9aba-9e1eb795f97d",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_stack_push_0418a0cf-aea8-4788-afca-35d7b7a82a7d",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_stack_shallow_copy_af3a1863-acec-4ee3-bdfc-b2a74c001117",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_static_member_storage_0e954073-d12d-48e7-baaa-30920603ac3e",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_student_setname_lifetime_ff790df7-e36a-4164-841e-27a0552aede6",
+    "compacted": true,
+    "saved_vertical_units": 96.0,
+    "gap": [
+      334,
+      462
+    ]
+  },
+  {
+    "base": "cppfriend_this_vs_nonmember_3dba8a37-b592-41bd-9219-bc63bf64c1b0",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_three_file_boundary_c8577ab4-d0d1-4c9e-9e6f-4d850eaf46df",
+    "compacted": true,
+    "saved_vertical_units": 48.0,
+    "gap": [
+      578,
+      658
+    ]
+  },
+  {
+    "base": "cppfriend_two_class_friend_9ef1d7fd-c61d-4641-bf0a-371e3baef9f8",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_undefined_reference_aa5850fc-7763-4d2a-9a9f-5a9273f68ccd",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  },
+  {
+    "base": "cppfriend_use_after_free_6e9a2917-2beb-433a-a1a3-4fd669f268ea",
+    "compacted": false,
+    "saved_vertical_units": 0,
+    "gap": null
+  }
+]

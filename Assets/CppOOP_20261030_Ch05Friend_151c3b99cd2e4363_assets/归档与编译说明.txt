@@ -1,0 +1,18 @@
+《C++ 第五讲 友元与程序组织》归档说明
+
+本次正文为独立 Markdown；配图 65 幅，全部由脚本原创建模绘制，不含幻灯片或网页截图。
+其中 images/ 包含 PNG 阅读版和 SVG 矢量版，均为原创建图；code/ 包含 6 组编译通过的三文件或多文件项目与 CMakeLists.txt。
+
+重要：默认采用用户约定的 Obsidian 模式 A（完整 Vault 内路径 Wiki 图片嵌入）。
+1. 将 ZIP 根目录的《C++面向对象程序设计_第五讲_友元与程序组织_图解笔记.md》移入 Vault 中任意笔记目录。
+2. 将 ZIP 根目录中的整个 CppOOP_20261030_Ch05Friend_151c3b99cd2e4363_assets/ 文件夹，不改名，原样放入 Vault 根目录下的 Assets/ 文件夹。
+3. 正确的最终位置是 Vault/Assets/CppOOP_20261030_Ch05Friend_151c3b99cd2e4363_assets/images/*.png，不是 Vault/CppOOP_20261030_Ch05Friend_151c3b99cd2e4363_assets/images/*.png。
+4. Markdown 已写好 ![[Assets/CppOOP_20261030_Ch05Friend_151c3b99cd2e4363_assets/images/....png]] 形式链接，在上述结构下不随笔记移动而改变。
+5. 如果你的公共附件目录不叫 Assets，必须先把全部 Wiki 图片链接中的 Assets/ 前缀替换为真实目录。
+6. 静态 HTML/普通 Markdown 工具可能无法直接处理 Obsidian Wiki 图片嵌入；需让导入程序识别 ![[...]] 或转换为相应的静态资源 URL。
+7. 可将 code/ 下的案例文件夹在 CLion 中作为 CMake 项目分别打开，或在文件夹内使用 g++ -std=c++17 *.cpp -o app 编译。
+
+编译验证：所附 6 个示例均经过 g++ -std=c++17 -Wall -Wextra -pedantic 编译与实际运行。
+测试结果详见 build_validation.json。
+
+不含源 PPT 的任何截图；本交付不需要从源 PPT 中裁切图像。受限于不能访问你的完整历史 Vault，无法对不可见历史资源逐一查重；UUIDv4 可降低文件名意外冲突概率。

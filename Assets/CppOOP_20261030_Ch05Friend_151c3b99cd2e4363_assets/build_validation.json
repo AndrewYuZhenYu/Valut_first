@@ -1,0 +1,38 @@
+[
+  {
+    "案例": "01_PointDistance",
+    "编译": "PASS",
+    "运行": "PASS",
+    "实际输出": "Distance = 5"
+  },
+  {
+    "案例": "02_SetConversion",
+    "编译": "PASS",
+    "运行": "PASS",
+    "实际输出": "int -> real: {1, 2, 3}\nreal -> int: {4, -3}"
+  },
+  {
+    "案例": "03_MemberFriend",
+    "编译": "PASS",
+    "运行": "PASS",
+    "实际输出": "8, 6"
+  },
+  {
+    "案例": "04_FriendStack",
+    "编译": "PASS",
+    "运行": "PASS",
+    "实际输出": "50 23"
+  },
+  {
+    "案例": "05_ObjectAndStatic",
+    "编译": "PASS",
+    "运行": "PASS",
+    "实际输出": "Construct 0\nConstruct 1\nConstruct 2\nConstruct 3\nDestroy 3\nDestroy 2\nDestroy 1\nDestroy 0"
+  },
+  {
+    "案例": "06_ComplexThreeFiles",
+    "编译": "PASS",
+    "运行": "PASS",
+    "实际输出": "6, 2"
+  }
+]

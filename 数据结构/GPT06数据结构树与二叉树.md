@@ -132,6 +132,7 @@ $$
 ![[Assets/DataStructures_20261029_Ch06Trees_5ba43f2604d74acf_assets/images/ds06_full_binary_01fdf46d-bb09-4c23-ab87-3e24da15db63.svg]]
 
 **完全二叉树**：按层次从上到下、从左到右依次给结点编号 $1,2,\ldots,n$，恰与某棵满二叉树编号为 $1$ 到 $n$ 的位置一一对应。更直观地说，最后一层可以不满，但结点必须**从左端起连续排列，不能跳过空位**。
+**核心特点**：除了最后一层以外，其他层的节点必须全部排满；最后一层的节点必须从左往右连续排列，不能有空缺。
 
 ![[Assets/DataStructures_20261029_Ch06Trees_5ba43f2604d74acf_assets/images/ds06_complete_binary_f5f7b36e-7b67-499d-956a-31adb08ed35f.svg]]
 

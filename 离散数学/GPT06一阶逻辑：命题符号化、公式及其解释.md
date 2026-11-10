@@ -887,6 +887,31 @@ $$
 每一步都有依据：量词否定 → 蕴含等值式 → 德摩根律与双重否定。结论**不是**“所有学生都不及格”，而是“至少一个学生不及格”。
 
 ### 8.2 对多个量词逐层否定
+##### 量词否定等值式
+
+**核心规则：** 否定符号 $\neg$ 穿过量词时，量词互换（$\forall \leftrightarrow \exists$），否定符号向内移动。
+
+$$
+\neg \forall x A(x) \equiv \exists x \neg A(x)
+$$
+
+$$
+\neg \exists x A(x) \equiv \forall x \neg A(x)
+$$
+
+**多个量词：** 从外向内逐层否定，每经过一个量词就交换一次，直到否定符号作用于原子公式。
+
+例如：
+
+$$
+\begin{aligned}
+\neg \forall x \exists y R(x,y)
+&\equiv \exists x \neg \exists y R(x,y)\\
+&\equiv \exists x \forall y \neg R(x,y)
+\end{aligned}
+$$
+
+**注意：** 量词交换后，否定符号不能直接消失，必须继续向内传递。
 
 例如：
 
@@ -905,6 +930,7 @@ $$
 $$
 \boxed{\leftrightarrow\exists x\forall y\neg R(x,y)}
 $$
+
 
 读作：原句是“每个 $x$ 都找得到一个 $y$”；其否定是“**存在一个 $x$，对所有 $y$ 都失败**”。尤其要留意 $\forall\exists$ 否定后的形式，不是简单在整句话末尾加 $\neg$ 并保留原量词不变。
 

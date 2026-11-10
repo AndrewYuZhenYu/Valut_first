@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="316.8pt" viewBox="0 0 792 316.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T03:53:16.199719</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 316.8 
+L 792 316.8 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 63.74016 251.551872 
+L 363.93984 251.551872 
+Q 378.51264 251.551872 378.51264 245.912832 
+L 378.51264 84.636288 
+Q 378.51264 78.997248 363.93984 78.997248 
+L 63.74016 78.997248 
+Q 49.16736 78.997248 49.16736 84.636288 
+L 49.16736 245.912832 
+Q 49.16736 251.551872 63.74016 251.551872 
+z
+" clip-path="url(#pea4664b72a)" style="fill: #e7f2fa; stroke: #bac9d8; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 428.06016 251.551872 
+L 728.25984 251.551872 
+Q 742.83264 251.551872 742.83264 245.912832 
+L 742.83264 84.636288 
+Q 742.83264 78.997248 728.25984 78.997248 
+L 428.06016 78.997248 
+Q 413.48736 78.997248 413.48736 84.636288 
+L 413.48736 245.912832 
+Q 413.48736 251.551872 428.06016 251.551872 
+z
+" clip-path="url(#pea4664b72a)" style="fill: #e8f8f3; stroke: #bac9d8; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 155.5488 197.417088 
+C 162.118878 197.417088 168.420747 196.407008 173.066494 194.609306 
+C 177.71224 192.811604 180.32256 190.373055 180.32256 187.83072 
+C 180.32256 185.288385 177.71224 182.849836 173.066494 181.052134 
+C 168.420747 179.254432 162.118878 178.244352 155.5488 178.244352 
+C 148.978722 178.244352 142.676853 179.254432 138.031106 181.052134 
+C 133.38536 182.849836 130.77504 185.288385 130.77504 187.83072 
+C 130.77504 190.373055 133.38536 192.811604 138.031106 194.609306 
+C 142.676853 196.407008 148.978722 197.417088 155.5488 197.417088 
+z
+" clip-path="url(#pea4664b72a)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 264.8448 197.417088 
+C 271.414878 197.417088 277.716747 196.407008 282.362494 194.609306 
+C 287.00824 192.811604 289.61856 190.373055 289.61856 187.83072 
+C 289.61856 185.288385 287.00824 182.849836 282.362494 181.052134 
+C 277.716747 179.254432 271.414878 178.244352 264.8448 178.244352 
+C 258.274722 178.244352 251.972853 179.254432 247.327106 181.052134 
+C 242.68136 182.849836 240.07104 185.288385 240.07104 187.83072 
+C 240.07104 190.373055 242.68136 192.811604 247.327106 194.609306 
+C 251.972853 196.407008 258.274722 197.417088 264.8448 197.417088 
+z
+" clip-path="url(#pea4664b72a)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 505.296 194.597568 
+C 511.866078 194.597568 518.167947 193.587488 522.813694 191.789786 
+C 527.45944 189.992084 530.06976 187.553535 530.06976 185.0112 
+C 530.06976 182.468865 527.45944 180.030316 522.813694 178.232614 
+C 518.167947 176.434912 511.866078 175.424832 505.296 175.424832 
+C 498.725922 175.424832 492.424053 176.434912 487.778306 178.232614 
+C 483.13256 180.030316 480.52224 182.468865 480.52224 185.0112 
+C 480.52224 187.553535 483.13256 189.992084 487.778306 191.789786 
+C 492.424053 193.587488 498.725922 194.597568 505.296 194.597568 
+z
+" clip-path="url(#pea4664b72a)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 651.024 194.597568 
+C 657.594078 194.597568 663.895947 193.587488 668.541694 191.789786 
+C 673.18744 189.992084 675.79776 187.553535 675.79776 185.0112 
+C 675.79776 182.468865 673.18744 180.030316 668.541694 178.232614 
+C 663.895947 176.434912 657.594078 175.424832 651.024 175.424832 
+C 644.453922 175.424832 638.152053 176.434912 633.506306 178.232614 
+C 628.86056 180.030316 626.25024 182.468865 626.25024 185.0112 
+C 626.25024 187.553535 628.86056 189.992084 633.506306 191.789786 
+C 638.152053 193.587488 644.453922 194.597568 651.024 194.597568 
+z
+" clip-path="url(#pea4664b72a)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 126.4032 213.2064 
+L 293.9904 153.99648 
+" clip-path="url(#pea4664b72a)" style="fill: none; stroke: #1c689f; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 476.1504 216.02592 
+L 680.1696 153.99648 
+" clip-path="url(#pea4664b72a)" style="fill: none; stroke: #17847e; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 476.1504 216.02592 
+L 680.1696 153.99648 
+" clip-path="url(#pea4664b72a)" style="fill: none; stroke: #17847e; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #233247" x="53.5392" y="39.752745" transform="rotate(-0 53.5392 39.752745)">“恰有一个”由存在性与唯一性两部分组成</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #1c689f" x="213.84" y="121.227341" transform="rotate(-0 213.84 121.227341)">存在性</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="578.16" y="121.227341" transform="rotate(-0 578.16 121.227341)">唯一性</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="213.84" y="238.044915" transform="rotate(-0 213.84 238.044915)">至少有一条线</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="578.16" y="237.761478" transform="rotate(-0 578.16 237.761478)">满足条件的线都相同</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="396" y="277.234758" transform="rotate(-0 396 277.234758)">只写“任意两条都相同”不能保证真的存在一条。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pea4664b72a">
+   <rect x="31.68" y="15.84" width="728.64" height="281.952"/>
+  </clipPath>
+ </defs>
+</svg>

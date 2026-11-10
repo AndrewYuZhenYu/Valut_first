@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="352.8pt" viewBox="0 0 792 352.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T03:53:16.298580</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 352.8 
+L 792 352.8 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 63.74016 151.400592 
+L 247.35744 151.400592 
+Q 261.93024 151.400592 261.93024 145.120752 
+L 261.93024 87.974208 
+Q 261.93024 81.694368 247.35744 81.694368 
+L 63.74016 81.694368 
+Q 49.16736 81.694368 49.16736 87.974208 
+L 49.16736 145.120752 
+Q 49.16736 151.400592 63.74016 151.400592 
+z
+" clip-path="url(#p4b55a96ad3)" style="fill: #f4f6fa; stroke: #bac9d8; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 304.19136 151.400592 
+L 487.80864 151.400592 
+Q 502.38144 151.400592 502.38144 145.120752 
+L 502.38144 87.974208 
+Q 502.38144 81.694368 487.80864 81.694368 
+L 304.19136 81.694368 
+Q 289.61856 81.694368 289.61856 87.974208 
+L 289.61856 145.120752 
+Q 289.61856 151.400592 304.19136 151.400592 
+z
+" clip-path="url(#p4b55a96ad3)" style="fill: #e7f2fa; stroke: #bac9d8; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 544.64256 151.400592 
+L 728.25984 151.400592 
+Q 742.83264 151.400592 742.83264 145.120752 
+L 742.83264 87.974208 
+Q 742.83264 81.694368 728.25984 81.694368 
+L 544.64256 81.694368 
+Q 530.06976 81.694368 530.06976 87.974208 
+L 530.06976 145.120752 
+Q 530.06976 151.400592 544.64256 151.400592 
+z
+" clip-path="url(#p4b55a96ad3)" style="fill: #e8f8f3; stroke: #bac9d8; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 266.843401 114.97752 
+Q 275.772428 114.97752 282.465386 114.97752 
+" clip-path="url(#p4b55a96ad3)" style="fill: none; stroke: #1c689f; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 275.265386 111.37752 
+L 282.465386 114.97752 
+L 275.265386 118.57752 
+z
+" clip-path="url(#p4b55a96ad3)" style="fill: #1c689f; stroke: #1c689f; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 507.294601 114.97752 
+Q 516.223628 114.97752 522.916586 114.97752 
+" clip-path="url(#p4b55a96ad3)" style="fill: none; stroke: #1c689f; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 515.716586 111.37752 
+L 522.916586 114.97752 
+L 515.716586 118.57752 
+z
+" clip-path="url(#p4b55a96ad3)" style="fill: #1c689f; stroke: #1c689f; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #233247" x="53.5392" y="43.475145" transform="rotate(-0 53.5392 43.475145)">项、原子公式与合式公式：逐层构造</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="155.5488" y="108.539012" transform="rotate(-0 155.5488 108.539012)">项</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="155.5488" y="138.635478" transform="rotate(-0 155.5488 138.635478)">a, x, f(a,x)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #1c689f" x="396" y="108.539012" transform="rotate(-0 396 108.539012)">原子公式</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="396" y="138.35204" transform="rotate(-0 396 138.35204)">F(f(a,x),b)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="636.4512" y="108.539012" transform="rotate(-0 636.4512 108.539012)">合式公式</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="636.4512" y="138.35204" transform="rotate(-0 636.4512 138.35204)">∀x(F(x)→G(x))</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="396" y="202.143253" transform="rotate(-0 396 202.143253)">f(a,x) 是对象项，不是可直接判真的命题</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="396" y="246.102132" transform="rotate(-0 396 246.102132)">F(f(a,x),b) 才是可判真的原子公式</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #687789" x="396" y="292.774995" transform="rotate(-0 396 292.774995)">在原子公式外添加联结词、量词，生成更复杂的公式</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4b55a96ad3">
+   <rect x="31.68" y="17.64" width="728.64" height="313.992"/>
+  </clipPath>
+ </defs>
+</svg>

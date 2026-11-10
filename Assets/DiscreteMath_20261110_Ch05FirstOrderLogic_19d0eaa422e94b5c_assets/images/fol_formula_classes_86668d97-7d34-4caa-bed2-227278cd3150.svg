@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="345.6pt" viewBox="0 0 792 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T03:53:16.814859</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 792 345.6 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 238.61376 172.917504 
+L 312.93504 172.917504 
+Q 320.22144 172.917504 320.22144 169.841664 
+L 320.22144 135.392256 
+Q 320.22144 132.316416 312.93504 132.316416 
+L 238.61376 132.316416 
+Q 231.32736 132.316416 231.32736 135.392256 
+L 231.32736 169.841664 
+Q 231.32736 172.917504 238.61376 172.917504 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #e8f8f3"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 347.90976 172.917504 
+L 422.23104 172.917504 
+Q 429.51744 172.917504 429.51744 169.841664 
+L 429.51744 135.392256 
+Q 429.51744 132.316416 422.23104 132.316416 
+L 347.90976 132.316416 
+Q 340.62336 132.316416 340.62336 135.392256 
+L 340.62336 169.841664 
+Q 340.62336 172.917504 347.90976 172.917504 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #e8f8f3"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 457.20576 172.917504 
+L 531.52704 172.917504 
+Q 538.81344 172.917504 538.81344 169.841664 
+L 538.81344 135.392256 
+Q 538.81344 132.316416 531.52704 132.316416 
+L 457.20576 132.316416 
+Q 449.91936 132.316416 449.91936 135.392256 
+L 449.91936 169.841664 
+Q 449.91936 172.917504 457.20576 172.917504 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #e8f8f3"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 566.50176 172.917504 
+L 640.82304 172.917504 
+Q 648.10944 172.917504 648.10944 169.841664 
+L 648.10944 135.392256 
+Q 648.10944 132.316416 640.82304 132.316416 
+L 566.50176 132.316416 
+Q 559.21536 132.316416 559.21536 135.392256 
+L 559.21536 169.841664 
+Q 559.21536 172.917504 566.50176 172.917504 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #e8f8f3"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 238.61376 231.358464 
+L 312.93504 231.358464 
+Q 320.22144 231.358464 320.22144 228.282624 
+L 320.22144 193.833216 
+Q 320.22144 190.757376 312.93504 190.757376 
+L 238.61376 190.757376 
+Q 231.32736 190.757376 231.32736 193.833216 
+L 231.32736 228.282624 
+Q 231.32736 231.358464 238.61376 231.358464 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #fcefed"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 347.90976 231.358464 
+L 422.23104 231.358464 
+Q 429.51744 231.358464 429.51744 228.282624 
+L 429.51744 193.833216 
+Q 429.51744 190.757376 422.23104 190.757376 
+L 347.90976 190.757376 
+Q 340.62336 190.757376 340.62336 193.833216 
+L 340.62336 228.282624 
+Q 340.62336 231.358464 347.90976 231.358464 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #fcefed"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 457.20576 231.358464 
+L 531.52704 231.358464 
+Q 538.81344 231.358464 538.81344 228.282624 
+L 538.81344 193.833216 
+Q 538.81344 190.757376 531.52704 190.757376 
+L 457.20576 190.757376 
+Q 449.91936 190.757376 449.91936 193.833216 
+L 449.91936 228.282624 
+Q 449.91936 231.358464 457.20576 231.358464 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #fcefed"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 566.50176 231.358464 
+L 640.82304 231.358464 
+Q 648.10944 231.358464 648.10944 228.282624 
+L 648.10944 193.833216 
+Q 648.10944 190.757376 640.82304 190.757376 
+L 566.50176 190.757376 
+Q 559.21536 190.757376 559.21536 193.833216 
+L 559.21536 228.282624 
+Q 559.21536 231.358464 566.50176 231.358464 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #fcefed"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 238.61376 289.799424 
+L 312.93504 289.799424 
+Q 320.22144 289.799424 320.22144 286.723584 
+L 320.22144 252.274176 
+Q 320.22144 249.198336 312.93504 249.198336 
+L 238.61376 249.198336 
+Q 231.32736 249.198336 231.32736 252.274176 
+L 231.32736 286.723584 
+Q 231.32736 289.799424 238.61376 289.799424 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #e8f8f3"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 347.90976 289.799424 
+L 422.23104 289.799424 
+Q 429.51744 289.799424 429.51744 286.723584 
+L 429.51744 252.274176 
+Q 429.51744 249.198336 422.23104 249.198336 
+L 347.90976 249.198336 
+Q 340.62336 249.198336 340.62336 252.274176 
+L 340.62336 286.723584 
+Q 340.62336 289.799424 347.90976 289.799424 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #fcefed"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 457.20576 289.799424 
+L 531.52704 289.799424 
+Q 538.81344 289.799424 538.81344 286.723584 
+L 538.81344 252.274176 
+Q 538.81344 249.198336 531.52704 249.198336 
+L 457.20576 249.198336 
+Q 449.91936 249.198336 449.91936 252.274176 
+L 449.91936 286.723584 
+Q 449.91936 289.799424 457.20576 289.799424 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #e8f8f3"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 566.50176 289.799424 
+L 640.82304 289.799424 
+Q 648.10944 289.799424 648.10944 286.723584 
+L 648.10944 252.274176 
+Q 648.10944 249.198336 640.82304 249.198336 
+L 566.50176 249.198336 
+Q 559.21536 249.198336 559.21536 252.274176 
+L 559.21536 286.723584 
+Q 559.21536 289.799424 566.50176 289.799424 
+z
+" clip-path="url(#pe891b59f66)" style="fill: #fcefed"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #233247" x="53.5392" y="42.730665" transform="rotate(-0 53.5392 42.730665)">永真式、矛盾式与可满足式：看所有解释中的真值</text>
+   </g>
+   <g id="text_2">
+    <!-- 解释 $I_1$ -->
+    <g style="fill: #687789" transform="translate(246.6312 114.373637)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">解</tspan>
+      <tspan x="16.999985" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">释</tspan>
+      <tspan x="33.999969" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789"> </tspan>
+      <tspan x="37.807968" y="-0.5" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #687789">I</tspan>
+      <tspan x="42.82164" y="2.289062" style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #687789">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- 解释 $I_2$ -->
+    <g style="fill: #687789" transform="translate(355.9272 114.373637)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">解</tspan>
+      <tspan x="16.999985" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">释</tspan>
+      <tspan x="33.999969" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789"> </tspan>
+      <tspan x="37.807968" y="-0.5" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #687789">I</tspan>
+      <tspan x="42.82164" y="2.289062" style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #687789">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- 解释 $I_3$ -->
+    <g style="fill: #687789" transform="translate(465.2232 114.416137)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">解</tspan>
+      <tspan x="16.999985" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">释</tspan>
+      <tspan x="33.999969" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789"> </tspan>
+      <tspan x="37.807968" y="-0.5" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #687789">I</tspan>
+      <tspan x="42.82164" y="2.289062" style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #687789">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- 解释 $I_4$ -->
+    <g style="fill: #687789" transform="translate(574.5192 114.373637)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">解</tspan>
+      <tspan x="16.999985" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789">释</tspan>
+      <tspan x="33.999969" y="-0.5" style="font-size: 17px; font-family: 'Noto Sans CJK JP'; fill: #687789"> </tspan>
+      <tspan x="37.807968" y="-0.5" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #687789">I</tspan>
+      <tspan x="42.82164" y="2.289062" style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #687789">4</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #17847e" x="53.5392" y="157.863679" transform="rotate(-0 53.5392 157.863679)">永真式</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="272.1312" y="157.863679" transform="rotate(-0 272.1312 157.863679)">真</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="381.4272" y="157.863679" transform="rotate(-0 381.4272 157.863679)">真</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="490.7232" y="157.863679" transform="rotate(-0 490.7232 157.863679)">真</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="600.0192" y="157.863679" transform="rotate(-0 600.0192 157.863679)">真</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #c0463d" x="53.5392" y="216.304639" transform="rotate(-0 53.5392 216.304639)">矛盾式</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="272.1312" y="216.304639" transform="rotate(-0 272.1312 216.304639)">假</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="381.4272" y="216.304639" transform="rotate(-0 381.4272 216.304639)">假</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="490.7232" y="216.304639" transform="rotate(-0 490.7232 216.304639)">假</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="600.0192" y="216.304639" transform="rotate(-0 600.0192 216.304639)">假</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #1c689f" x="53.5392" y="274.745599" transform="rotate(-0 53.5392 274.745599)">可满足但非永真</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="272.1312" y="274.745599" transform="rotate(-0 272.1312 274.745599)">真</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="381.4272" y="274.745599" transform="rotate(-0 381.4272 274.745599)">假</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="490.7232" y="274.745599" transform="rotate(-0 490.7232 274.745599)">真</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #c0463d" x="600.0192" y="274.745599" transform="rotate(-0 600.0192 274.745599)">假</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 15px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #687789" x="396" y="316.812202" transform="rotate(-0 396 316.812202)">示意：真实定义涉及全部可能解释及自由变项赋值，不限图中四种。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe891b59f66">
+   <rect x="31.68" y="17.28" width="728.64" height="307.584"/>
+  </clipPath>
+ </defs>
+</svg>

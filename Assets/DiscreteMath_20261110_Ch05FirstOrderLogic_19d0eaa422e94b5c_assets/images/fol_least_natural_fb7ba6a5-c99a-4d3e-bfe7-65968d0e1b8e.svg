@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="302.4pt" viewBox="0 0 792 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T03:53:16.112014</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 302.4 
+L 792 302.4 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 91.974471 176.6016 
+Q 396.003278 176.6016 697.348804 176.6016 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #233247; stroke-width: 2.4; stroke-linecap: round"/>
+    <path d="M 690.148804 173.0016 
+L 697.348804 176.6016 
+L 690.148804 180.2016 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #233247; stroke: #233247; stroke-width: 2.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 133.6896 183.33 
+C 138.52054 183.33 143.154267 182.621053 146.570257 181.359297 
+C 149.986247 180.097541 151.9056 178.385993 151.9056 176.6016 
+C 151.9056 174.817207 149.986247 173.105659 146.570257 171.843903 
+C 143.154267 170.582147 138.52054 169.8732 133.6896 169.8732 
+C 128.85866 169.8732 124.224933 170.582147 120.808943 171.843903 
+C 117.392953 173.105659 115.4736 174.817207 115.4736 176.6016 
+C 115.4736 178.385993 117.392953 180.097541 120.808943 181.359297 
+C 124.224933 182.621053 128.85866 183.33 133.6896 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #17847e; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 221.1264 183.33 
+C 225.95734 183.33 230.591067 182.621053 234.007057 181.359297 
+C 237.423047 180.097541 239.3424 178.385993 239.3424 176.6016 
+C 239.3424 174.817207 237.423047 173.105659 234.007057 171.843903 
+C 230.591067 170.582147 225.95734 169.8732 221.1264 169.8732 
+C 216.29546 169.8732 211.661733 170.582147 208.245743 171.843903 
+C 204.829753 173.105659 202.9104 174.817207 202.9104 176.6016 
+C 202.9104 178.385993 204.829753 180.097541 208.245743 181.359297 
+C 211.661733 182.621053 216.29546 183.33 221.1264 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 308.5632 183.33 
+C 313.39414 183.33 318.027867 182.621053 321.443857 181.359297 
+C 324.859847 180.097541 326.7792 178.385993 326.7792 176.6016 
+C 326.7792 174.817207 324.859847 173.105659 321.443857 171.843903 
+C 318.027867 170.582147 313.39414 169.8732 308.5632 169.8732 
+C 303.73226 169.8732 299.098533 170.582147 295.682543 171.843903 
+C 292.266553 173.105659 290.3472 174.817207 290.3472 176.6016 
+C 290.3472 178.385993 292.266553 180.097541 295.682543 181.359297 
+C 299.098533 182.621053 303.73226 183.33 308.5632 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 396 183.33 
+C 400.83094 183.33 405.464667 182.621053 408.880657 181.359297 
+C 412.296647 180.097541 414.216 178.385993 414.216 176.6016 
+C 414.216 174.817207 412.296647 173.105659 408.880657 171.843903 
+C 405.464667 170.582147 400.83094 169.8732 396 169.8732 
+C 391.16906 169.8732 386.535333 170.582147 383.119343 171.843903 
+C 379.703353 173.105659 377.784 174.817207 377.784 176.6016 
+C 377.784 178.385993 379.703353 180.097541 383.119343 181.359297 
+C 386.535333 182.621053 391.16906 183.33 396 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 483.4368 183.33 
+C 488.26774 183.33 492.901467 182.621053 496.317457 181.359297 
+C 499.733447 180.097541 501.6528 178.385993 501.6528 176.6016 
+C 501.6528 174.817207 499.733447 173.105659 496.317457 171.843903 
+C 492.901467 170.582147 488.26774 169.8732 483.4368 169.8732 
+C 478.60586 169.8732 473.972133 170.582147 470.556143 171.843903 
+C 467.140153 173.105659 465.2208 174.817207 465.2208 176.6016 
+C 465.2208 178.385993 467.140153 180.097541 470.556143 181.359297 
+C 473.972133 182.621053 478.60586 183.33 483.4368 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 570.8736 183.33 
+C 575.70454 183.33 580.338267 182.621053 583.754257 181.359297 
+C 587.170247 180.097541 589.0896 178.385993 589.0896 176.6016 
+C 589.0896 174.817207 587.170247 173.105659 583.754257 171.843903 
+C 580.338267 170.582147 575.70454 169.8732 570.8736 169.8732 
+C 566.04266 169.8732 561.408933 170.582147 557.992943 171.843903 
+C 554.576953 173.105659 552.6576 174.817207 552.6576 176.6016 
+C 552.6576 178.385993 554.576953 180.097541 557.992943 181.359297 
+C 561.408933 182.621053 566.04266 183.33 570.8736 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 658.3104 183.33 
+C 663.14134 183.33 667.775067 182.621053 671.191057 181.359297 
+C 674.607047 180.097541 676.5264 178.385993 676.5264 176.6016 
+C 676.5264 174.817207 674.607047 173.105659 671.191057 171.843903 
+C 667.775067 170.582147 663.14134 169.8732 658.3104 169.8732 
+C 653.47946 169.8732 648.845733 170.582147 645.429743 171.843903 
+C 642.013753 173.105659 640.0944 174.817207 640.0944 176.6016 
+C 640.0944 178.385993 642.013753 180.097541 645.429743 181.359297 
+C 648.845733 182.621053 653.47946 183.33 658.3104 183.33 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #1c689f; stroke: #ffffff; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 133.6896 140.923339 
+Q 133.6896 152.380743 133.6896 161.602079 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #17847e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 137.2896 154.402079 
+L 133.6896 161.602079 
+L 130.0896 154.402079 
+z
+" clip-path="url(#p653a7bb622)" style="fill: #17847e; stroke: #17847e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 133.6896 187.36704 
+L 133.6896 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 221.1264 187.36704 
+L 221.1264 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 308.5632 187.36704 
+L 308.5632 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 396 187.36704 
+L 396 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 483.4368 187.36704 
+L 483.4368 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 570.8736 187.36704 
+L 570.8736 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 658.3104 187.36704 
+L 658.3104 165.83616 
+" clip-path="url(#p653a7bb622)" style="fill: none; stroke: #687789; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK JP'; text-anchor: start; fill: #233247" x="53.5392" y="38.88816" transform="rotate(-0 53.5392 38.88816)">“存在最小自然数”：先选一个 x，再和全部 y 比较</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="133.6896" y="216.691155" transform="rotate(-0 133.6896 216.691155)">0</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="221.1264" y="216.691155" transform="rotate(-0 221.1264 216.691155)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="308.5632" y="216.691155" transform="rotate(-0 308.5632 216.691155)">2</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="396" y="216.691155" transform="rotate(-0 396 216.691155)">3</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="483.4368" y="216.691155" transform="rotate(-0 483.4368 216.691155)">4</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="570.8736" y="216.691155" transform="rotate(-0 570.8736 216.691155)">5</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="658.3104" y="216.691155" transform="rotate(-0 658.3104 216.691155)">6</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #17847e" x="133.6896" y="125.912727" transform="rotate(-0 133.6896 125.912727)">选定 x=0</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 20px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #233247" x="454.2912" y="120.81907" transform="rotate(-0 454.2912 120.81907)">对每个 y，都有 x ≤ y</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #687789" x="396" y="253.85082" transform="rotate(-0 396 253.85082)">本图采用 N={0,1,2,…}；若从 1 开始，则最小值为 1。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p653a7bb622">
+   <rect x="31.68" y="15.12" width="728.64" height="269.136"/>
+  </clipPath>
+ </defs>
+</svg>

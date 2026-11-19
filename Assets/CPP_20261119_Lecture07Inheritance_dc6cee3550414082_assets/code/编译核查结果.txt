@@ -1,0 +1,60 @@
+C++17 | g++ -Wall -Wextra -pedantic
+
+PointCircle: PASS
+OUTPUT:
+Point...
+Point...
+Circle...
+X = 7, Y = 1
+圆心为点(9, 9)
+半径为 9
+X = 9, Y = 9
+Delete Circle!
+Delete Point!
+Delete Point!
+
+
+NamedComplex: PASS
+OUTPUT:
+
+
+
+Access: PASS
+OUTPUT:
+
+
+
+Chief: PASS
+OUTPUT:
+Person...
+Date...
+ChiefExecutive...
+Delete ChiefExecutive!
+Delete Date!
+Delete Person!
+
+
+InitList: PASS
+OUTPUT:
+
+
+
+Multi: PASS
+OUTPUT:
+Bird
+Beast
+
+
+Virtual: PASS
+OUTPUT:
+Animal(99)
+Bird
+Beast
+Bat
+99
+
+
+Cylinder: PASS
+OUTPUT:
+12.5664 37.6991
+

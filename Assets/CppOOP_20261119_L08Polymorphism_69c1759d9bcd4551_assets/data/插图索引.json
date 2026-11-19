@@ -1,0 +1,396 @@
+{
+  "figure_count": 65,
+  "base_path": "Assets/CppOOP_20261119_L08Polymorphism_69c1759d9bcd4551_assets/images/",
+  "figures": [
+    {
+      "name": "same_message",
+      "title": "相同 Who() 消息，不同对象响应",
+      "png": "cpp08_same_message_2b98121c-d962-4d65-89d0-4b9b5a0736b0.png",
+      "svg": "cpp08_same_message_2b98121c-d962-4d65-89d0-4b9b5a0736b0.svg"
+    },
+    {
+      "name": "overload_compile",
+      "title": "重载在编译期按参数类型选择",
+      "png": "cpp08_overload_compile_987d33b3-cda3-4b12-ad2b-84accc6af8ff.png",
+      "svg": "cpp08_overload_compile_987d33b3-cda3-4b12-ad2b-84accc6af8ff.svg"
+    },
+    {
+      "name": "late_binding",
+      "title": "虚调用在运行期选择重写版本",
+      "png": "cpp08_late_binding_135316ce-983b-434c-9ce0-6806a6d78e06.png",
+      "svg": "cpp08_late_binding_135316ce-983b-434c-9ce0-6806a6d78e06.svg"
+    },
+    {
+      "name": "static_dynamic",
+      "title": "静态类型与动态类型分居两层",
+      "png": "cpp08_static_dynamic_035329c4-48f8-4e75-aecf-5ec66b943c31.png",
+      "svg": "cpp08_static_dynamic_035329c4-48f8-4e75-aecf-5ec66b943c31.svg"
+    },
+    {
+      "name": "binding_choice",
+      "title": "选择函数前先判断是否为虚调用",
+      "png": "cpp08_binding_choice_6ab4b91c-2a47-42f2-a6a4-c969923b44c3.png",
+      "svg": "cpp08_binding_choice_6ab4b91c-2a47-42f2-a6a4-c969923b44c3.svg"
+    },
+    {
+      "name": "upcast_pointer",
+      "title": "公有继承允许基类指针指向派生对象",
+      "png": "cpp08_upcast_pointer_1c68b561-b46c-443e-907d-7f486bdf2108.png",
+      "svg": "cpp08_upcast_pointer_1c68b561-b46c-443e-907d-7f486bdf2108.svg"
+    },
+    {
+      "name": "upcast_reference",
+      "title": "基类引用可以直接绑定派生对象",
+      "png": "cpp08_upcast_reference_dbd5fca0-2c2c-4868-bb5e-5afb515e997a.png",
+      "svg": "cpp08_upcast_reference_dbd5fca0-2c2c-4868-bb5e-5afb515e997a.svg"
+    },
+    {
+      "name": "nonvirtual_three",
+      "title": "没有 virtual：基类指针的三个调用",
+      "png": "cpp08_nonvirtual_three_7a809bbb-0ed8-447f-90a7-1efb46132430.png",
+      "svg": "cpp08_nonvirtual_three_7a809bbb-0ed8-447f-90a7-1efb46132430.svg"
+    },
+    {
+      "name": "nonvirtual_direct",
+      "title": "同一兽对象：直接调用与基类指针调用不同",
+      "png": "cpp08_nonvirtual_direct_f7f48982-6aa9-4019-9e41-748822bb043a.png",
+      "svg": "cpp08_nonvirtual_direct_f7f48982-6aa9-4019-9e41-748822bb043a.svg"
+    },
+    {
+      "name": "nonvirtual_reference",
+      "title": "没有 virtual：基类引用实参被静态绑定",
+      "png": "cpp08_nonvirtual_reference_92bb21f8-0b85-4940-8338-5e750c2a3f70.png",
+      "svg": "cpp08_nonvirtual_reference_92bb21f8-0b85-4940-8338-5e750c2a3f70.svg"
+    },
+    {
+      "name": "unsafe_downcast",
+      "title": "强制向下转型不是虚函数的替代方案",
+      "png": "cpp08_unsafe_downcast_250e6ea1-ffd2-4934-a67e-c00b27e16ba4.png",
+      "svg": "cpp08_unsafe_downcast_250e6ea1-ffd2-4934-a67e-c00b27e16ba4.svg"
+    },
+    {
+      "name": "object_slicing",
+      "title": "按值复制派生对象会发生对象切片",
+      "png": "cpp08_object_slicing_d3aec9c9-9b79-4238-b893-a49f63101fba.png",
+      "svg": "cpp08_object_slicing_d3aec9c9-9b79-4238-b893-a49f63101fba.svg"
+    },
+    {
+      "name": "virtual_three",
+      "title": "给 CAnimal::Who 加 virtual 后的三个调用",
+      "png": "cpp08_virtual_three_f8b8e2b8-9dac-46ae-b068-09b7a6a84feb.png",
+      "svg": "cpp08_virtual_three_f8b8e2b8-9dac-46ae-b068-09b7a6a84feb.svg"
+    },
+    {
+      "name": "virtual_reference",
+      "title": "基类引用传参发生动态分派",
+      "png": "cpp08_virtual_reference_4b8608bb-a1fb-480c-a40a-46117412eac9.png",
+      "svg": "cpp08_virtual_reference_4b8608bb-a1fb-480c-a40a-46117412eac9.svg"
+    },
+    {
+      "name": "virtual_pointer_param",
+      "title": "基类指针传参发生动态分派",
+      "png": "cpp08_virtual_pointer_param_bf254547-de02-4c1d-8920-3b889599bf7d.png",
+      "svg": "cpp08_virtual_pointer_param_bf254547-de02-4c1d-8920-3b889599bf7d.svg"
+    },
+    {
+      "name": "show_calls_who",
+      "title": "非虚 Show 内部调用虚 Who",
+      "png": "cpp08_show_calls_who_07134d11-4946-4ea9-85dd-468d33d326d4.png",
+      "svg": "cpp08_show_calls_who_07134d11-4946-4ea9-85dd-468d33d326d4.svg"
+    },
+    {
+      "name": "virtual_inherited",
+      "title": "派生类不再写 virtual 仍然保留虚特性",
+      "png": "cpp08_virtual_inherited_cfb9fd60-8954-4146-856a-a12a4aa341de.png",
+      "svg": "cpp08_virtual_inherited_cfb9fd60-8954-4146-856a-a12a4aa341de.svg"
+    },
+    {
+      "name": "override_match",
+      "title": "重写必须匹配对应函数的参数与限定符",
+      "png": "cpp08_override_match_9c26966f-b95a-43cb-a954-92489fda80d2.png",
+      "svg": "cpp08_override_match_9c26966f-b95a-43cb-a954-92489fda80d2.svg"
+    },
+    {
+      "name": "const_mismatch",
+      "title": "const 成员限定符不同，函数不是同一虚槽",
+      "png": "cpp08_const_mismatch_25835f74-c4d9-47c6-b698-ac198dbcfbd3.png",
+      "svg": "cpp08_const_mismatch_25835f74-c4d9-47c6-b698-ac198dbcfbd3.svg"
+    },
+    {
+      "name": "name_hiding",
+      "title": "同名函数隐藏与重载不是一回事",
+      "png": "cpp08_name_hiding_c1ed6e78-7652-4559-b4ef-1566a1d43aa3.png",
+      "svg": "cpp08_name_hiding_c1ed6e78-7652-4559-b4ef-1566a1d43aa3.svg"
+    },
+    {
+      "name": "covariant_return",
+      "title": "协变返回类型的有限例外",
+      "png": "cpp08_covariant_return_f7206c1c-c190-4e16-bf93-1e16505abfd6.png",
+      "svg": "cpp08_covariant_return_f7206c1c-c190-4e16-bf93-1e16505abfd6.svg"
+    },
+    {
+      "name": "qualified_suppression",
+      "title": "显式类名限定可关闭虚分派",
+      "png": "cpp08_qualified_suppression_4958e8d6-f603-4814-9a67-469b843ea188.png",
+      "svg": "cpp08_qualified_suppression_4958e8d6-f603-4814-9a67-469b843ea188.svg"
+    },
+    {
+      "name": "virtual_dispatch_steps",
+      "title": "虚分派的关键步骤",
+      "png": "cpp08_virtual_dispatch_steps_37716bc1-fdd6-4a36-ae78-530611abddf8.png",
+      "svg": "cpp08_virtual_dispatch_steps_37716bc1-fdd6-4a36-ae78-530611abddf8.svg"
+    },
+    {
+      "name": "vtable_base",
+      "title": "典型实现：基类对象的 vptr 与虚函数表",
+      "png": "cpp08_vtable_base_a2d1d3dd-39e5-4d8c-b691-364dae1bea2f.png",
+      "svg": "cpp08_vtable_base_a2d1d3dd-39e5-4d8c-b691-364dae1bea2f.svg"
+    },
+    {
+      "name": "vtable_derived",
+      "title": "典型实现：派生对象的虚函数槽更新",
+      "png": "cpp08_vtable_derived_3f614f52-c7c7-4968-9b69-4f5f598a7ad4.png",
+      "svg": "cpp08_vtable_derived_3f614f52-c7c7-4968-9b69-4f5f598a7ad4.svg"
+    },
+    {
+      "name": "vtable_shared",
+      "title": "多个同类对象可以共享同一虚函数表",
+      "png": "cpp08_vtable_shared_eb947e96-c33d-4cf2-a980-d23f7d63238a.png",
+      "svg": "cpp08_vtable_shared_eb947e96-c33d-4cf2-a980-d23f7d63238a.svg"
+    },
+    {
+      "name": "virtual_table_trace",
+      "title": "从基类指针到动态目标的二级寻址示意",
+      "png": "cpp08_virtual_table_trace_7ea6da2d-a970-41fd-b099-22166f22496d.png",
+      "svg": "cpp08_virtual_table_trace_7ea6da2d-a970-41fd-b099-22166f22496d.svg"
+    },
+    {
+      "name": "constructor_dispatch",
+      "title": "构造阶段调用虚函数的版本变化",
+      "png": "cpp08_constructor_dispatch_0ce5d536-bfce-452f-862a-bdaab4aa5cb3.png",
+      "svg": "cpp08_constructor_dispatch_0ce5d536-bfce-452f-862a-bdaab4aa5cb3.svg"
+    },
+    {
+      "name": "destructor_dispatch",
+      "title": "析构阶段虚调用逐层退回基类",
+      "png": "cpp08_destructor_dispatch_49a03620-9704-43d5-a9dc-3525659d6879.png",
+      "svg": "cpp08_destructor_dispatch_49a03620-9704-43d5-a9dc-3525659d6879.svg"
+    },
+    {
+      "name": "member_dispatch",
+      "title": "对象构造完成后，普通成员调用虚成员",
+      "png": "cpp08_member_dispatch_d009fec9-a97d-4750-8216-2c85eb080d4e.png",
+      "svg": "cpp08_member_dispatch_d009fec9-a97d-4750-8216-2c85eb080d4e.svg"
+    },
+    {
+      "name": "virtual_destructor",
+      "title": "虚析构确保基类指针删除派生对象",
+      "png": "cpp08_virtual_destructor_cac5d717-9b6f-4144-996c-bc93f3dffa8b.png",
+      "svg": "cpp08_virtual_destructor_cac5d717-9b6f-4144-996c-bc93f3dffa8b.svg"
+    },
+    {
+      "name": "nonvirtual_delete",
+      "title": "非虚析构下经基类指针删除是未定义行为",
+      "png": "cpp08_nonvirtual_delete_41892e22-42a8-41c6-bb16-8e6cd2eecfe3.png",
+      "svg": "cpp08_nonvirtual_delete_41892e22-42a8-41c6-bb16-8e6cd2eecfe3.svg"
+    },
+    {
+      "name": "inline_virtual",
+      "title": "内联与虚函数并不互斥",
+      "png": "cpp08_inline_virtual_3fb5471a-60ee-4105-b864-626c86a6277d.png",
+      "svg": "cpp08_inline_virtual_3fb5471a-60ee-4105-b864-626c86a6277d.svg"
+    },
+    {
+      "name": "virtual_restrictions",
+      "title": "哪些成员可以具有 virtual",
+      "png": "cpp08_virtual_restrictions_a8b06be7-3fbb-4fea-af3b-86635bbe504c.png",
+      "svg": "cpp08_virtual_restrictions_a8b06be7-3fbb-4fea-af3b-86635bbe504c.svg"
+    },
+    {
+      "name": "override_final",
+      "title": "override 检查重写，final 阻止继续重写",
+      "png": "cpp08_override_final_8dbde0e0-25f2-4c2e-86c5-52e7f562ae0a.png",
+      "svg": "cpp08_override_final_8dbde0e0-25f2-4c2e-86c5-52e7f562ae0a.svg"
+    },
+    {
+      "name": "diamond_duplicate",
+      "title": "普通菱形继承：两份基类子对象",
+      "png": "cpp08_diamond_duplicate_4137a63e-0346-4bcb-95d8-ebd58c68d339.png",
+      "svg": "cpp08_diamond_duplicate_4137a63e-0346-4bcb-95d8-ebd58c68d339.svg"
+    },
+    {
+      "name": "diamond_shared",
+      "title": "虚继承菱形：共享一份基类子对象",
+      "png": "cpp08_diamond_shared_5dd91b58-a7ee-4547-8df2-bd3955463d07.png",
+      "svg": "cpp08_diamond_shared_5dd91b58-a7ee-4547-8df2-bd3955463d07.svg"
+    },
+    {
+      "name": "diamond_layout",
+      "title": "普通菱形继承的对象内部含两份 Base",
+      "png": "cpp08_diamond_layout_91162ee0-7067-4bfc-9397-3550deeac502.png",
+      "svg": "cpp08_diamond_layout_91162ee0-7067-4bfc-9397-3550deeac502.svg"
+    },
+    {
+      "name": "diamond_shared_layout",
+      "title": "虚继承后的 Bat 只共享一个 Animal",
+      "png": "cpp08_diamond_shared_layout_48d2dffa-a1a3-49b3-b559-5a6e91a3d82f.png",
+      "svg": "cpp08_diamond_shared_layout_48d2dffa-a1a3-49b3-b559-5a6e91a3d82f.svg"
+    },
+    {
+      "name": "mi_animal_pointer",
+      "title": "PPT 蝙蝠案例：经 CAnimal* 的调用",
+      "png": "cpp08_mi_animal_pointer_1e902bec-235b-4e6d-ac2f-e04d7a6abec9.png",
+      "svg": "cpp08_mi_animal_pointer_1e902bec-235b-4e6d-ac2f-e04d7a6abec9.svg"
+    },
+    {
+      "name": "mi_beast_pointer",
+      "title": "PPT 蝙蝠案例：经 CBeast* 的调用",
+      "png": "cpp08_mi_beast_pointer_4f82fe7d-d44b-429c-a0f2-1f420a43c0dd.png",
+      "svg": "cpp08_mi_beast_pointer_4f82fe7d-d44b-429c-a0f2-1f420a43c0dd.svg"
+    },
+    {
+      "name": "mi_bird_pointer",
+      "title": "PPT 蝙蝠案例：经 CBird* 的调用",
+      "png": "cpp08_mi_bird_pointer_34ab31a7-0de3-4b7e-a8bf-d154af77cf64.png",
+      "svg": "cpp08_mi_bird_pointer_34ab31a7-0de3-4b7e-a8bf-d154af77cf64.svg"
+    },
+    {
+      "name": "mi_all_virtual",
+      "title": "若最顶层 Animal::Who 改为虚，三路均分派 Bat",
+      "png": "cpp08_mi_all_virtual_91f98b02-8d72-4733-9029-72e056af65f7.png",
+      "svg": "cpp08_mi_all_virtual_91f98b02-8d72-4733-9029-72e056af65f7.svg"
+    },
+    {
+      "name": "mi_static_virtualness",
+      "title": "同一 CBat 对象不同静态类型产生不同调用",
+      "png": "cpp08_mi_static_virtualness_0e1a10d4-f1e7-400e-b61c-f7c43e01e0b5.png",
+      "svg": "cpp08_mi_static_virtualness_0e1a10d4-f1e7-400e-b61c-f7c43e01e0b5.svg"
+    },
+    {
+      "name": "mi_pointer_adjust",
+      "title": "多重继承下不同基类指针可能指向不同子对象",
+      "png": "cpp08_mi_pointer_adjust_6295e1c8-5027-4a85-ac6e-d77b4c675136.png",
+      "svg": "cpp08_mi_pointer_adjust_6295e1c8-5027-4a85-ac6e-d77b4c675136.svg"
+    },
+    {
+      "name": "mi_virtual_base_order",
+      "title": "虚基类由最派生类负责初始化",
+      "png": "cpp08_mi_virtual_base_order_4d46d0f7-6065-4e5c-a8c4-796c883dae9d.png",
+      "svg": "cpp08_mi_virtual_base_order_4d46d0f7-6065-4e5c-a8c4-796c883dae9d.svg"
+    },
+    {
+      "name": "mi_ambiguity",
+      "title": "没有统一重写时，两个同名成员可能产生歧义",
+      "png": "cpp08_mi_ambiguity_21b573ef-887b-49df-a380-95df77511e3c.png",
+      "svg": "cpp08_mi_ambiguity_21b573ef-887b-49df-a380-95df77511e3c.svg"
+    },
+    {
+      "name": "two_virtual_meanings",
+      "title": "virtual 在函数与继承位置含义不同",
+      "png": "cpp08_two_virtual_meanings_365dc91b-1fb7-46e2-8946-fb1302e731e7.png",
+      "svg": "cpp08_two_virtual_meanings_365dc91b-1fb7-46e2-8946-fb1302e731e7.svg"
+    },
+    {
+      "name": "pure_interface",
+      "title": "纯虚函数指定派生类需要实现的统一接口",
+      "png": "cpp08_pure_interface_cb796f15-91da-47e3-b218-eb44ee49fe60.png",
+      "svg": "cpp08_pure_interface_cb796f15-91da-47e3-b218-eb44ee49fe60.svg"
+    },
+    {
+      "name": "abstract_instantiation",
+      "title": "抽象类不能实例化，但可用指针指向具体对象",
+      "png": "cpp08_abstract_instantiation_18b50c24-a868-4910-8946-07b4276577c5.png",
+      "svg": "cpp08_abstract_instantiation_18b50c24-a868-4910-8946-07b4276577c5.svg"
+    },
+    {
+      "name": "abstract_derived",
+      "title": "未实现全部纯虚函数的派生类仍是抽象类",
+      "png": "cpp08_abstract_derived_24346f37-b48f-459d-a3e1-7a96f39cc785.png",
+      "svg": "cpp08_abstract_derived_24346f37-b48f-459d-a3e1-7a96f39cc785.svg"
+    },
+    {
+      "name": "pure_not_empty",
+      "title": "纯虚不等于空函数，纯虚函数甚至可提供定义",
+      "png": "cpp08_pure_not_empty_3ab36845-7f2c-4ffc-89ae-b5cb86343331.png",
+      "svg": "cpp08_pure_not_empty_3ab36845-7f2c-4ffc-89ae-b5cb86343331.svg"
+    },
+    {
+      "name": "shapes_concrete",
+      "title": "抽象 Shape 的三个具体图形子类",
+      "png": "cpp08_shapes_concrete_b2c06021-91d6-4753-bfcb-4ba8cba6a677.png",
+      "svg": "cpp08_shapes_concrete_b2c06021-91d6-4753-bfcb-4ba8cba6a677.svg"
+    },
+    {
+      "name": "shapes_area",
+      "title": "相同 Area() 接口在不同几何对象上计算",
+      "png": "cpp08_shapes_area_8c3e9655-e036-44b1-adf2-ec0347119bfd.png",
+      "svg": "cpp08_shapes_area_8c3e9655-e036-44b1-adf2-ec0347119bfd.svg"
+    },
+    {
+      "name": "pure_virtual_destructor",
+      "title": "纯虚析构函数需要提供定义",
+      "png": "cpp08_pure_virtual_destructor_5eb7965f-3faf-484e-9b77-442b28e6d44f.png",
+      "svg": "cpp08_pure_virtual_destructor_5eb7965f-3faf-484e-9b77-442b28e6d44f.svg"
+    },
+    {
+      "name": "student_shallow",
+      "title": "浅拷贝时两位学生对象共享同一姓名缓冲区",
+      "png": "cpp08_student_shallow_293bf53b-fa28-4cb2-9750-fa459016106a.png",
+      "svg": "cpp08_student_shallow_293bf53b-fa28-4cb2-9750-fa459016106a.svg"
+    },
+    {
+      "name": "student_deep",
+      "title": "复制构造对姓名数组实施深拷贝",
+      "png": "cpp08_student_deep_601210cc-9acc-44b6-a350-e27c8907ffc0.png",
+      "svg": "cpp08_student_deep_601210cc-9acc-44b6-a350-e27c8907ffc0.svg"
+    },
+    {
+      "name": "student_copy_null",
+      "title": "复制构造要处理姓名指针为空的情形",
+      "png": "cpp08_student_copy_null_3a314a89-1fc4-40f7-a0f2-3b74ee5c9fa5.png",
+      "svg": "cpp08_student_copy_null_3a314a89-1fc4-40f7-a0f2-3b74ee5c9fa5.svg"
+    },
+    {
+      "name": "student_input_safety",
+      "title": "定长字符数组无界输入会导致越界风险",
+      "png": "cpp08_student_input_safety_168d64a7-a488-4518-a10e-df5f3aa6b8e8.png",
+      "svg": "cpp08_student_input_safety_168d64a7-a488-4518-a10e-df5f3aa6b8e8.svg"
+    },
+    {
+      "name": "student_lifetime",
+      "title": "学生对象动态姓名的生命周期",
+      "png": "cpp08_student_lifetime_6d03dadf-72f6-4147-a007-e035e7f81cb7.png",
+      "svg": "cpp08_student_lifetime_6d03dadf-72f6-4147-a007-e035e7f81cb7.svg"
+    },
+    {
+      "name": "student_overload",
+      "title": "Compare 的引用参数与指针参数是静态重载",
+      "png": "cpp08_student_overload_cfeeb29d-5268-4692-a8e6-3c37ef8ac170.png",
+      "svg": "cpp08_student_overload_cfeeb29d-5268-4692-a8e6-3c37ef8ac170.svg"
+    },
+    {
+      "name": "student_stream",
+      "title": "流操作符重载通过友元访问对象数据",
+      "png": "cpp08_student_stream_58fe8bce-4bc0-4846-b85e-54ea23194763.png",
+      "svg": "cpp08_student_stream_58fe8bce-4bc0-4846-b85e-54ea23194763.svg"
+    },
+    {
+      "name": "exercise_geometry",
+      "title": "作业“平面图形处理”可采用统一抽象接口",
+      "png": "cpp08_exercise_geometry_7f1bbf98-33cf-43ff-a1ad-d1e577a20e75.png",
+      "svg": "cpp08_exercise_geometry_7f1bbf98-33cf-43ff-a1ad-d1e577a20e75.svg"
+    },
+    {
+      "name": "exercise_loop",
+      "title": "统一遍历图形指针，动态计算各图形面积",
+      "png": "cpp08_exercise_loop_33d52553-d26a-454e-85c6-933d8432ca79.png",
+      "svg": "cpp08_exercise_loop_33d52553-d26a-454e-85c6-933d8432ca79.svg"
+    },
+    {
+      "name": "checklist",
+      "title": "判断多态结果的四步规则",
+      "png": "cpp08_checklist_d0d93f7a-0732-4c98-b65b-e50c8d7d6913.png",
+      "svg": "cpp08_checklist_d0d93f7a-0732-4c98-b65b-e50c8d7d6913.svg"
+    }
+  ]
+}

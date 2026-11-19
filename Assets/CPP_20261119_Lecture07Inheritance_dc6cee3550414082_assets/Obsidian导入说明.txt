@@ -1,0 +1,10 @@
+本交付采用知识整理 Skills 4.3 第 26 节模式 A：Vault 根目录 Assets/ 路径的 Wiki 图片引用。
+
+1. 将 ZIP 内独立的 .md 文件，移动到你的 Obsidian 知识库内任意笔记文件夹。
+2. 将 ZIP 根目录的整个 CPP_20261119_Lecture07Inheritance_dc6cee3550414082_assets/ 文件夹直接移动到同一 Vault 根目录下已有的 Assets/ 内。
+3. 最终效果：Vault/Assets/CPP_20261119_Lecture07Inheritance_dc6cee3550414082_assets/images/*.png
+4. 不要把整个 ZIP 解压目录直接放到 Assets 下，也不要额外套第二层 Assets/。
+5. 这种图片链接用于 Obsidian；普通 Markdown/HTML 阅读器需要转换 Wiki 图片链接。
+
+内容：129 张独立教学图；每张 PNG 和可编辑 SVG 一一对应，code/ 收录 8 组实际编译通过的 C++17 示例。
+本次路径检查在约定的 Vault 结构下通过；未访问你的个人 Obsidian 知识库。

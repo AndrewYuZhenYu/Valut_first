@@ -1,0 +1,145 @@
+C++ 第七讲《继承与派生类》图解资源索引
+
+资源文件夹：CPP_20261119_Lecture07Inheritance_dc6cee3550414082_assets
+插图数量：129 幅不同教学图
+PNG：129；SVG：129（同一插图的两种格式不重复计数）
+可编译项目：8 组（C++17）
+
+各节配图：
+  7.1：12 幅
+  7.2：21 幅
+  7.3：18 幅
+  7.4：16 幅
+  7.5：25 幅
+  7.6：37 幅
+
+图名与用途：
+001  [7.1] hierarchy_01  — 圆是具有额外半径属性的点类派生对象（课件例程）
+002  [7.1] hierarchy_02  — 不同派生类共享坐标结构
+003  [7.1] hierarchy_03  — 一条继承链可以有多个层级
+004  [7.1] hierarchy_04  — CBat 同时具有两个直接基类
+005  [7.1] circle_layout_00  — 派生类对象含有完整的基类子对象
+006  [7.1] circle_layout_01  — 基类成员属于派生对象中的基类子对象
+007  [7.1] circle_layout_02  — 派生类新增成员不会丢失基类数据
+008  [7.1] circle_layout_03  — 构造函数初始化整个对象的不同部分
+009  [7.1] show_lookup_0  — CCircle::Show() 的选择（例程使用非 virtual 函数）
+010  [7.1] show_lookup_1  — CPoint::Show() 的选择（例程使用非 virtual 函数）
+011  [7.1] show_lookup_2  — CPoint::Show() 的选择（例程使用非 virtual 函数）
+012  [7.1] show_lookup_3  — CPoint::Show() 的选择（例程使用非 virtual 函数）
+013  [7.2] syntax_public  — 公开继承，表达 is-a
+014  [7.2] syntax_protected  — 保护继承，接口访问被收紧
+015  [7.2] syntax_private  — 私有继承，不向普通使用者暴露转换
+016  [7.2] file_dep_00  — 头文件负责声明、cpp 实现功能、main.cpp 组织调用
+017  [7.2] file_dep_01  — 头文件负责声明、cpp 实现功能、main.cpp 组织调用
+018  [7.2] file_dep_02  — 头文件负责声明、cpp 实现功能、main.cpp 组织调用
+019  [7.2] named_complex_00  — 构造前指针需有明确初始状态
+020  [7.2] named_complex_01  — new[] 创建动态字符串数组
+021  [7.2] named_complex_02  — 先释放旧数组，再分配新内存
+022  [7.2] named_complex_03  — 更新指针后对象表示新的名字
+023  [7.2] named_complex_04  — 析构时配对 delete[] 释放资源
+024  [7.2] is_a_00  — 命名复数是复数的一种专门化
+025  [7.2] is_a_01  — 特首对象拥有一个任职日期成员对象
+026  [7.2] is_a_02  — 更改基类共享实现会影响派生类可见行为
+027  [7.2] method_0  — Show 在基类中定义
+028  [7.2] method_1  — 派生类自己的 Show 隐藏基类同名函数
+029  [7.2] method_2  — 可使用 object.CPoint::Show() 指定基类函数
+030  [7.2] method_3  — 派生类定义同名函数后，基类重载集通常被隐藏
+031  [7.2] syntax_part_0  — 示例仅突出语法结构，实际程序见笔记代码
+032  [7.2] syntax_part_1  — 示例仅突出语法结构，实际程序见笔记代码
+033  [7.2] syntax_part_2  — 示例仅突出语法结构，实际程序见笔记代码
+034  [7.3] access_public_public  — 基类 public 成员在 public 继承下：public
+035  [7.3] access_public_protected  — 基类 protected 成员在 public 继承下：protected
+036  [7.3] access_public_private  — 基类 private 成员在 public 继承下：private
+037  [7.3] access_protected_public  — 基类 public 成员在 protected 继承下：protected
+038  [7.3] access_protected_protected  — 基类 protected 成员在 protected 继承下：protected
+039  [7.3] access_protected_private  — 基类 private 成员在 protected 继承下：不可直接访问
+040  [7.3] access_private_public  — 基类 public 成员在 private 继承下：private
+041  [7.3] access_private_protected  — 基类 protected 成员在 private 继承下：private
+042  [7.3] access_private_private  — 基类 private 成员在 private 继承下：不可直接访问
+043  [7.3] access_case_00  — 保护成员允许派生类成员函数访问
+044  [7.3] access_case_01  — 保护成员不属于公共接口
+045  [7.3] access_case_02  — 数据仍存在，但只能借助基类允许的接口
+046  [7.3] access_case_03  — 继承方式无法提升基类私有数据权限
+047  [7.3] access_case_04  — 外部不能再把它作为公开访问接口
+048  [7.3] access_case_05  — 公共接口在派生类内被收紧
+049  [7.3] access_case_06  — 友元拥有授予它的基类访问权限
+050  [7.3] access_case_07  — 友元权限不会自动传递到基类私有成员
+051  [7.3] access_case_08  — 中间层的私有继承会限制后续派生类
+052  [7.4] conversion_00  — 发生基类部分复制（对象切片）
+053  [7.4] conversion_01  — 不复制，引用绑定派生对象的基类子对象
+054  [7.4] conversion_02  — 指针指向基类子对象，不截断对象
+055  [7.4] conversion_03  — 可通过派生类接口访问 mR / Show
+056  [7.4] conversion_04  — 显式 CPoint::Show 读取坐标
+057  [7.4] conversion_05  — 课件 Show 非虚，取静态类型所见版本
+058  [7.4] conversion_06  — CCircle::Show 隐藏基类同名函数
+059  [7.4] slice_0  — 源对象仍含有半径
+060  [7.4] slice_1  — zPoint = zCircle 不会把 mR 复制到 zPoint
+061  [7.4] slice_2  — 向上转换没有销毁派生部分
+062  [7.4] slice_3  — 静态类型限定可见接口
+063  [7.4] convert_danger_00  — Base 不保证具备 Derived 需要的额外信息
+064  [7.4] convert_danger_01  — 普通代码不可执行 private 继承向上转换
+065  [7.4] convert_danger_02  — 通过基类指针不能直接访问派生特有接口
+066  [7.4] convert_danger_03  — 绑定引用保留实际的 CCircle 对象
+067  [7.4] convert_danger_04  — 对象实际不是 CCircle 时不可随意当作它
+068  [7.5] circle_construct_00  — 基类子对象必须先初始化
+069  [7.5] circle_construct_01  — 基类子对象必须先初始化
+070  [7.5] circle_construct_02  — 基类子对象必须先初始化
+071  [7.5] circle_destruct_00  — 对象的销毁次序与构造相反
+072  [7.5] circle_destruct_01  — 对象的销毁次序与构造相反
+073  [7.5] circle_destruct_02  — 对象的销毁次序与构造相反
+074  [7.5] chief_construct_00  — 成员对象总在派生类构造函数体之前初始化
+075  [7.5] chief_construct_01  — 成员对象总在派生类构造函数体之前初始化
+076  [7.5] chief_construct_02  — 成员对象总在派生类构造函数体之前初始化
+077  [7.5] chief_destruct_00  — 成员和基类的析构由语言自动完成
+078  [7.5] chief_destruct_01  — 成员和基类的析构由语言自动完成
+079  [7.5] chief_destruct_02  — 成员和基类的析构由语言自动完成
+080  [7.5] initlist_order_0  — 构造顺序由继承列表和成员声明顺序决定
+081  [7.5] initlist_order_1  — 构造顺序由继承列表和成员声明顺序决定
+082  [7.5] order_case_00  — 不能根据初始化列表的文字先后猜测执行顺序
+083  [7.5] order_case_01  — 不能根据初始化列表的文字先后猜测执行顺序
+084  [7.5] order_case_02  — 不能根据初始化列表的文字先后猜测执行顺序
+085  [7.5] order_case_03  — 不能根据初始化列表的文字先后猜测执行顺序
+086  [7.5] order_case_04  — 不能根据初始化列表的文字先后猜测执行顺序
+087  [7.5] life_trace_00  — 完整生命周期的第 1 阶段：构造 CPerson
+088  [7.5] life_trace_01  — 完整生命周期的第 2 阶段：构造 CDate
+089  [7.5] life_trace_02  — 完整生命周期的第 3 阶段：构造自身
+090  [7.5] life_trace_03  — 完整生命周期的第 4 阶段：析构自身
+091  [7.5] life_trace_04  — 完整生命周期的第 5 阶段：析构 CDate
+092  [7.5] life_trace_05  — 完整生命周期的第 6 阶段：析构 CPerson
+093  [7.6] diamond_plain_00  — 普通菱形结构可能出现两份 CAnimal 基类子对象
+094  [7.6] diamond_plain_01  — 普通菱形结构可能出现两份 CAnimal 基类子对象
+095  [7.6] diamond_plain_02  — 普通菱形结构可能出现两份 CAnimal 基类子对象
+096  [7.6] diamond_plain_03  — 普通菱形结构可能出现两份 CAnimal 基类子对象
+097  [7.6] diamond_virtual_00  — 最派生对象仅包含一份共享 CAnimal 虚基类子对象
+098  [7.6] diamond_virtual_01  — 最派生对象仅包含一份共享 CAnimal 虚基类子对象
+099  [7.6] diamond_virtual_02  — 最派生对象仅包含一份共享 CAnimal 虚基类子对象
+100  [7.6] diamond_virtual_03  — 最派生对象仅包含一份共享 CAnimal 虚基类子对象
+101  [7.6] diamond_virtual_04  — 最派生对象仅包含一份共享 CAnimal 虚基类子对象
+102  [7.6] diamond_memory_0  — 虚继承解决重复基类子对象问题
+103  [7.6] diamond_memory_1  — 虚继承解决重复基类子对象问题
+104  [7.6] ambiguity_0  — CBat 无法仅凭同名确定选哪个基类
+105  [7.6] ambiguity_1  — 使用作用域限定名解决同名成员歧义
+106  [7.6] ambiguity_2  — 也可以明确选择另一支的成员
+107  [7.6] ambiguity_3  — 未虚继承时同一 CAnimal 类型出现两次
+108  [7.6] ambiguity_4  — 虚继承时共享一份 CAnimal 子对象
+109  [7.6] ambiguity_5  — 虚继承不会自动消除两个不同基类同名函数的歧义
+110  [7.6] virtual_init_00  — 构造先后：CAnimal → CBird → CBeast → CBat
+111  [7.6] virtual_init_01  — 构造先后：CAnimal → CBird → CBeast → CBat
+112  [7.6] virtual_init_02  — 构造先后：CAnimal → CBird → CBeast → CBat
+113  [7.6] virtual_init_03  — 构造先后：CAnimal → CBird → CBeast → CBat
+114  [7.6] virtual_destroy_00  — 析构先后：CBat → CBeast → CBird → CAnimal
+115  [7.6] virtual_destroy_01  — 析构先后：CBat → CBeast → CBird → CAnimal
+116  [7.6] virtual_destroy_02  — 析构先后：CBat → CBeast → CBird → CAnimal
+117  [7.6] virtual_destroy_03  — 析构先后：CBat → CBeast → CBird → CAnimal
+118  [7.6] multi_detail_0  — 不涉及重复祖先
+119  [7.6] multi_detail_1  — 在 class Derived : public B, public A 中先 B 后 A
+120  [7.6] multi_detail_2  — virtual 写在直接继承关系上
+121  [7.6] multi_detail_3  — CAnimal 构造实参由最派生类决定
+122  [7.6] multi_trace_0  — 完整对象里共享 VBase
+123  [7.6] multi_trace_1  — 中间类对同一虚基类的指定会被忽略
+124  [7.6] multi_trace_2  — 深度优先、从左到右的首次遇见顺序
+125  [7.6] multi_trace_3  — 虚基类最后才析构
+126  [7.6] multi_trace_4  — 两条路径分别构造 Animal，随后构造 Most
+127  [7.6] multi_warning_0  — ShowBodyFeature() 不应直接等同于 选择 CBird 或 CBeast
+128  [7.6] multi_warning_1  — 初始化列表 不应直接等同于 遵循声明顺序
+129  [7.6] multi_warning_2  — 派生类 不应直接等同于 只复用合法可见基类接口

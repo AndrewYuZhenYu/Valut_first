@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="360pt" viewBox="0 0 792 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:11.975169</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 792 360 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 83.243952 292.89276 
+L 366.295248 292.89276 
+Q 381.184848 292.89276 381.184848 286.34076 
+L 381.184848 92.99124 
+Q 381.184848 86.43924 366.295248 86.43924 
+L 83.243952 86.43924 
+Q 68.354352 86.43924 68.354352 92.99124 
+L 68.354352 286.34076 
+Q 68.354352 292.89276 83.243952 292.89276 
+z
+" clip-path="url(#p6ef1ea601f)" style="fill: #fafcfe; stroke: #2678b8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 425.704752 292.89276 
+L 708.756048 292.89276 
+Q 723.645648 292.89276 723.645648 286.34076 
+L 723.645648 92.99124 
+Q 723.645648 86.43924 708.756048 86.43924 
+L 425.704752 86.43924 
+Q 410.815152 86.43924 410.815152 92.99124 
+L 410.815152 286.34076 
+Q 410.815152 292.89276 425.704752 292.89276 
+z
+" clip-path="url(#p6ef1ea601f)" style="fill: #fafcfe; stroke: #2678b8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 120.5424 214.236 
+L 328.9968 214.236 
+" clip-path="url(#p6ef1ea601f)" style="fill: none; stroke: #dce5ec; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 224.7696 266.652 
+L 224.7696 165.096 
+" clip-path="url(#p6ef1ea601f)" style="fill: none; stroke: #dce5ec; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 463.0032 214.236 
+L 671.4576 214.236 
+" clip-path="url(#p6ef1ea601f)" style="fill: none; stroke: #dce5ec; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 567.2304 266.652 
+L 567.2304 165.096 
+" clip-path="url(#p6ef1ea601f)" style="fill: none; stroke: #dce5ec; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="44.417937" transform="rotate(-0 396 44.417937)">同一个方程，不同讨论范围，解集可能不同</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #2678b8" x="224.7696" y="115.923062" transform="rotate(-0 224.7696 115.923062)">实数范围</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 21px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #c9534b" x="224.7696" y="180.876187" transform="rotate(-0 224.7696 180.876187)">实轴上无解</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 21px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="224.7696" y="272.604187" transform="rotate(-0 224.7696 272.604187)">根的个数：0</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #2678b8" x="567.2304" y="115.923062" transform="rotate(-0 567.2304 115.923062)">复数范围</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 18px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #c9534b" x="567.2304" y="150.541875" transform="rotate(-0 567.2304 150.541875)">两个共轭复根</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 21px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="567.2304" y="272.604187" transform="rotate(-0 567.2304 272.604187)">根的个数：2</text>
+   </g>
+   <g id="text_8">
+    <!-- $x^2+x+1=0$ -->
+    <g style="fill: #18344f" transform="translate(316.08 325.8705)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">x</tspan>
+      <tspan x="56.080859" y="-0.34375" style="font-style: oblique; font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">x</tspan>
+      <tspan x="15.275" y="-9.53125" style="font-size: 16.8px; font-family: 'DejaVu Sans'; fill: #18344f">2</tspan>
+      <tspan x="31.295703" y="-0.34375" style="font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">+</tspan>
+      <tspan x="74.959766" y="-0.34375" style="font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">+</tspan>
+      <tspan x="99.744922" y="-0.34375" style="font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">1</tspan>
+      <tspan x="119.690234" y="-0.34375" style="font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">=</tspan>
+      <tspan x="144.475391" y="-0.34375" style="font-size: 24px; font-family: 'DejaVu Sans'; fill: #18344f">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m2d69052034" d="M 0 5.700877 
+C 1.51189 5.700877 2.962061 5.100197 4.031129 4.031129 
+C 5.100197 2.962061 5.700877 1.51189 5.700877 0 
+C 5.700877 -1.51189 5.100197 -2.962061 4.031129 -4.031129 
+C 2.962061 -5.100197 1.51189 -5.700877 0 -5.700877 
+C -1.51189 -5.700877 -2.962061 -5.100197 -4.031129 -4.031129 
+C -5.100197 -2.962061 -5.700877 -1.51189 -5.700877 0 
+C -5.700877 1.51189 -5.100197 2.962061 -4.031129 4.031129 
+C -2.962061 5.100197 -1.51189 5.700877 0 5.700877 
+z
+" style="stroke: #c9534b"/>
+    </defs>
+    <g clip-path="url(#p6ef1ea601f)">
+     <use xlink:href="#m2d69052034" x="507.672" y="184.752" style="fill: #c9534b; stroke: #c9534b"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p6ef1ea601f)">
+     <use xlink:href="#m2d69052034" x="507.672" y="243.72" style="fill: #c9534b; stroke: #c9534b"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6ef1ea601f">
+   <rect x="23.76" y="14.4" width="744.48" height="327.6"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="396pt" viewBox="0 0 792 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:14.968691</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 396 
+L 792 396 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 325.199952 125.785836 
+L 392.352048 125.785836 
+Q 407.241648 125.785836 407.241648 118.578636 
+L 407.241648 86.074164 
+Q 407.241648 78.866964 392.352048 78.866964 
+L 325.199952 78.866964 
+Q 310.310352 78.866964 310.310352 86.074164 
+L 310.310352 118.578636 
+Q 310.310352 125.785836 325.199952 125.785836 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 325.199952 194.254236 
+L 392.352048 194.254236 
+Q 407.241648 194.254236 407.241648 187.047036 
+L 407.241648 154.542564 
+Q 407.241648 147.335364 392.352048 147.335364 
+L 325.199952 147.335364 
+Q 310.310352 147.335364 310.310352 154.542564 
+L 310.310352 187.047036 
+Q 310.310352 194.254236 325.199952 194.254236 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 444.316752 194.254236 
+L 511.468848 194.254236 
+Q 526.358448 194.254236 526.358448 187.047036 
+L 526.358448 154.542564 
+Q 526.358448 147.335364 511.468848 147.335364 
+L 444.316752 147.335364 
+Q 429.427152 147.335364 429.427152 154.542564 
+L 429.427152 187.047036 
+Q 429.427152 194.254236 444.316752 194.254236 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 563.433552 194.254236 
+L 630.585648 194.254236 
+Q 645.475248 194.254236 645.475248 187.047036 
+L 645.475248 154.542564 
+Q 645.475248 147.335364 630.585648 147.335364 
+L 563.433552 147.335364 
+Q 548.543952 147.335364 548.543952 154.542564 
+L 548.543952 187.047036 
+Q 548.543952 194.254236 563.433552 194.254236 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 325.199952 262.722636 
+L 392.352048 262.722636 
+Q 407.241648 262.722636 407.241648 255.515436 
+L 407.241648 223.010964 
+Q 407.241648 215.803764 392.352048 215.803764 
+L 325.199952 215.803764 
+Q 310.310352 215.803764 310.310352 223.010964 
+L 310.310352 255.515436 
+Q 310.310352 262.722636 325.199952 262.722636 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 444.316752 262.722636 
+L 511.468848 262.722636 
+Q 526.358448 262.722636 526.358448 255.515436 
+L 526.358448 223.010964 
+Q 526.358448 215.803764 511.468848 215.803764 
+L 444.316752 215.803764 
+Q 429.427152 215.803764 429.427152 223.010964 
+L 429.427152 255.515436 
+Q 429.427152 262.722636 444.316752 262.722636 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 563.433552 262.722636 
+L 630.585648 262.722636 
+Q 645.475248 262.722636 645.475248 255.515436 
+L 645.475248 223.010964 
+Q 645.475248 215.803764 630.585648 215.803764 
+L 563.433552 215.803764 
+Q 548.543952 215.803764 548.543952 223.010964 
+L 548.543952 255.515436 
+Q 548.543952 262.722636 563.433552 262.722636 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 314.032752 331.191036 
+L 403.519248 331.191036 
+Q 418.408848 331.191036 418.408848 323.983836 
+L 418.408848 291.479364 
+Q 418.408848 284.272164 403.519248 284.272164 
+L 314.032752 284.272164 
+Q 299.143152 284.272164 299.143152 291.479364 
+L 299.143152 323.983836 
+Q 299.143152 331.191036 314.032752 331.191036 
+z
+" clip-path="url(#p5cef4a31c4)" style="fill: #f0f9f6; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="48.151138" transform="rotate(-0 396 48.151138)">按元素数量分类：3 元集共有 1+3+3+1 个子集</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: start; fill: #2678b8" x="135.432" y="107.711713" transform="rotate(-0 135.432 107.711713)">0 元子集</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="358.776" y="107.144838" transform="rotate(-0 358.776 107.144838)">∅</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="701.2368" y="107.711713" transform="rotate(-0 701.2368 107.711713)">1 个</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: start; fill: #2678b8" x="135.432" y="176.180113" transform="rotate(-0 135.432 176.180113)">1 元子集</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="358.776" y="175.613237" transform="rotate(-0 358.776 175.613237)">{a}</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="477.8928" y="175.613237" transform="rotate(-0 477.8928 175.613237)">{b}</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="597.0096" y="175.613237" transform="rotate(-0 597.0096 175.613237)">{c}</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="701.2368" y="176.180113" transform="rotate(-0 701.2368 176.180113)">3 个</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: start; fill: #2678b8" x="135.432" y="244.648513" transform="rotate(-0 135.432 244.648513)">2 元子集</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="358.776" y="244.081637" transform="rotate(-0 358.776 244.081637)">{a,b}</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="477.8928" y="244.081637" transform="rotate(-0 477.8928 244.081637)">{a,c}</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="597.0096" y="244.081637" transform="rotate(-0 597.0096 244.081637)">{b,c}</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="701.2368" y="244.648513" transform="rotate(-0 701.2368 244.648513)">3 个</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: start; fill: #2678b8" x="135.432" y="313.116913" transform="rotate(-0 135.432 313.116913)">3 元子集</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="358.776" y="312.550037" transform="rotate(-0 358.776 312.550037)">{a,b,c}</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="701.2368" y="313.116913" transform="rotate(-0 701.2368 313.116913)">1 个</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5cef4a31c4">
+   <rect x="23.76" y="15.84" width="744.48" height="360.36"/>
+  </clipPath>
+ </defs>
+</svg>

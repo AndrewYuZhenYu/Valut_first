@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="324pt" viewBox="0 0 792 324" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:15.869560</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324 
+L 792 324 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 98.133552 225.274284 
+L 366.295248 225.274284 
+Q 381.184848 225.274284 381.184848 219.377484 
+L 381.184848 116.124516 
+Q 381.184848 110.227716 366.295248 110.227716 
+L 98.133552 110.227716 
+Q 83.243952 110.227716 83.243952 116.124516 
+L 83.243952 219.377484 
+Q 83.243952 225.274284 98.133552 225.274284 
+z
+" clip-path="url(#pe50bc52a1d)" style="fill: #f7fbfe; stroke: #2678b8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 433.149552 225.274284 
+L 701.311248 225.274284 
+Q 716.200848 225.274284 716.200848 219.377484 
+L 716.200848 116.124516 
+Q 716.200848 110.227716 701.311248 110.227716 
+L 433.149552 110.227716 
+Q 418.259952 110.227716 418.259952 116.124516 
+L 418.259952 219.377484 
+Q 418.259952 225.274284 433.149552 225.274284 
+z
+" clip-path="url(#pe50bc52a1d)" style="fill: #f7fbfe; stroke: #198f88; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="40.684738" transform="rotate(-0 396 40.684738)">真子集判定：必须同时通过两项检验</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #2678b8" x="232.2144" y="174.610512" transform="rotate(-0 232.2144 174.610512)">A 的元素都在 B 中</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #5c6d7e" x="232.2144" y="253.650438" transform="rotate(-0 232.2144 253.650438)">必要条件</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="567.2304" y="174.610512" transform="rotate(-0 567.2304 174.610512)">B 至少多一个元素</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 17px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #5c6d7e" x="567.2304" y="253.650438" transform="rotate(-0 567.2304 253.650438)">必要条件</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 27px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="396" y="173.929612" transform="rotate(-0 396 173.929612)">+</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="396" y="75.498662" transform="rotate(-0 396 75.498662)">两项缺一不可</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe50bc52a1d">
+   <rect x="23.76" y="12.96" width="744.48" height="294.84"/>
+  </clipPath>
+ </defs>
+</svg>

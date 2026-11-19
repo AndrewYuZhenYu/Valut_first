@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="338.4pt" viewBox="0 0 792 338.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:12.890359</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 338.4 
+L 792 338.4 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 232.2144 246.03372 
+C 268.740505 246.03372 303.775512 238.084224 329.603368 223.936016 
+C 355.431225 209.787808 369.9432 190.596027 369.9432 170.58744 
+C 369.9432 150.578853 355.431225 131.387072 329.603368 117.238864 
+C 303.775512 103.090656 268.740505 95.14116 232.2144 95.14116 
+C 195.688295 95.14116 160.653288 103.090656 134.825432 117.238864 
+C 108.997575 131.387072 94.4856 150.578853 94.4856 170.58744 
+C 94.4856 190.596027 108.997575 209.787808 134.825432 223.936016 
+C 160.653288 238.084224 195.688295 246.03372 232.2144 246.03372 
+z
+" clip-path="url(#pad2d5a1515)" style="fill: #2678b8; opacity: 0.15"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 232.2144 246.03372 
+C 268.740505 246.03372 303.775512 238.084224 329.603368 223.936016 
+C 355.431225 209.787808 369.9432 190.596027 369.9432 170.58744 
+C 369.9432 150.578853 355.431225 131.387072 329.603368 117.238864 
+C 303.775512 103.090656 268.740505 95.14116 232.2144 95.14116 
+C 195.688295 95.14116 160.653288 103.090656 134.825432 117.238864 
+C 108.997575 131.387072 94.4856 150.578853 94.4856 170.58744 
+C 94.4856 190.596027 108.997575 209.787808 134.825432 223.936016 
+C 160.653288 238.084224 195.688295 246.03372 232.2144 246.03372 
+L 232.2144 246.03372 
+z
+" clip-path="url(#pad2d5a1515)" style="fill: none; stroke: #2678b8; stroke-width: 2.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 559.7856 246.03372 
+C 596.311705 246.03372 631.346712 238.084224 657.174568 223.936016 
+C 683.002425 209.787808 697.5144 190.596027 697.5144 170.58744 
+C 697.5144 150.578853 683.002425 131.387072 657.174568 117.238864 
+C 631.346712 103.090656 596.311705 95.14116 559.7856 95.14116 
+C 523.259495 95.14116 488.224488 103.090656 462.396632 117.238864 
+C 436.568775 131.387072 422.0568 150.578853 422.0568 170.58744 
+C 422.0568 190.596027 436.568775 209.787808 462.396632 223.936016 
+C 488.224488 238.084224 523.259495 246.03372 559.7856 246.03372 
+z
+" clip-path="url(#pad2d5a1515)" style="fill: #198f88; opacity: 0.15"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 559.7856 246.03372 
+C 596.311705 246.03372 631.346712 238.084224 657.174568 223.936016 
+C 683.002425 209.787808 697.5144 190.596027 697.5144 170.58744 
+C 697.5144 150.578853 683.002425 131.387072 657.174568 117.238864 
+C 631.346712 103.090656 596.311705 95.14116 559.7856 95.14116 
+C 523.259495 95.14116 488.224488 103.090656 462.396632 117.238864 
+C 436.568775 131.387072 422.0568 150.578853 422.0568 170.58744 
+C 422.0568 190.596027 436.568775 209.787808 462.396632 223.936016 
+C 488.224488 238.084224 523.259495 246.03372 559.7856 246.03372 
+L 559.7856 246.03372 
+z
+" clip-path="url(#pad2d5a1515)" style="fill: none; stroke: #198f88; stroke-width: 2.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="42.178017" transform="rotate(-0 396 42.178017)">判断集合相等：只比较元素，不比较书写次序</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #2678b8" x="232.2144" y="87.519305" transform="rotate(-0 232.2144 87.519305)">A</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="165.2112" y="183.54882" transform="rotate(-0 165.2112 183.54882)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="232.2144" y="183.54882" transform="rotate(-0 232.2144 183.54882)">2</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="299.2176" y="183.54882" transform="rotate(-0 299.2176 183.54882)">3</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="559.7856" y="87.519305" transform="rotate(-0 559.7856 87.519305)">B</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="492.7824" y="183.54882" transform="rotate(-0 492.7824 183.54882)">3</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="559.7856" y="183.54882" transform="rotate(-0 559.7856 183.54882)">1</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="626.7888" y="183.54882" transform="rotate(-0 626.7888 183.54882)">2</text>
+   </g>
+   <g id="text_10">
+    <!-- $A=B$ -->
+    <g style="fill: #198f88" transform="translate(362.2 285.737215)">
+     <text>
+      <tspan x="0" y="-0.046875" style="font-style: oblique; font-size: 26px; font-family: 'DejaVu Sans'; fill: #198f88">A</tspan>
+      <tspan x="49.702148" y="-0.046875" style="font-style: oblique; font-size: 26px; font-family: 'DejaVu Sans'; fill: #198f88">B</tspan>
+      <tspan x="22.851562" y="-0.046875" style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #198f88">=</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pad2d5a1515">
+   <rect x="23.76" y="13.536" width="744.48" height="307.944"/>
+  </clipPath>
+ </defs>
+</svg>

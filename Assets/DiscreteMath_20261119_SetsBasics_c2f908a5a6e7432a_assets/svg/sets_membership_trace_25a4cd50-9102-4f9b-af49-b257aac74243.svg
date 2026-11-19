@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="338.4pt" viewBox="0 0 792 338.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:15.705483</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 338.4 
+L 792 338.4 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 86.966352 201.412634 
+L 228.566448 201.412634 
+Q 243.456048 201.412634 243.456048 195.253754 
+L 243.456048 139.762246 
+Q 243.456048 133.603366 228.566448 133.603366 
+L 86.966352 133.603366 
+Q 72.076752 133.603366 72.076752 139.762246 
+L 72.076752 195.253754 
+Q 72.076752 201.412634 86.966352 201.412634 
+z
+" clip-path="url(#p430ddc59d8)" style="fill: #f3f8fb; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 325.199952 201.412634 
+L 466.800048 201.412634 
+Q 481.689648 201.412634 481.689648 195.253754 
+L 481.689648 139.762246 
+Q 481.689648 133.603366 466.800048 133.603366 
+L 325.199952 133.603366 
+Q 310.310352 133.603366 310.310352 139.762246 
+L 310.310352 195.253754 
+Q 310.310352 201.412634 325.199952 201.412634 
+z
+" clip-path="url(#p430ddc59d8)" style="fill: #f3f8fb; stroke: #2678b8; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 563.433552 201.412634 
+L 705.033648 201.412634 
+Q 719.923248 201.412634 719.923248 195.253754 
+L 719.923248 139.762246 
+Q 719.923248 133.603366 705.033648 133.603366 
+L 563.433552 133.603366 
+Q 548.543952 133.603366 548.543952 139.762246 
+L 548.543952 195.253754 
+Q 548.543952 201.412634 563.433552 201.412634 
+z
+" clip-path="url(#p430ddc59d8)" style="fill: #f3f8fb; stroke: #7a58a2; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 247.104 167.508 
+Q 276.8832 167.508 303.867315 167.508 
+" clip-path="url(#p430ddc59d8)" style="fill: none; stroke: #d39a32; stroke-width: 2.5; stroke-linecap: round"/>
+    <path d="M 296.667315 163.908 
+L 303.867315 167.508 
+L 296.667315 171.108 
+z
+" clip-path="url(#p430ddc59d8)" style="fill: #d39a32; stroke: #d39a32; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 485.3376 167.508 
+Q 515.1168 167.508 542.100915 167.508 
+" clip-path="url(#p430ddc59d8)" style="fill: none; stroke: #d39a32; stroke-width: 2.5; stroke-linecap: round"/>
+    <path d="M 534.900915 163.908 
+L 542.100915 167.508 
+L 534.900915 171.108 
+z
+" clip-path="url(#p430ddc59d8)" style="fill: #d39a32; stroke: #d39a32; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="42.178017" transform="rotate(-0 396 42.178017)">证明子集传递性：从任意元素 x 出发</text>
+   </g>
+   <g id="text_2">
+    <!-- $x\in A$ -->
+    <g style="fill: #18344f" transform="translate(128.5564 174.027062)">
+     <text>
+      <tspan x="0" y="-0.234375" style="font-style: oblique; font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">x</tspan>
+      <tspan x="42.608398" y="-0.234375" style="font-style: oblique; font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">A</tspan>
+      <tspan x="18.092285" y="-0.234375" style="font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">∈</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $x\in B$ -->
+    <g style="fill: #18344f" transform="translate(366.79 174.027062)">
+     <text>
+      <tspan x="0" y="-0.234375" style="font-style: oblique; font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">x</tspan>
+      <tspan x="42.608398" y="-0.234375" style="font-style: oblique; font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">B</tspan>
+      <tspan x="18.092285" y="-0.234375" style="font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">∈</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- $x\in C$ -->
+    <g style="fill: #18344f" transform="translate(604.7936 174.027062)">
+     <text>
+      <tspan x="0" y="-0.921875" style="font-style: oblique; font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">x</tspan>
+      <tspan x="42.608398" y="-0.921875" style="font-style: oblique; font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">C</tspan>
+      <tspan x="18.092285" y="-0.921875" style="font-size: 23px; font-family: 'DejaVu Sans'; fill: #18344f">∈</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 21px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="396" y="90.315307" transform="rotate(-0 396 90.315307)">先任取 x ∈ A</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #5c6d7e" x="396" y="262.197072" transform="rotate(-0 396 262.197072)">逐次应用两个子集条件，得到 x ∈ C</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p430ddc59d8">
+   <rect x="23.76" y="13.536" width="744.48" height="307.944"/>
+  </clipPath>
+ </defs>
+</svg>

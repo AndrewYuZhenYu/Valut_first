@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="374.4pt" viewBox="0 0 720 374.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:14.632463</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 374.4 
+L 720 374.4 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 299.02032 113.81423 
+L 420.97968 113.81423 
+Q 434.51568 113.81423 434.51568 107.00015 
+L 434.51568 72.86161 
+Q 434.51568 66.04753 420.97968 66.04753 
+L 299.02032 66.04753 
+Q 285.48432 66.04753 285.48432 72.86161 
+L 285.48432 107.00015 
+Q 285.48432 113.81423 299.02032 113.81423 
+z
+" clip-path="url(#p327d3ec471)" style="fill: #eff6fb; stroke: #2678b8; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 143.35632 212.61839 
+L 265.31568 212.61839 
+Q 278.85168 212.61839 278.85168 205.80431 
+L 278.85168 171.66577 
+Q 278.85168 164.85169 265.31568 164.85169 
+L 143.35632 164.85169 
+Q 129.82032 164.85169 129.82032 171.66577 
+L 129.82032 205.80431 
+Q 129.82032 212.61839 143.35632 212.61839 
+z
+" clip-path="url(#p327d3ec471)" style="fill: #eef9f7; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 454.68432 212.61839 
+L 576.64368 212.61839 
+Q 590.17968 212.61839 590.17968 205.80431 
+L 590.17968 171.66577 
+Q 590.17968 164.85169 576.64368 164.85169 
+L 454.68432 164.85169 
+Q 441.14832 164.85169 441.14832 171.66577 
+L 441.14832 205.80431 
+Q 441.14832 212.61839 454.68432 212.61839 
+z
+" clip-path="url(#p327d3ec471)" style="fill: #eef9f7; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 299.02032 314.82959 
+L 420.97968 314.82959 
+Q 434.51568 314.82959 434.51568 308.01551 
+L 434.51568 273.87697 
+Q 434.51568 267.06289 420.97968 267.06289 
+L 299.02032 267.06289 
+Q 285.48432 267.06289 285.48432 273.87697 
+L 285.48432 308.01551 
+Q 285.48432 314.82959 299.02032 314.82959 
+z
+" clip-path="url(#p327d3ec471)" style="fill: #eff6fb; stroke: #2678b8; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 360 89.93088 
+L 204.336 188.73504 
+" clip-path="url(#p327d3ec471)" style="fill: none; stroke: #dce5ec; stroke-width: 2.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 360 89.93088 
+L 515.664 188.73504 
+" clip-path="url(#p327d3ec471)" style="fill: none; stroke: #dce5ec; stroke-width: 2.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 204.336 188.73504 
+L 360 290.94624 
+" clip-path="url(#p327d3ec471)" style="fill: none; stroke: #dce5ec; stroke-width: 2.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 515.664 188.73504 
+L 360 290.94624 
+" clip-path="url(#p327d3ec471)" style="fill: none; stroke: #dce5ec; stroke-width: 2.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="360" y="46.098717" transform="rotate(-0 360 46.098717)">P({a,b})：把所有子集当作新的元素</text>
+   </g>
+   <g id="text_2">
+    <!-- $\{a,b\}$ -->
+    <g style="fill: #18344f" transform="translate(328.08 95.883067)">
+     <text>
+      <tspan x="0" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="26.229492" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">,</tspan>
+      <tspan x="50.326172" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+      <tspan x="13.36084" y="-0.046875" style="font-style: oblique; font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">a</tspan>
+      <tspan x="36.996094" y="-0.046875" style="font-style: oblique; font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">b</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $\{a\}$ -->
+    <g style="fill: #18344f" transform="translate(184.491 194.687228)">
+     <text>
+      <tspan x="0" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="26.229492" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+      <tspan x="13.36084" y="-0.046875" style="font-style: oblique; font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">a</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- $\{b\}$ -->
+    <g style="fill: #18344f" transform="translate(495.609 194.687228)">
+     <text>
+      <tspan x="0" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="26.690918" y="-0.046875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+      <tspan x="13.36084" y="-0.046875" style="font-style: oblique; font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">b</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $\varnothing$ -->
+    <g style="fill: #18344f" transform="translate(350.76 296.898428)">
+     <text>
+      <tspan x="0" y="-0.09375" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p327d3ec471">
+   <rect x="21.6" y="14.976" width="676.8" height="340.704"/>
+  </clipPath>
+ </defs>
+</svg>

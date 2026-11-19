@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="360pt" viewBox="0 0 792 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:15.261446</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 792 360 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 68.354352 276.51276 
+L 723.645648 276.51276 
+Q 738.535248 276.51276 738.535248 269.96076 
+L 738.535248 83.16324 
+Q 738.535248 76.61124 723.645648 76.61124 
+L 68.354352 76.61124 
+Q 53.464752 76.61124 53.464752 83.16324 
+L 53.464752 269.96076 
+Q 53.464752 276.51276 68.354352 276.51276 
+z
+" clip-path="url(#p6510130987)" style="fill: #fafcfe; stroke: #2678b8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 157.691952 225.73476 
+L 336.516048 225.73476 
+Q 351.405648 225.73476 351.405648 219.18276 
+L 351.405648 156.87324 
+Q 351.405648 150.32124 336.516048 150.32124 
+L 157.691952 150.32124 
+Q 142.802352 150.32124 142.802352 156.87324 
+L 142.802352 219.18276 
+Q 142.802352 225.73476 157.691952 225.73476 
+z
+" clip-path="url(#p6510130987)" style="fill: #f3fbf7; stroke: #198f88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 425.704752 225.73476 
+L 678.976848 225.73476 
+Q 693.866448 225.73476 693.866448 219.18276 
+L 693.866448 156.87324 
+Q 693.866448 150.32124 678.976848 150.32124 
+L 425.704752 150.32124 
+Q 410.815152 150.32124 410.815152 156.87324 
+L 410.815152 219.18276 
+Q 410.815152 225.73476 425.704752 225.73476 
+z
+" clip-path="url(#p6510130987)" style="fill: #fffaef; stroke: #d39a32; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="44.531219" transform="rotate(-0 396 44.531219)">例：X = {{∅}, {∅,{∅}}}，先认清 X 的两个元素</text>
+   </g>
+   <g id="text_2">
+    <!-- $\{\varnothing\}$ -->
+    <g style="fill: #18344f" transform="translate(223.454 194.263625)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="13.99707" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+      <tspan x="33.161133" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $\{\varnothing,\{\varnothing\}\}$ -->
+    <g style="fill: #18344f" transform="translate(504.3408 193.69675)">
+     <text>
+      <tspan x="0" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="12.724609" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+      <tspan x="30.146484" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">,</tspan>
+      <tspan x="40.400391" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="53.125" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+      <tspan x="70.546875" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+      <tspan x="83.271484" y="-0.796875" style="font-size: 20px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="247.104" y="121.62475" transform="rotate(-0 247.104 121.62475)">第 1 个元素</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #d39a32" x="552.3408" y="121.62475" transform="rotate(-0 552.3408 121.62475)">第 2 个元素</text>
+   </g>
+   <g id="text_6">
+    <!-- $\varnothing\notin X,\qquad \{\varnothing\}\in X$ -->
+    <g style="fill: #c9534b" transform="translate(292.93 315.475625)">
+     <text>
+      <tspan x="0" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">∅</tspan>
+      <tspan x="23.450195" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">∉</tspan>
+      <tspan x="61.97168" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">,</tspan>
+      <tspan x="116.112305" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">{</tspan>
+      <tspan x="130.109375" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">∅</tspan>
+      <tspan x="149.273438" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">}</tspan>
+      <tspan x="167.556641" y="-0.625" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">∈</tspan>
+      <tspan x="46.900391" y="-0.625" style="font-style: oblique; font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">X</tspan>
+      <tspan x="191.006836" y="-0.625" style="font-style: oblique; font-size: 22px; font-family: 'DejaVu Sans'; fill: #c9534b">X</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6510130987">
+   <rect x="23.76" y="14.4" width="744.48" height="327.6"/>
+  </clipPath>
+ </defs>
+</svg>

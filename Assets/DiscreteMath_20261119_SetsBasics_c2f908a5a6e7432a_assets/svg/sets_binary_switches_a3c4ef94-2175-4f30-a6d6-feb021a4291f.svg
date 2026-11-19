@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="360pt" viewBox="0 0 792 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:14.713074</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 792 360 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 113.023152 237.20076 
+L 262.068048 237.20076 
+Q 276.957648 237.20076 276.957648 230.64876 
+L 276.957648 142.13124 
+Q 276.957648 135.57924 262.068048 135.57924 
+L 113.023152 135.57924 
+Q 98.133552 135.57924 98.133552 142.13124 
+L 98.133552 230.64876 
+Q 98.133552 237.20076 113.023152 237.20076 
+z
+" clip-path="url(#p432dc04fa1)" style="fill: #e5f6f0; stroke: #198f88; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 328.922352 237.20076 
+L 477.967248 237.20076 
+Q 492.856848 237.20076 492.856848 230.64876 
+L 492.856848 142.13124 
+Q 492.856848 135.57924 477.967248 135.57924 
+L 328.922352 135.57924 
+Q 314.032752 135.57924 314.032752 142.13124 
+L 314.032752 230.64876 
+Q 314.032752 237.20076 328.922352 237.20076 
+z
+" clip-path="url(#p432dc04fa1)" style="fill: #f4f6f8; stroke: #dce5ec; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 544.821552 237.20076 
+L 693.866448 237.20076 
+Q 708.756048 237.20076 708.756048 230.64876 
+L 708.756048 142.13124 
+Q 708.756048 135.57924 693.866448 135.57924 
+L 544.821552 135.57924 
+Q 529.931952 135.57924 529.931952 142.13124 
+L 529.931952 230.64876 
+Q 529.931952 237.20076 544.821552 237.20076 
+z
+" clip-path="url(#p432dc04fa1)" style="fill: #e5f6f0; stroke: #198f88; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="44.431609" transform="rotate(-0 396 44.431609)">每个元素只有“选 / 不选”两种状态</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="187.5456" y="171.615062" transform="rotate(-0 187.5456 171.615062)">a</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="187.5456" y="219.621312" transform="rotate(-0 187.5456 219.621312)">选中</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="403.4448" y="171.615062" transform="rotate(-0 403.4448 171.615062)">b</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #5c6d7e" x="403.4448" y="219.621312" transform="rotate(-0 403.4448 219.621312)">不选</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="619.344" y="171.615062" transform="rotate(-0 619.344 171.615062)">c</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 19px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="619.344" y="219.621312" transform="rotate(-0 619.344 219.621312)">选中</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #198f88" x="396" y="299.160937" transform="rotate(-0 396 299.160937)">示例选择结果：{a,c}</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p432dc04fa1">
+   <rect x="23.76" y="14.4" width="744.48" height="327.6"/>
+  </clipPath>
+ </defs>
+</svg>

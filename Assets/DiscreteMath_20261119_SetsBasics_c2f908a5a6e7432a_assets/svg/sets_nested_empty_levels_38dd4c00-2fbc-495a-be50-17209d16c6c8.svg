@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="331.2pt" viewBox="0 0 792 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T07:20:14.542769</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 792 331.2 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 396 222.71544 
+C 420.6798 222.71544 444.352103 216.52291 461.803357 205.501684 
+C 479.254611 194.480457 489.06 179.530368 489.06 163.944 
+C 489.06 148.357632 479.254611 133.407543 461.803357 122.386316 
+C 444.352103 111.36509 420.6798 105.17256 396 105.17256 
+C 371.3202 105.17256 347.647897 111.36509 330.196643 122.386316 
+C 312.745389 133.407543 302.94 148.357632 302.94 163.944 
+C 302.94 179.530368 312.745389 194.480457 330.196643 205.501684 
+C 347.647897 216.52291 371.3202 222.71544 396 222.71544 
+z
+" clip-path="url(#p6e5cb64aba)" style="fill: #198f88; opacity: 0.15"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 396 222.71544 
+C 420.6798 222.71544 444.352103 216.52291 461.803357 205.501684 
+C 479.254611 194.480457 489.06 179.530368 489.06 163.944 
+C 489.06 148.357632 479.254611 133.407543 461.803357 122.386316 
+C 444.352103 111.36509 420.6798 105.17256 396 105.17256 
+C 371.3202 105.17256 347.647897 111.36509 330.196643 122.386316 
+C 312.745389 133.407543 302.94 148.357632 302.94 163.944 
+C 302.94 179.530368 312.745389 194.480457 330.196643 205.501684 
+C 347.647897 216.52291 371.3202 222.71544 396 222.71544 
+L 396 222.71544 
+z
+" clip-path="url(#p6e5cb64aba)" style="fill: none; stroke: #198f88; stroke-width: 2.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 641.6784 231.7572 
+C 670.306969 231.7572 697.766839 224.611973 718.010294 211.895174 
+C 738.253749 199.178374 749.628 181.928271 749.628 163.944 
+C 749.628 145.959729 738.253749 128.709626 718.010294 115.992826 
+C 697.766839 103.276027 670.306969 96.1308 641.6784 96.1308 
+C 613.049831 96.1308 585.589961 103.276027 565.346506 115.992826 
+C 545.103051 128.709626 533.7288 145.959729 533.7288 163.944 
+C 533.7288 181.928271 545.103051 199.178374 565.346506 211.895174 
+C 585.589961 224.611973 613.049831 231.7572 641.6784 231.7572 
+z
+" clip-path="url(#p6e5cb64aba)" style="fill: #7a58a2; opacity: 0.15"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 641.6784 231.7572 
+C 670.306969 231.7572 697.766839 224.611973 718.010294 211.895174 
+C 738.253749 199.178374 749.628 181.928271 749.628 163.944 
+C 749.628 145.959729 738.253749 128.709626 718.010294 115.992826 
+C 697.766839 103.276027 670.306969 96.1308 641.6784 96.1308 
+C 613.049831 96.1308 585.589961 103.276027 565.346506 115.992826 
+C 545.103051 128.709626 533.7288 145.959729 533.7288 163.944 
+C 533.7288 181.928271 545.103051 199.178374 565.346506 211.895174 
+C 585.589961 224.611973 613.049831 231.7572 641.6784 231.7572 
+L 641.6784 231.7572 
+z
+" clip-path="url(#p6e5cb64aba)" style="fill: none; stroke: #7a58a2; stroke-width: 2.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 641.6784 206.13888 
+C 658.460664 206.13888 674.55783 201.692961 686.424683 193.780286 
+C 698.291536 185.86761 704.9592 175.134213 704.9592 163.944 
+C 704.9592 152.753787 698.291536 142.02039 686.424683 134.107714 
+C 674.55783 126.195039 658.460664 121.74912 641.6784 121.74912 
+C 624.896136 121.74912 608.79897 126.195039 596.932117 134.107714 
+C 585.065264 142.02039 578.3976 152.753787 578.3976 163.944 
+C 578.3976 175.134213 585.065264 185.86761 596.932117 193.780286 
+C 608.79897 201.692961 624.896136 206.13888 641.6784 206.13888 
+z
+" clip-path="url(#p6e5cb64aba)" style="fill: #198f88; opacity: 0.15"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 641.6784 206.13888 
+C 658.460664 206.13888 674.55783 201.692961 686.424683 193.780286 
+C 698.291536 185.86761 704.9592 175.134213 704.9592 163.944 
+C 704.9592 152.753787 698.291536 142.02039 686.424683 134.107714 
+C 674.55783 126.195039 658.460664 121.74912 641.6784 121.74912 
+C 624.896136 121.74912 608.79897 126.195039 596.932117 134.107714 
+C 585.065264 142.02039 578.3976 152.753787 578.3976 163.944 
+C 578.3976 175.134213 585.065264 185.86761 596.932117 193.780286 
+C 608.79897 201.692961 624.896136 206.13888 641.6784 206.13888 
+L 641.6784 206.13888 
+z
+" clip-path="url(#p6e5cb64aba)" style="fill: none; stroke: #198f88; stroke-width: 2.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'Noto Sans CJK SC', 'DejaVu Sans'; text-anchor: middle; fill: #18344f" x="396" y="41.431377" transform="rotate(-0 396 41.431377)">每多一层花括号，就产生了新的集合对象</text>
+   </g>
+   <g id="text_2">
+    <!-- $\varnothing$ -->
+    <g style="fill: #2678b8" transform="translate(137.5616 172.163687)">
+     <text>
+      <tspan x="0" y="-0.40625" style="font-size: 29px; font-family: 'DejaVu Sans'; fill: #2678b8">∅</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $\varnothing$ -->
+    <g style="fill: #18344f" transform="translate(140.6416 272.652905)">
+     <text>
+      <tspan x="0" y="-0.375" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- $\varnothing$ -->
+    <g style="fill: #18344f" transform="translate(384.56 171.313375)">
+     <text>
+      <tspan x="0" y="-0.546875" style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $\{\varnothing\}$ -->
+    <g style="fill: #18344f" transform="translate(372.35 272.652905)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="13.99707" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+      <tspan x="33.161133" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- $\varnothing$ -->
+    <g style="fill: #18344f" transform="translate(631.9984 170.179625)">
+     <text>
+      <tspan x="0" y="-0.375" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $\{\{\varnothing\}\}$ -->
+    <g style="fill: #18344f" transform="translate(604.0584 272.652905)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="13.99707" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">{</tspan>
+      <tspan x="27.994141" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">∅</tspan>
+      <tspan x="47.158203" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+      <tspan x="61.155273" y="-0.28125" style="font-size: 22px; font-family: 'DejaVu Sans'; fill: #18344f">}</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6e5cb64aba">
+   <rect x="23.76" y="13.248" width="744.48" height="301.392"/>
+  </clipPath>
+ </defs>
+</svg>

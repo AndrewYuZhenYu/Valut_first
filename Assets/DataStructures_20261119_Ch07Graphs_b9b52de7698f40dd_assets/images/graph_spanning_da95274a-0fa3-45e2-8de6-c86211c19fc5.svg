@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">生成树：保留全部顶点但只选 n−1 条边</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">绿色：生成树的边；浅色：原图中的其余边</text>
+<line x1="149.3" y1="380.8" x2="407.6" y2="232.9" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="152.1" y1="402.0" x2="527.6" y2="501.8" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="442.8" y1="244.8" x2="543.7" y2="483.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="459.9" y1="220.3" x2="884.7" y2="239.7" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="582.6" y1="507.9" x2="987.0" y2="492.5" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="923.3" y1="266.9" x2="1004.4" y2="465.5" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<circle cx="125.0" cy="394.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="125.0" cy="394.8" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="125.0" y="403.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="431.9" cy="219.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="431.9" cy="219.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="431.9" y="228.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="554.7" cy="509.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="554.7" cy="509.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="554.7" y="518.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="912.7" cy="241.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="912.7" cy="241.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="912.7" y="250.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="1015.0" cy="491.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="1015.0" cy="491.4" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="1015.0" y="500.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+</svg>

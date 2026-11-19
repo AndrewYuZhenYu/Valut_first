@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">十字链表的顶点结点</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">同一顶点同时维护入弧与出弧入口</text>
+<rect x="160.0" y="240.0" width="270.0" height="130.0" rx="15" fill="#FFFFFF" stroke="#2D6EC5" stroke-width="2"/>
+<text x="295.0" y="283.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="28" fill="#2D6EC5" text-anchor="middle">顶点 D</text>
+<text x="295.0" y="335.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">firstin →</text>
+<rect x="755.0" y="185.0" width="280.0" height="90.0" rx="12" fill="#E6F4EC" stroke="#23876E" stroke-width="2"/>
+<text x="895.0" y="242.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#23876E" text-anchor="middle">指向 D 的弧</text>
+<rect x="755.0" y="380.0" width="280.0" height="90.0" rx="12" fill="#E6F4EC" stroke="#23876E" stroke-width="2"/>
+<text x="895.0" y="437.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#23876E" text-anchor="middle">由 D 发出的弧</text>
+<line x1="430.0" y1="280.0" x2="755.0" y2="225.0" stroke="#23876E" stroke-width="4" stroke-linecap="round"/>
+<polygon points="755.0,225.0 744.1,232.4 742.3,221.6" fill="#23876E"/>
+<line x1="430.0" y1="333.0" x2="755.0" y2="427.0" stroke="#2D6EC5" stroke-width="4" stroke-linecap="round"/>
+<polygon points="755.0,427.0 741.9,428.9 745.0,418.4" fill="#2D6EC5"/>
+<text x="469.0" y="305.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#23876E" text-anchor="start">firstin</text>
+<text x="469.0" y="381.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#2D6EC5" text-anchor="start">firstout</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">Dijkstra 以路径总权值为目标</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">不等于 BFS 的最少边数；要求边权非负</text>
+<line x1="128.4" y1="368.1" x2="336.2" y2="231.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="336.2,231.2 329.2,242.4 323.1,233.3" fill="#A3B3C5"/>
+<rect x="226.1" y="288.1" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="245.1" y="309.1" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">4</text>
+<line x1="130.6" y1="394.8" x2="296.2" y2="467.9" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="296.2,467.9 283.0,468.1 287.4,458.0" fill="#A3B3C5"/>
+<rect x="190.3" y="424.4" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="209.3" y="445.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">2</text>
+<line x1="332.0" y1="454.3" x2="360.6" y2="246.7" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="360.6,246.7 364.4,259.3 353.5,257.8" fill="#A3B3C5"/>
+<rect x="345.6" y="326.2" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="364.6" y="347.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">1</text>
+<line x1="393.0" y1="216.7" x2="609.9" y2="253.6" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="609.9,253.6 597.1,257.0 599.0,246.1" fill="#A3B3C5"/>
+<rect x="475.1" y="228.5" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="494.1" y="249.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">5</text>
+<line x1="351.1" y1="465.9" x2="615.8" y2="279.6" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="615.8,279.6 609.1,291.0 602.8,282.0" fill="#A3B3C5"/>
+<rect x="477.7" y="360.8" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="496.7" y="381.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">8</text>
+<line x1="356.2" y1="480.7" x2="609.4" y2="469.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="609.4,469.0 597.7,475.1 597.2,464.1" fill="#A3B3C5"/>
+<rect x="478.1" y="467.7" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="497.1" y="488.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">10</text>
+<line x1="386.1" y1="230.9" x2="618.6" y2="443.8" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="618.6,443.8 606.0,439.7 613.4,431.6" fill="#A3B3C5"/>
+<rect x="473.7" y="328.5" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="492.7" y="349.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">8</text>
+<line x1="644.4" y1="287.4" x2="644.4" y2="432.4" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="644.4,432.4 638.9,420.4 649.9,420.4" fill="#A3B3C5"/>
+<rect x="607.4" y="340.4" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="626.4" y="361.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">2</text>
+<line x1="671.1" y1="267.9" x2="1001.6" y2="372.9" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="1001.6,372.9 988.5,374.5 991.9,364.0" fill="#A3B3C5"/>
+<rect x="809.9" y="313.7" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="828.9" y="334.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">6</text>
+<line x1="671.8" y1="461.5" x2="1000.8" y2="390.8" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="1000.8,390.8 990.2,398.7 987.9,388.0" fill="#A3B3C5"/>
+<rect x="831.5" y="418.1" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="850.5" y="439.1" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">3</text>
+<circle cx="105.0" cy="383.5" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="105.0" cy="383.5" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="105.0" y="392.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">S</text>
+<circle cx="365.4" cy="212.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="365.4" cy="212.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="365.4" y="221.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="328.2" cy="482.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="328.2" cy="482.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="328.2" y="491.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="644.4" cy="259.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="644.4" cy="259.4" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="644.4" y="268.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="644.4" cy="467.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="644.4" cy="467.4" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="644.4" y="476.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="1035.0" cy="383.5" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="1035.0" cy="383.5" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="1035.0" y="392.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">T</text>
+</svg>

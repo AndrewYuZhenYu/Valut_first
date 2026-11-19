@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">活动时差：最迟开始 − 最早开始</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">等于 0 的活动是关键活动；非关键活动允许一定延迟</text>
+<text x="86.0" y="190.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">S→A</text>
+<rect x="86.0" y="206.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="86.0" y="206.0" width="12.0" height="27.0" rx="5" fill="#23876E" stroke="none" stroke-width="0"/>
+<text x="86.0" y="274.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#23876E" text-anchor="start">时差=0</text>
+<text x="301.0" y="190.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">S→B</text>
+<rect x="301.0" y="206.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="301.0" y="206.0" width="72.0" height="27.0" rx="5" fill="#D49A2C" stroke="none" stroke-width="0"/>
+<text x="301.0" y="274.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#D49A2C" text-anchor="start">时差=2</text>
+<text x="516.0" y="190.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">A→C</text>
+<rect x="516.0" y="206.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="516.0" y="206.0" width="12.0" height="27.0" rx="5" fill="#23876E" stroke="none" stroke-width="0"/>
+<text x="516.0" y="274.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#23876E" text-anchor="start">时差=0</text>
+<text x="731.0" y="190.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">B→C</text>
+<rect x="731.0" y="206.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="731.0" y="206.0" width="102.0" height="27.0" rx="5" fill="#D49A2C" stroke="none" stroke-width="0"/>
+<text x="731.0" y="274.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#D49A2C" text-anchor="start">时差=3</text>
+<text x="946.0" y="190.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">B→D</text>
+<rect x="946.0" y="206.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="946.0" y="206.0" width="72.0" height="27.0" rx="5" fill="#D49A2C" stroke="none" stroke-width="0"/>
+<text x="946.0" y="274.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#D49A2C" text-anchor="start">时差=2</text>
+<text x="86.0" y="368.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">C→E</text>
+<rect x="86.0" y="384.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="86.0" y="384.0" width="12.0" height="27.0" rx="5" fill="#23876E" stroke="none" stroke-width="0"/>
+<text x="86.0" y="452.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#23876E" text-anchor="start">时差=0</text>
+<text x="301.0" y="368.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">D→E</text>
+<rect x="301.0" y="384.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="301.0" y="384.0" width="72.0" height="27.0" rx="5" fill="#D49A2C" stroke="none" stroke-width="0"/>
+<text x="301.0" y="452.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#D49A2C" text-anchor="start">时差=2</text>
+<text x="516.0" y="368.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">C→T</text>
+<rect x="516.0" y="384.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="516.0" y="384.0" width="132.0" height="27.0" rx="5" fill="#D49A2C" stroke="none" stroke-width="0"/>
+<text x="516.0" y="452.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#D49A2C" text-anchor="start">时差=4</text>
+<text x="731.0" y="368.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">E→T</text>
+<rect x="731.0" y="384.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="731.0" y="384.0" width="12.0" height="27.0" rx="5" fill="#23876E" stroke="none" stroke-width="0"/>
+<text x="731.0" y="452.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#23876E" text-anchor="start">时差=0</text>
+<text x="946.0" y="368.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#192B43" text-anchor="start">D→T</text>
+<rect x="946.0" y="384.0" width="170.0" height="27.0" rx="5" fill="#E6ECF3" stroke="none" stroke-width="0"/>
+<rect x="946.0" y="384.0" width="192.0" height="27.0" rx="5" fill="#D49A2C" stroke="none" stroke-width="0"/>
+<text x="946.0" y="452.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#D49A2C" text-anchor="start">时差=6</text>
+</svg>

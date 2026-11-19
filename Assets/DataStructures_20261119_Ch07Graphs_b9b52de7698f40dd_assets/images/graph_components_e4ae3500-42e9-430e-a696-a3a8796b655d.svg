@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">连通分量：没有路径跨越分量</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">按最大连通子图划分；不同色块代表不同分量</text>
+<line x1="163.0" y1="229.0" x2="413.7" y2="229.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="469.7" y1="229.0" x2="720.3" y2="229.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="720.3" y1="229.0" x2="163.0" y2="229.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="1027.9" y1="236.1" x2="162.1" y2="461.9" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="469.7" y1="469.0" x2="720.3" y2="469.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<circle cx="135.0" cy="229.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="135.0" cy="229.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="135.0" y="238.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="441.7" cy="229.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="441.7" cy="229.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="441.7" y="238.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="748.3" cy="229.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="748.3" cy="229.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="748.3" y="238.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="1055.0" cy="229.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="1055.0" cy="229.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="1055.0" y="238.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="135.0" cy="469.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="135.0" cy="469.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="135.0" y="478.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="441.7" cy="469.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="441.7" cy="469.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="441.7" y="478.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">F</text>
+<circle cx="748.3" cy="469.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="748.3" cy="469.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="748.3" y="478.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">G</text>
+</svg>

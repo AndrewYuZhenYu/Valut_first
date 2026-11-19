@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">拓扑排序第 8 轮：输出 H</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">选择入度为 0 的点并删除其所有出弧</text>
+<circle cx="95.0" cy="234.2" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="95.0" cy="234.2" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="95.0" y="243.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="95.0" cy="469.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="95.0" cy="469.0" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="95.0" y="478.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="285.5" cy="219.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="285.5" cy="219.0" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="285.5" y="228.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="285.5" cy="340.9" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="285.5" cy="340.9" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="285.5" y="349.9" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="285.5" cy="472.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="285.5" cy="472.0" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="285.5" y="481.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="526.8" cy="261.7" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="526.8" cy="261.7" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="526.8" y="270.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">F</text>
+<circle cx="526.8" cy="438.5" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="526.8" cy="438.5" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="526.8" y="447.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">G</text>
+<circle cx="730.0" cy="337.9" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="730.0" cy="337.9" r="28" fill="#DCE3EB" stroke="#FFFFFF" stroke-width="3"/>
+<text x="730.0" y="346.9" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">H</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#23876E" text-anchor="start">已输出：A B C D E F G H</text>
+<text x="845.0" y="232.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#2D6EC5" text-anchor="start">当前零入度：无</text>
+<text x="845.0" y="271.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="23" fill="#192B43" text-anchor="start">剩余顶点：0</text>
+<text x="845.0" y="310.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">金色 = 可立即输出</text>
+<text x="845.0" y="349.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">浅灰 = 已删除</text>
+</svg>

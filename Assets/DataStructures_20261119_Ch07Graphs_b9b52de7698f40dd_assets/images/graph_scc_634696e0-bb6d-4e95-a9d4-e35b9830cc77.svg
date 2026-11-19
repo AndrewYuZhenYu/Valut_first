@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">强连通分量</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">有向图要求任意两点互相可达</text>
+<line x1="153.0" y1="224.0" x2="450.0" y2="224.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="450.0,224.0 438.0,229.5 438.0,218.5" fill="#A3B3C5"/>
+<line x1="465.8" y1="244.4" x2="329.0" y2="389.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="329.0,389.2 333.3,376.7 341.3,384.3" fill="#A3B3C5"/>
+<line x1="285.8" y1="394.3" x2="149.0" y2="249.5" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="149.0,249.5 161.3,254.4 153.3,262.0" fill="#A3B3C5"/>
+<line x1="332.8" y1="411.5" x2="720.2" y2="366.7" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="720.2,366.7 708.9,373.5 707.7,362.6" fill="#A3B3C5"/>
+<line x1="779.9" y1="349.9" x2="993.9" y2="240.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="993.9,240.0 985.7,250.4 980.7,240.6" fill="#A3B3C5"/>
+<line x1="1000.1" y1="236.8" x2="786.1" y2="346.7" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="786.1,346.7 794.3,336.3 799.3,346.1" fill="#A3B3C5"/>
+<line x1="1025.0" y1="252.0" x2="1025.0" y2="449.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="1025.0,449.0 1019.5,437.0 1030.5,437.0" fill="#A3B3C5"/>
+<circle cx="125.0" cy="224.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="125.0" cy="224.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="125.0" y="233.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="485.0" cy="224.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="485.0" cy="224.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="485.0" y="233.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="305.0" cy="414.7" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="305.0" cy="414.7" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="305.0" y="423.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="755.0" cy="362.7" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="755.0" cy="362.7" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="755.0" y="371.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="1025.0" cy="224.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="1025.0" cy="224.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="1025.0" y="233.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="1025.0" cy="484.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="1025.0" cy="484.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="1025.0" y="493.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">F</text>
+<text x="105.0" y="578.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="27" fill="#23876E" text-anchor="start">强连通分量：{A,B,C}、{D,E}、{F}</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">BFS 逐步演示 2/9：处理 A</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">已发现的顶点：A → B → C</text>
+<line x1="119.0" y1="306.6" x2="226.0" y2="242.1" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="114.7" y1="341.0" x2="230.3" y2="458.1" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="277.8" y1="224.3" x2="377.2" y2="212.4" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="270.9" y1="246.3" x2="371.7" y2="336.1" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="278.0" y1="477.3" x2="501.0" y2="471.3" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="413.9" y1="372.8" x2="507.7" y2="452.4" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="419.4" y1="346.6" x2="539.4" y2="310.5" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="555.3" y1="461.0" x2="688.7" y2="412.8" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="589.4" y1="318.1" x2="691.8" y2="387.6" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="429.2" y1="223.0" x2="542.0" y2="288.4" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<circle cx="95.0" cy="321.1" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="95.0" cy="321.1" r="28" fill="#D65E5E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="95.0" y="330.1" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="250.0" cy="227.7" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="250.0" cy="227.7" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="250.0" y="236.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="250.0" cy="478.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="250.0" cy="478.0" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="250.0" y="487.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="405.0" cy="209.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="405.0" cy="209.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="405.0" y="218.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="392.6" cy="354.7" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="392.6" cy="354.7" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="392.6" y="363.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="529.0" cy="470.5" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="529.0" cy="470.5" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="529.0" y="479.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">F</text>
+<circle cx="566.2" cy="302.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="566.2" cy="302.4" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="566.2" y="311.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">G</text>
+<circle cx="715.0" cy="403.3" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="715.0" cy="403.3" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="715.0" y="412.3" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">H</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="25" fill="#2D6EC5" text-anchor="start">队列（从左到右）</text>
+<text x="845.0" y="237.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="25" fill="#23876E" text-anchor="start">B  C</text>
+<text x="845.0" y="281.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">已发现：3 / 8</text>
+<text x="845.0" y="320.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">处理队头、扩展相邻点</text>
+</svg>

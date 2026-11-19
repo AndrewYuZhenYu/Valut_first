@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">BFS 的 parent[]：还原无权最短路径</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">沿前驱指针从目标回溯到起点，再反转</text>
+<line x1="139.0" y1="311.5" x2="238.5" y2="252.0" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="134.8" y1="345.7" x2="242.7" y2="454.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="290.3" y1="234.3" x2="382.2" y2="223.3" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="283.5" y1="256.2" x2="377.2" y2="339.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="290.5" y1="473.3" x2="500.0" y2="467.7" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="419.6" y1="375.6" x2="506.6" y2="448.9" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="425.0" y1="349.6" x2="536.6" y2="316.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="554.4" y1="457.5" x2="678.6" y2="412.9" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="586.6" y1="323.8" x2="681.8" y2="387.8" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="434.3" y1="234.0" x2="539.1" y2="294.2" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<circle cx="115.0" cy="325.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="115.0" cy="325.8" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="115.0" y="334.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="262.5" cy="237.6" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="262.5" cy="237.6" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="262.5" y="246.6" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="262.5" cy="474.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="262.5" cy="474.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="262.5" y="483.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="410.0" cy="220.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="410.0" cy="220.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="410.0" y="229.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="398.2" cy="357.6" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="398.2" cy="357.6" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="398.2" y="366.6" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="528.0" cy="466.9" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="528.0" cy="466.9" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="528.0" y="475.9" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">F</text>
+<circle cx="563.4" cy="308.2" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="563.4" cy="308.2" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="563.4" y="317.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">G</text>
+<circle cx="705.0" cy="403.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="705.0" cy="403.4" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="705.0" y="412.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">H</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="27" fill="#2D6EC5" text-anchor="start">目标 G</text>
+<text x="845.0" y="237.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">parent[G] = D</text>
+<text x="845.0" y="276.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">parent[D] = B</text>
+<text x="845.0" y="315.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">parent[B] = A</text>
+<text x="845.0" y="354.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="21" fill="#23876E" text-anchor="start">反转得 A→B→D→G</text>
+</svg>

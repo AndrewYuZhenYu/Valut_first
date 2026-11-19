@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">多条关键路径时，缩短某一条未必能缩短工期</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">两条并行路径均为 8，缩短其中一条后另一条仍决定工期</text>
+<line x1="145.9" y1="331.8" x2="407.7" y2="223.4" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="407.7,223.4 398.7,233.1 394.5,222.9" fill="#23876E"/>
+<rect x="267.9" y="268.0" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="286.9" y="289.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">4</text>
+<line x1="465.9" y1="220.7" x2="727.7" y2="329.1" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="727.7,329.1 714.5,329.6 718.7,319.4" fill="#23876E"/>
+<rect x="574.1" y="268.0" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="593.1" y="289.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">4</text>
+<line x1="145.9" y1="353.2" x2="407.7" y2="461.6" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="407.7,461.6 394.5,462.1 398.7,451.9" fill="#23876E"/>
+<rect x="254.1" y="400.5" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="273.1" y="421.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">3</text>
+<line x1="465.9" y1="464.3" x2="727.7" y2="355.9" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="727.7,355.9 718.7,365.6 714.5,355.4" fill="#23876E"/>
+<rect x="587.9" y="400.5" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="606.9" y="421.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">5</text>
+<circle cx="120.0" cy="342.5" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="120.0" cy="342.5" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="120.0" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">S</text>
+<circle cx="440.0" cy="210.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="440.0" cy="210.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="440.0" y="219.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="440.0" cy="475.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="440.0" cy="475.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="440.0" y="484.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="760.0" cy="342.5" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="760.0" cy="342.5" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="760.0" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">T</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#2D6EC5" text-anchor="start">路径一：4+4=8</text>
+<text x="845.0" y="232.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#23876E" text-anchor="start">路径二：3+5=8</text>
+<text x="845.0" y="271.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#D65E5E" text-anchor="start">两条同时关键</text>
+<text x="845.0" y="310.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="19" fill="#192B43" text-anchor="start">只加速其中一条仍是 8</text>
+</svg>

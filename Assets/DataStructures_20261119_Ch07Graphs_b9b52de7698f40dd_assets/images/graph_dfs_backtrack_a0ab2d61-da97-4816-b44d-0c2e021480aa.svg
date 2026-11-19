@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">DFS 回溯依赖递归调用栈</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">到叶子后返回上层函数；并非沿任何边都能进入未访问顶点</text>
+<line x1="129.2" y1="314.1" x2="230.8" y2="255.4" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="125.1" y1="347.7" x2="234.9" y2="454.5" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="282.8" y1="238.1" x2="377.2" y2="227.2" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="276.3" y1="259.6" x2="371.7" y2="341.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="283.0" y1="473.3" x2="497.0" y2="467.8" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="414.7" y1="377.1" x2="503.3" y2="449.4" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="419.9" y1="351.6" x2="534.1" y2="318.6" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="551.5" y1="457.9" x2="678.5" y2="413.7" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="584.5" y1="326.1" x2="681.5" y2="389.3" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="429.5" y1="237.6" x2="536.5" y2="297.2" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<circle cx="105.0" cy="328.2" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="105.0" cy="328.2" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="105.0" y="337.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="255.0" cy="241.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="255.0" cy="241.4" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="255.0" y="250.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="255.0" cy="474.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="255.0" cy="474.0" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="255.0" y="483.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="405.0" cy="224.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="405.0" cy="224.0" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="405.0" y="233.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="393.0" cy="359.4" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="393.0" cy="359.4" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="393.0" y="368.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="525.0" cy="467.1" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="525.0" cy="467.1" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="525.0" y="476.1" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">F</text>
+<circle cx="561.0" cy="310.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="561.0" cy="310.8" r="28" fill="#23876E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="561.0" y="319.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">G</text>
+<circle cx="705.0" cy="404.6" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="705.0" cy="404.6" r="28" fill="#D65E5E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="705.0" y="413.6" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">H</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#2D6EC5" text-anchor="start">回溯路线（示意）</text>
+<text x="845.0" y="237.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="23" fill="#192B43" text-anchor="start">H → F → E → G</text>
+<text x="845.0" y="276.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="19" fill="#192B43" text-anchor="start">返回最近有未遍历邻点处</text>
+<text x="845.0" y="315.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#23876E" text-anchor="start">调用栈：后进先出 LIFO</text>
+</svg>

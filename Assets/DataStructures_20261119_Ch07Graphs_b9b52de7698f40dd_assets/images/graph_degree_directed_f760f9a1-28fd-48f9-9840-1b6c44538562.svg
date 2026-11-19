@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">度、入度和出度</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">观察从 B 指出的弧与指向 B 的弧</text>
+<line x1="136.8" y1="361.1" x2="298.1" y2="231.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="298.1,231.0 292.2,242.8 285.3,234.2" fill="#A3B3C5"/>
+<line x1="333.4" y1="235.8" x2="399.4" y2="455.5" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="399.4,455.5 390.7,445.6 401.2,442.4" fill="#A3B3C5"/>
+<line x1="626.9" y1="228.4" x2="360.3" y2="211.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="360.3,211.2 372.6,206.5 371.9,217.5" fill="#A3B3C5"/>
+<line x1="348.7" y1="224.4" x2="695.8" y2="452.8" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="695.8,452.8 682.7,450.8 688.8,441.6" fill="#A3B3C5"/>
+<line x1="717.2" y1="445.1" x2="664.6" y2="263.8" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="664.6,263.8 673.3,273.8 662.7,276.9" fill="#A3B3C5"/>
+<circle cx="115.0" cy="378.7" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="115.0" cy="378.7" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="115.0" y="387.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="325.3" cy="209.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="325.3" cy="209.0" r="28" fill="#D65E5E" stroke="#FFFFFF" stroke-width="3"/>
+<text x="325.3" y="218.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="409.5" cy="489.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="409.5" cy="489.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="409.5" y="498.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="654.9" cy="230.2" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="654.9" cy="230.2" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="654.9" y="239.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="725.0" cy="472.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="725.0" cy="472.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="725.0" y="481.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="27" fill="#2D6EC5" text-anchor="start">B 的入度 = 2</text>
+<text x="845.0" y="237.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">A → B</text>
+<text x="845.0" y="276.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">D → B</text>
+<text x="845.0" y="315.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="27" fill="#23876E" text-anchor="start">B 的出度 = 2</text>
+<text x="845.0" y="359.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">B → C</text>
+<text x="845.0" y="398.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="22" fill="#192B43" text-anchor="start">B → E</text>
+<text x="845.0" y="437.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#D65E5E" text-anchor="start">总度 = 2 + 2 = 4</text>
+</svg>

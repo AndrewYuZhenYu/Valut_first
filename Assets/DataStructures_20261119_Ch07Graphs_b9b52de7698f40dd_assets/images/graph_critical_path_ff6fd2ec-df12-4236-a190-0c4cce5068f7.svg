@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">关键路径：零时差边连成最长路径</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">绿色边是关键活动；这些活动任何一项延迟都会影响完工</text>
+<line x1="121.5" y1="327.3" x2="238.2" y2="229.5" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="238.2,229.5 232.5,241.4 225.4,233.0" fill="#23876E"/>
+<rect x="175.1" y="265.4" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="194.1" y="286.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">4</text>
+<line x1="122.4" y1="362.1" x2="230.4" y2="442.9" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="230.4,442.9 217.5,440.1 224.1,431.3" fill="#A3B3C5"/>
+<rect x="149.4" y="394.4" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="168.4" y="415.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">3</text>
+<line x1="292.2" y1="213.5" x2="409.2" y2="241.6" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="409.2,241.6 396.2,244.2 398.8,233.5" fill="#23876E"/>
+<rect x="324.3" y="221.0" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="343.3" y="242.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">4</text>
+<line x1="276.7" y1="442.6" x2="420.3" y2="276.3" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="420.3,276.3 416.6,289.0 408.3,281.8" fill="#A3B3C5"/>
+<rect x="345.4" y="344.3" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="364.4" y="365.3" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">2</text>
+<line x1="286.3" y1="465.7" x2="421.5" y2="474.7" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="421.5,474.7 409.1,479.4 409.9,468.4" fill="#A3B3C5"/>
+<rect x="327.6" y="463.4" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="346.6" y="484.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">5</text>
+<line x1="466.7" y1="265.1" x2="585.5" y2="342.6" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="585.5,342.6 572.4,340.7 578.4,331.5" fill="#23876E"/>
+<rect x="500.2" y="296.2" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="519.2" y="317.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">3</text>
+<line x1="479.0" y1="460.5" x2="586.5" y2="382.3" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="586.5,382.3 580.0,393.9 573.6,385.0" fill="#A3B3C5"/>
+<rect x="527.2" y="409.3" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="546.2" y="430.3" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">1</text>
+<line x1="469.8" y1="258.6" x2="726.8" y2="344.1" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="726.8,344.1 713.7,345.6 717.1,335.1" fill="#A3B3C5"/>
+<rect x="571.8" y="294.7" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="590.8" y="315.7" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">4</text>
+<line x1="642.8" y1="360.5" x2="725.0" y2="356.8" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<polygon points="725.0,356.8 713.3,362.8 712.8,351.8" fill="#23876E"/>
+<rect x="679.2" y="351.4" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="698.2" y="372.4" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#23876E" text-anchor="middle">5</text>
+<line x1="482.4" y1="466.6" x2="727.5" y2="368.2" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<polygon points="727.5,368.2 718.4,377.8 714.3,367.6" fill="#A3B3C5"/>
+<rect x="595.9" y="407.9" width="38.0" height="29.0" rx="8" fill="#FFFFFF" stroke="#E2EAF4" stroke-width="1"/>
+<text x="614.9" y="428.9" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="20" fill="#192B43" text-anchor="middle">2</text>
+<circle cx="100.0" cy="345.3" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="100.0" cy="345.3" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="100.0" y="354.3" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">S</text>
+<circle cx="265.0" cy="207.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="265.0" cy="207.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="265.0" y="216.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="258.4" cy="463.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="258.4" cy="463.8" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="258.4" y="472.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="443.2" cy="249.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="443.2" cy="249.8" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="443.2" y="258.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="456.4" cy="477.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="456.4" cy="477.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="456.4" y="486.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="614.8" cy="361.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="614.8" cy="361.8" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="614.8" y="370.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<circle cx="760.0" cy="355.2" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="760.0" cy="355.2" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="760.0" y="364.2" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">T</text>
+<rect x="825.0" y="154.0" width="325.0" height="390.0" rx="18" fill="#FFFFFF" stroke="#DDE7F2" stroke-width="1"/>
+<text x="845.0" y="193.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="27" fill="#23876E" text-anchor="start">总工期 T = 16</text>
+<text x="845.0" y="237.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#2D6EC5" text-anchor="start">关键活动：</text>
+<text x="845.0" y="276.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#23876E" text-anchor="start">S→A→C→E→T</text>
+<text x="845.0" y="315.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#192B43" text-anchor="start">总工期由最长路径决定</text>
+</svg>

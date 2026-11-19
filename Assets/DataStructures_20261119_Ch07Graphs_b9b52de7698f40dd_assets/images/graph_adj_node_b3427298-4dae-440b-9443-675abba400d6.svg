@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">链表结点结构示意</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">表头结点 → 表结点 → 表结点 → 空</text>
+<rect x="70.0" y="234.0" width="245.0" height="102.0" rx="12" fill="#DDE9F8" stroke="#2D6EC5" stroke-width="2"/>
+<text x="193.0" y="270.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="25" fill="#2D6EC5" text-anchor="middle">顶点 data</text>
+<text x="193.0" y="311.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="23" fill="#192B43" text-anchor="middle">firstarc →</text>
+<line x1="315.0" y1="285.0" x2="410.0" y2="285.0" stroke="#2D6EC5" stroke-width="4" stroke-linecap="round"/>
+<polygon points="410.0,285.0 398.0,290.5 398.0,279.5" fill="#2D6EC5"/>
+<rect x="412.0" y="234.0" width="255.0" height="102.0" rx="12" fill="#E1F2EB" stroke="#23876E" stroke-width="2"/>
+<text x="537.0" y="270.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#23876E" text-anchor="middle">邻接点 B</text>
+<text x="537.0" y="310.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#192B43" text-anchor="middle">adjvex  |  nextarc</text>
+<rect x="720.0" y="234.0" width="255.0" height="102.0" rx="12" fill="#E1F2EB" stroke="#23876E" stroke-width="2"/>
+<text x="845.0" y="270.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#23876E" text-anchor="middle">邻接点 C</text>
+<text x="845.0" y="310.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#192B43" text-anchor="middle">adjvex  |  nextarc</text>
+<line x1="669.0" y1="285.0" x2="718.0" y2="285.0" stroke="#23876E" stroke-width="4" stroke-linecap="round"/>
+<polygon points="718.0,285.0 706.0,290.5 706.0,279.5" fill="#23876E"/>
+<text x="1020.0" y="299.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="37" fill="#62738A" text-anchor="start">∅</text>
+</svg>

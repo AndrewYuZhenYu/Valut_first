@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#FAFCFF"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="context-stroke"/></marker></defs>
+<rect x="28.0" y="25.0" width="1144.0" height="67.0" rx="16" fill="#FFFFFF" stroke="#DFE8F3" stroke-width="1"/>
+<text x="49.0" y="70.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="34" fill="#192B43" text-anchor="start">邻接矩阵的对称位置</text>
+<text x="49.0" y="113.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="20" fill="#62738A" text-anchor="start">无向边 (A,B) 同时占据 M[A,B] 与 M[B,A]</text>
+<line x1="117.3" y1="315.9" x2="222.7" y2="235.9" stroke="#23876E" stroke-width="6" stroke-linecap="round"/>
+<line x1="116.4" y1="350.9" x2="223.6" y2="441.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="269.4" y1="232.7" x2="385.1" y2="297.6" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="265.8" y1="440.3" x2="388.7" y2="330.0" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<line x1="434.3" y1="324.3" x2="520.2" y2="369.1" stroke="#A3B3C5" stroke-width="3" stroke-linecap="round"/>
+<circle cx="95.0" cy="332.8" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="95.0" cy="332.8" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="95.0" y="341.8" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">A</text>
+<circle cx="245.0" cy="219.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="245.0" cy="219.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="245.0" y="228.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">B</text>
+<circle cx="245.0" cy="459.0" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="245.0" cy="459.0" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="245.0" y="468.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="409.5" cy="311.3" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="409.5" cy="311.3" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="409.5" y="320.3" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">D</text>
+<circle cx="545.0" cy="382.1" r="30" fill="#FFFFFF" stroke="#D7E3F2" stroke-width="2"/>
+<circle cx="545.0" cy="382.1" r="28" fill="#2D6EC5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="545.0" y="391.1" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">E</text>
+<text x="662.0" y="172.0" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="26" fill="#192B43" text-anchor="start">对称的两个 1</text>
+<rect x="662.0" y="190.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="692.5" y="229.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle"></text>
+<rect x="723.0" y="190.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="753.5" y="229.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">A</text>
+<rect x="784.0" y="190.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="814.5" y="229.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">B</text>
+<rect x="845.0" y="190.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="875.5" y="229.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">C</text>
+<rect x="906.0" y="190.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="936.5" y="229.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">D</text>
+<rect x="967.0" y="190.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="997.5" y="229.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">E</text>
+<rect x="662.0" y="251.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="692.5" y="290.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">A</text>
+<rect x="723.0" y="251.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="753.5" y="290.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="784.0" y="251.0" width="61.0" height="61.0" rx="4" fill="#D9F5E7" stroke="#C9D8E8" stroke-width="1"/>
+<text x="814.5" y="290.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="845.0" y="251.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="875.5" y="290.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="906.0" y="251.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="936.5" y="290.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="967.0" y="251.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="997.5" y="290.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="662.0" y="312.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="692.5" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">B</text>
+<rect x="723.0" y="312.0" width="61.0" height="61.0" rx="4" fill="#D9F5E7" stroke="#C9D8E8" stroke-width="1"/>
+<text x="753.5" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="784.0" y="312.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="814.5" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="845.0" y="312.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="875.5" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="906.0" y="312.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="936.5" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="967.0" y="312.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="997.5" y="351.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="662.0" y="373.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="692.5" y="412.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">C</text>
+<rect x="723.0" y="373.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="753.5" y="412.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="784.0" y="373.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="814.5" y="412.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="845.0" y="373.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="875.5" y="412.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="906.0" y="373.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="936.5" y="412.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="967.0" y="373.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="997.5" y="412.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="662.0" y="434.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="692.5" y="473.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">D</text>
+<rect x="723.0" y="434.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="753.5" y="473.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="784.0" y="434.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="814.5" y="473.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="845.0" y="434.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="875.5" y="473.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="906.0" y="434.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="936.5" y="473.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="967.0" y="434.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="997.5" y="473.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="662.0" y="495.0" width="61.0" height="61.0" rx="4" fill="#D9E9FA" stroke="#C9D8E8" stroke-width="1"/>
+<text x="692.5" y="534.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="700" font-size="24" fill="#2D6EC5" text-anchor="middle">E</text>
+<rect x="723.0" y="495.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="753.5" y="534.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="784.0" y="495.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="814.5" y="534.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="845.0" y="495.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="875.5" y="534.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+<rect x="906.0" y="495.0" width="61.0" height="61.0" rx="4" fill="#FFFFFF" stroke="#C9D8E8" stroke-width="1"/>
+<text x="936.5" y="534.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">1</text>
+<rect x="967.0" y="495.0" width="61.0" height="61.0" rx="4" fill="#F3F7FC" stroke="#C9D8E8" stroke-width="1"/>
+<text x="997.5" y="534.5" font-family="Noto Sans CJK SC, Noto Sans, Arial, sans-serif" font-weight="400" font-size="24" fill="#192B43" text-anchor="middle">0</text>
+</svg>

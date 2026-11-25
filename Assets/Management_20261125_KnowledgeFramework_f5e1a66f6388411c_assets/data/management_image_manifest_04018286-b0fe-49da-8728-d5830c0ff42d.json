@@ -1,0 +1,1074 @@
+[
+  {
+    "number": 1,
+    "title": "组织目标的实现",
+    "png": "management_tree1_d1884c5a-d867-4f03-a187-131a9cc4e94a.png",
+    "svg": "management_tree1_d1884c5a-d867-4f03-a187-131a9cc4e94a.svg",
+    "width": 2400,
+    "height": 1934
+  },
+  {
+    "number": 2,
+    "title": "组织运行与反馈",
+    "png": "management_flow2_47be76a4-d0e3-4446-8250-784e8e6c909a.png",
+    "svg": "management_flow2_47be76a4-d0e3-4446-8250-784e8e6c909a.svg",
+    "width": 2400,
+    "height": 1890
+  },
+  {
+    "number": 3,
+    "title": "管理学总体目录",
+    "png": "management_outline_1740d3e9-e753-43ba-9b25-c9bf05f1cff0.png",
+    "svg": "management_outline_1740d3e9-e753-43ba-9b25-c9bf05f1cff0.svg",
+    "width": 2400,
+    "height": 2960
+  },
+  {
+    "number": 4,
+    "title": "管理职能循环",
+    "png": "management_flow4_10ea6134-4956-443e-baca-72bd08ed35ce.png",
+    "svg": "management_flow4_10ea6134-4956-443e-baca-72bd08ed35ce.svg",
+    "width": 2400,
+    "height": 1686
+  },
+  {
+    "number": 5,
+    "title": "效率与效果",
+    "png": "management_matrix5_b2e383c1-047d-414b-b513-441e048462f6.png",
+    "svg": "management_matrix5_b2e383c1-047d-414b-b513-441e048462f6.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 6,
+    "title": "管理理论的发展历史",
+    "png": "management_flow6_49adad66-76e8-4cd9-8226-7e5f63c06045.png",
+    "svg": "management_flow6_49adad66-76e8-4cd9-8226-7e5f63c06045.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 7,
+    "title": "古典管理理论",
+    "png": "management_tree7_77b18b92-c9f5-46cb-8a10-11ace336f7bc.png",
+    "svg": "management_tree7_77b18b92-c9f5-46cb-8a10-11ace336f7bc.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 8,
+    "title": "管理者层级",
+    "png": "management_pyramid_c70d232f-dc59-49f2-be4e-a82ab54a5328.png",
+    "svg": "management_pyramid_c70d232f-dc59-49f2-be4e-a82ab54a5328.svg",
+    "width": 2400,
+    "height": 1260
+  },
+  {
+    "number": 9,
+    "title": "卡茨管理技能模型",
+    "png": "management_skills_b9f78efd-b178-43bd-98b0-3656ed39991a.png",
+    "svg": "management_skills_b9f78efd-b178-43bd-98b0-3656ed39991a.svg",
+    "width": 2400,
+    "height": 920
+  },
+  {
+    "number": 10,
+    "title": "运筹学知识结构",
+    "png": "management_tree10_7254dc3b-20d2-4dcf-85da-e88bfe552e4c.png",
+    "svg": "management_tree10_7254dc3b-20d2-4dcf-85da-e88bfe552e4c.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 11,
+    "title": "线性规划可行域与目标函数方向",
+    "png": "management_lp_af8e4d70-fada-4615-858a-0d012bf6c194.png",
+    "svg": "management_lp_af8e4d70-fada-4615-858a-0d012bf6c194.svg",
+    "width": 2400,
+    "height": 1320
+  },
+  {
+    "number": 12,
+    "title": "增强反馈与平衡反馈",
+    "png": "management_feedback_dc856ce9-7b01-4844-a916-1acbacde7e1b.png",
+    "svg": "management_feedback_dc856ce9-7b01-4844-a916-1acbacde7e1b.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 13,
+    "title": "串联生产线的瓶颈",
+    "png": "management_bottleneck_f3835f78-eef2-4010-979c-3961c22c3a0c.png",
+    "svg": "management_bottleneck_f3835f78-eef2-4010-979c-3961c22c3a0c.svg",
+    "width": 2400,
+    "height": 914
+  },
+  {
+    "number": 14,
+    "title": "决策的完整过程",
+    "png": "management_flow14_2594e622-bd23-4cd4-bced-74b70391a0e3.png",
+    "svg": "management_flow14_2594e622-bd23-4cd4-bced-74b70391a0e3.svg",
+    "width": 2400,
+    "height": 2562
+  },
+  {
+    "number": 15,
+    "title": "新产品开发决策树",
+    "png": "management_decision_50cae7cd-f770-4e21-8b53-e1e4fc3da1f2.png",
+    "svg": "management_decision_50cae7cd-f770-4e21-8b53-e1e4fc3da1f2.svg",
+    "width": 2400,
+    "height": 1100
+  },
+  {
+    "number": 16,
+    "title": "多目标决策演示：选择软件供应商",
+    "png": "management_weighted_51111fe1-1581-4341-b5ac-568880548515.png",
+    "svg": "management_weighted_51111fe1-1581-4341-b5ac-568880548515.svg",
+    "width": 2400,
+    "height": 958
+  },
+  {
+    "number": 17,
+    "title": "企业目标层级",
+    "png": "management_flow17_4a079be9-ba48-4ac7-9f85-799ebc67329f.png",
+    "svg": "management_flow17_4a079be9-ba48-4ac7-9f85-799ebc67329f.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 18,
+    "title": "目标管理过程",
+    "png": "management_flow18_eb3c8fbc-95a8-4b4f-817a-beadeab95256.png",
+    "svg": "management_flow18_eb3c8fbc-95a8-4b4f-817a-beadeab95256.svg",
+    "width": 2400,
+    "height": 1714
+  },
+  {
+    "number": 19,
+    "title": "O：显著改善移动应用的用户体验",
+    "png": "management_tree19_3a73aa72-3815-4963-8612-daf4b403fe41.png",
+    "svg": "management_tree19_3a73aa72-3815-4963-8612-daf4b403fe41.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 20,
+    "title": "滚动计划",
+    "png": "management_rolling_f2c93953-0de2-436e-a7f4-64ddd34cf796.png",
+    "svg": "management_rolling_f2c93953-0de2-436e-a7f4-64ddd34cf796.svg",
+    "width": 2400,
+    "height": 960
+  },
+  {
+    "number": 21,
+    "title": "直线制组织结构",
+    "png": "management_lineorg_1c1e80e9-55ba-4220-af5a-92cb3eda372b.png",
+    "svg": "management_lineorg_1c1e80e9-55ba-4220-af5a-92cb3eda372b.svg",
+    "width": 2400,
+    "height": 1340
+  },
+  {
+    "number": 22,
+    "title": "职能型组织结构",
+    "png": "management_functional_fe137e66-2c4f-4d34-b76a-efc8c813be6f.png",
+    "svg": "management_functional_fe137e66-2c4f-4d34-b76a-efc8c813be6f.svg",
+    "width": 2400,
+    "height": 980
+  },
+  {
+    "number": 23,
+    "title": "事业部制组织结构",
+    "png": "management_division_10a6ec3b-ddbd-4fcc-b8be-54d31fe9136d.png",
+    "svg": "management_division_10a6ec3b-ddbd-4fcc-b8be-54d31fe9136d.svg",
+    "width": 2976,
+    "height": 1072
+  },
+  {
+    "number": 24,
+    "title": "矩阵制组织结构",
+    "png": "management_matrixorg_09c0802a-3343-40d5-b07a-df2e333e2223.png",
+    "svg": "management_matrixorg_09c0802a-3343-40d5-b07a-df2e333e2223.svg",
+    "width": 2400,
+    "height": 958
+  },
+  {
+    "number": 25,
+    "title": "高耸型与扁平型组织",
+    "png": "management_span_b21d8b36-3583-4fd2-9d27-8b9b07fb4b8d.png",
+    "svg": "management_span_b21d8b36-3583-4fd2-9d27-8b9b07fb4b8d.svg",
+    "width": 2400,
+    "height": 1240
+  },
+  {
+    "number": 26,
+    "title": "集权、分权与授权",
+    "png": "management_grid26_faa1374e-ae8a-482b-8100-534fa3de81e2.png",
+    "svg": "management_grid26_faa1374e-ae8a-482b-8100-534fa3de81e2.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 27,
+    "title": "RACI软件项目责任矩阵",
+    "png": "management_raci_2d4640a9-7669-4077-910e-4d506af05d79.png",
+    "svg": "management_raci_2d4640a9-7669-4077-910e-4d506af05d79.svg",
+    "width": 2400,
+    "height": 1124
+  },
+  {
+    "number": 28,
+    "title": "领导理论的总体分类",
+    "png": "management_tree28_292e06f2-7247-4884-80fc-deefd43d1af8.png",
+    "svg": "management_tree28_292e06f2-7247-4884-80fc-deefd43d1af8.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 29,
+    "title": "布莱克与穆顿管理方格",
+    "png": "management_leadgrid_36807378-2cec-4e83-9947-f4f7c5e6ee67.png",
+    "svg": "management_leadgrid_36807378-2cec-4e83-9947-f4f7c5e6ee67.svg",
+    "width": 2400,
+    "height": 1380
+  },
+  {
+    "number": 30,
+    "title": "激励理论的三大类别",
+    "png": "management_tree30_8990808d-4180-47d9-b72f-f0e5acddd19a.png",
+    "svg": "management_tree30_8990808d-4180-47d9-b72f-f0e5acddd19a.svg",
+    "width": 2400,
+    "height": 972
+  },
+  {
+    "number": 31,
+    "title": "赫茨伯格双因素理论",
+    "png": "management_grid31_39872a97-847b-4fd9-ac68-415c3f7a5967.png",
+    "svg": "management_grid31_39872a97-847b-4fd9-ac68-415c3f7a5967.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 32,
+    "title": "弗鲁姆期望理论",
+    "png": "management_flow32_7276039d-e084-4a05-9a5b-808b1a683bc0.png",
+    "svg": "management_flow32_7276039d-e084-4a05-9a5b-808b1a683bc0.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 33,
+    "title": "管理沟通基本模型",
+    "png": "management_comm_53b45359-541b-433f-b463-76c9e8d67985.png",
+    "svg": "management_comm_53b45359-541b-433f-b463-76c9e8d67985.svg",
+    "width": 2400,
+    "height": 880
+  },
+  {
+    "number": 34,
+    "title": "五种组织沟通网络",
+    "png": "management_networks_b6162270-80be-40f6-b539-8cae95b38a4b.png",
+    "svg": "management_networks_b6162270-80be-40f6-b539-8cae95b38a4b.svg",
+    "width": 2400,
+    "height": 1700
+  },
+  {
+    "number": 35,
+    "title": "ZOPA可能协议区间",
+    "png": "management_zopa_2eba388e-e866-4665-bee0-6eb8e2369b71.png",
+    "svg": "management_zopa_2eba388e-e866-4665-bee0-6eb8e2369b71.svg",
+    "width": 2400,
+    "height": 860
+  },
+  {
+    "number": 36,
+    "title": "管理控制闭环",
+    "png": "management_flow36_030d0491-1643-4cfd-8b48-99981cb239aa.png",
+    "svg": "management_flow36_030d0491-1643-4cfd-8b48-99981cb239aa.svg",
+    "width": 2400,
+    "height": 1686
+  },
+  {
+    "number": 37,
+    "title": "控制的三种时间类型",
+    "png": "management_grid37_c62d684d-6a36-4881-b913-16eb58f883d7.png",
+    "svg": "management_grid37_c62d684d-6a36-4881-b913-16eb58f883d7.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 38,
+    "title": "绩效管理体系",
+    "png": "management_grid38_dc12fad1-9659-4542-a08f-6c14b00942b9.png",
+    "svg": "management_grid38_dc12fad1-9659-4542-a08f-6c14b00942b9.svg",
+    "width": 2400,
+    "height": 918
+  },
+  {
+    "number": 39,
+    "title": "平衡计分卡：组织愿景与战略",
+    "png": "management_grid39_23a312d0-d89c-44fd-9723-9049595c3583.png",
+    "svg": "management_grid39_23a312d0-d89c-44fd-9723-9049595c3583.svg",
+    "width": 2400,
+    "height": 978
+  },
+  {
+    "number": 40,
+    "title": "战略、战术与运营",
+    "png": "management_flow40_d6c0eabf-6eeb-498c-9ddb-12ee11a04564.png",
+    "svg": "management_flow40_d6c0eabf-6eeb-498c-9ddb-12ee11a04564.svg",
+    "width": 2400,
+    "height": 1160
+  },
+  {
+    "number": 41,
+    "title": "企业战略层级",
+    "png": "management_strategyhier_301d33b5-2300-4462-9061-53d62c856202.png",
+    "svg": "management_strategyhier_301d33b5-2300-4462-9061-53d62c856202.svg",
+    "width": 2656,
+    "height": 1072
+  },
+  {
+    "number": 42,
+    "title": "战略管理循环",
+    "png": "management_flow42_eed9a14d-8e90-4ac6-8e67-d5ceac6d7fec.png",
+    "svg": "management_flow42_eed9a14d-8e90-4ac6-8e67-d5ceac6d7fec.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 43,
+    "title": "企业环境分析层次",
+    "png": "management_environment_04ec12d1-e730-4bf9-b7c7-7a9df2f46407.png",
+    "svg": "management_environment_04ec12d1-e730-4bf9-b7c7-7a9df2f46407.svg",
+    "width": 2400,
+    "height": 1520
+  },
+  {
+    "number": 44,
+    "title": "波特五力模型",
+    "png": "management_fiveforces_df3e45c0-8009-4f4b-a7fe-7826fc0109cd.png",
+    "svg": "management_fiveforces_df3e45c0-8009-4f4b-a7fe-7826fc0109cd.svg",
+    "width": 2400,
+    "height": 1320
+  },
+  {
+    "number": 45,
+    "title": "VRIO判断流程",
+    "png": "management_vrio_9c33efc3-7584-468e-ba2e-f918872ca2d3.png",
+    "svg": "management_vrio_9c33efc3-7584-468e-ba2e-f918872ca2d3.svg",
+    "width": 2400,
+    "height": 1700
+  },
+  {
+    "number": 46,
+    "title": "SWOT分析",
+    "png": "management_grid46_b3893bcf-0cda-4ba0-b997-b5b39f0827d9.png",
+    "svg": "management_grid46_b3893bcf-0cda-4ba0-b997-b5b39f0827d9.svg",
+    "width": 2400,
+    "height": 918
+  },
+  {
+    "number": 47,
+    "title": "企业价值链",
+    "png": "management_valuechain_5579d19e-225d-4867-ae80-703cdff74f1d.png",
+    "svg": "management_valuechain_5579d19e-225d-4867-ae80-703cdff74f1d.svg",
+    "width": 2400,
+    "height": 1120
+  },
+  {
+    "number": 48,
+    "title": "波特基本竞争战略",
+    "png": "management_matrix48_3ab57c40-f5cd-48ee-acc3-c6a7a1df952b.png",
+    "svg": "management_matrix48_3ab57c40-f5cd-48ee-acc3-c6a7a1df952b.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 49,
+    "title": "商业模式画布",
+    "png": "management_bmc_be3a50bc-c3da-4d88-8234-123ba9511bda.png",
+    "svg": "management_bmc_be3a50bc-c3da-4d88-8234-123ba9511bda.svg",
+    "width": 2400,
+    "height": 1440
+  },
+  {
+    "number": 50,
+    "title": "订阅制商业模式单位经济演示",
+    "png": "management_ltv_fd7472a4-1f90-4f2e-9271-0619f7117957.png",
+    "svg": "management_ltv_fd7472a4-1f90-4f2e-9271-0619f7117957.svg",
+    "width": 2400,
+    "height": 1124
+  },
+  {
+    "number": 51,
+    "title": "公司战略总体分类",
+    "png": "management_tree51_bd17d7e1-7642-473e-869e-6fe195918e1b.png",
+    "svg": "management_tree51_bd17d7e1-7642-473e-869e-6fe195918e1b.svg",
+    "width": 2400,
+    "height": 1214
+  },
+  {
+    "number": 52,
+    "title": "安索夫增长矩阵",
+    "png": "management_matrix52_84bbb693-0279-4f95-b12e-2c212949c9b5.png",
+    "svg": "management_matrix52_84bbb693-0279-4f95-b12e-2c212949c9b5.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 53,
+    "title": "横向与纵向一体化",
+    "png": "management_integration_e6d69860-baf4-4ffe-b85e-1b0f71857ccf.png",
+    "svg": "management_integration_e6d69860-baf4-4ffe-b85e-1b0f71857ccf.svg",
+    "width": 2400,
+    "height": 1200
+  },
+  {
+    "number": 54,
+    "title": "波士顿矩阵（BCG）",
+    "png": "management_matrix54_a98f2024-1795-40a5-b26d-72476a0b6818.png",
+    "svg": "management_matrix54_a98f2024-1795-40a5-b26d-72476a0b6818.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 55,
+    "title": "创新管理过程",
+    "png": "management_flow55_43ad9a94-e033-483c-978b-ad1e0e5efd0b.png",
+    "svg": "management_flow55_43ad9a94-e033-483c-978b-ad1e0e5efd0b.svg",
+    "width": 2400,
+    "height": 1714
+  },
+  {
+    "number": 56,
+    "title": "技术S曲线",
+    "png": "management_scurve_386b1e42-6f30-4756-b266-ff379d82b56b.png",
+    "svg": "management_scurve_386b1e42-6f30-4756-b266-ff379d82b56b.svg",
+    "width": 2400,
+    "height": 1360
+  },
+  {
+    "number": 57,
+    "title": "构建—测量—学习循环",
+    "png": "management_leanstartup_5b7ee8e2-a176-4ebf-9778-870697bf282d.png",
+    "svg": "management_leanstartup_5b7ee8e2-a176-4ebf-9778-870697bf282d.svg",
+    "width": 2400,
+    "height": 1400
+  },
+  {
+    "number": 58,
+    "title": "勒温三阶段模型",
+    "png": "management_grid58_8549b0f5-858c-4b5d-8d95-dcfb24ba8a28.png",
+    "svg": "management_grid58_8549b0f5-858c-4b5d-8d95-dcfb24ba8a28.svg",
+    "width": 2400,
+    "height": 580
+  },
+  {
+    "number": 59,
+    "title": "组织行为学的三个分析层级",
+    "png": "management_grid59_0a74b044-eade-4492-85ec-6628859549c3.png",
+    "svg": "management_grid59_0a74b044-eade-4492-85ec-6628859549c3.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 60,
+    "title": "塔克曼团队发展模型",
+    "png": "management_flow60_95856331-b46c-452b-a0a4-a5238d23396c.png",
+    "svg": "management_flow60_95856331-b46c-452b-a0a4-a5238d23396c.svg",
+    "width": 2400,
+    "height": 1686
+  },
+  {
+    "number": 61,
+    "title": "团队有效性模型",
+    "png": "management_flow61_52c40ac9-07d8-46a7-9b54-7e690d5d8f21.png",
+    "svg": "management_flow61_52c40ac9-07d8-46a7-9b54-7e690d5d8f21.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 62,
+    "title": "托马斯—基尔曼冲突处理模型",
+    "png": "management_conflict_27786346-8212-499c-8c18-730d07ec8331.png",
+    "svg": "management_conflict_27786346-8212-499c-8c18-730d07ec8331.svg",
+    "width": 2400,
+    "height": 1380
+  },
+  {
+    "number": 63,
+    "title": "沙因组织文化冰山模型",
+    "png": "management_culture_1d6aef04-6365-4486-82b1-5b4b3fdde438.png",
+    "svg": "management_culture_1d6aef04-6365-4486-82b1-5b4b3fdde438.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 64,
+    "title": "单环学习与双环学习",
+    "png": "management_loops_b32b0a49-1fee-4d07-ad31-edbcb959455a.png",
+    "svg": "management_loops_b32b0a49-1fee-4d07-ad31-edbcb959455a.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 65,
+    "title": "人力资源管理总体结构",
+    "png": "management_flow65_eddde013-7249-4e51-96c7-3a4d5e6d5a90.png",
+    "svg": "management_flow65_eddde013-7249-4e51-96c7-3a4d5e6d5a90.svg",
+    "width": 2400,
+    "height": 2270
+  },
+  {
+    "number": 66,
+    "title": "ADDIE培训设计框架",
+    "png": "management_flow66_50f112c7-938e-4bf7-b652-20b7617e8703.png",
+    "svg": "management_flow66_50f112c7-938e-4bf7-b652-20b7617e8703.svg",
+    "width": 2400,
+    "height": 1686
+  },
+  {
+    "number": 67,
+    "title": "全面薪酬 Total Rewards",
+    "png": "management_tree67_784c3124-668c-4da0-9300-7dedc88c9424.png",
+    "svg": "management_tree67_784c3124-668c-4da0-9300-7dedc88c9424.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 68,
+    "title": "企业价值创造链",
+    "png": "management_flow68_94d5559c-eacb-4b03-9064-8f0b656b51a3.png",
+    "svg": "management_flow68_94d5559c-eacb-4b03-9064-8f0b656b51a3.svg",
+    "width": 2400,
+    "height": 2518
+  },
+  {
+    "number": 69,
+    "title": "STP市场战略",
+    "png": "management_flow69_8600001a-283f-4f93-8e8b-d3247fe50724.png",
+    "svg": "management_flow69_8600001a-283f-4f93-8e8b-d3247fe50724.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 70,
+    "title": "TAM、SAM、SOM市场规模",
+    "png": "management_tam_7740e7ef-2ec3-4982-8bf8-a54d9f943b72.png",
+    "svg": "management_tam_7740e7ef-2ec3-4982-8bf8-a54d9f943b72.svg",
+    "width": 2400,
+    "height": 1520
+  },
+  {
+    "number": 71,
+    "title": "4P营销组合",
+    "png": "management_grid71_e0f8d944-e562-49e3-9b88-d15968a638aa.png",
+    "svg": "management_grid71_e0f8d944-e562-49e3-9b88-d15968a638aa.svg",
+    "width": 2400,
+    "height": 918
+  },
+  {
+    "number": 72,
+    "title": "客户生命周期与营销漏斗",
+    "png": "management_funnel_7f293f5c-87be-47f7-8c52-af5318aa8bdf.png",
+    "svg": "management_funnel_7f293f5c-87be-47f7-8c52-af5318aa8bdf.svg",
+    "width": 2400,
+    "height": 1420
+  },
+  {
+    "number": 73,
+    "title": "产品管理过程",
+    "png": "management_flow73_49cb5284-b82c-4426-9d60-c764b677f7b8.png",
+    "svg": "management_flow73_49cb5284-b82c-4426-9d60-c764b677f7b8.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 74,
+    "title": "卡诺需求模型",
+    "png": "management_kano_daa5b6c0-901e-498b-a1af-20d2d780a276.png",
+    "svg": "management_kano_daa5b6c0-901e-498b-a1af-20d2d780a276.svg",
+    "width": 2400,
+    "height": 1360
+  },
+  {
+    "number": 75,
+    "title": "产品生命周期",
+    "png": "management_plc_f7a877bf-c0de-4ddb-aa87-375fb92603c3.png",
+    "svg": "management_plc_f7a877bf-c0de-4ddb-aa87-375fb92603c3.svg",
+    "width": 2400,
+    "height": 1360
+  },
+  {
+    "number": 76,
+    "title": "运营管理输入—转换—输出模型",
+    "png": "management_operations_ee5d0406-8100-42e8-ae33-39b1fbec9f05.png",
+    "svg": "management_operations_ee5d0406-8100-42e8-ae33-39b1fbec9f05.svg",
+    "width": 2400,
+    "height": 880
+  },
+  {
+    "number": 77,
+    "title": "生产数量与品种多样性",
+    "png": "management_processvolume_b81e7545-03d4-41e6-965a-ebb9d303a07b.png",
+    "svg": "management_processvolume_b81e7545-03d4-41e6-965a-ebb9d303a07b.svg",
+    "width": 2400,
+    "height": 1320
+  },
+  {
+    "number": 78,
+    "title": "利特尔定律",
+    "png": "management_little_e7dfdc62-f45e-497d-b330-298edf9dee4c.png",
+    "svg": "management_little_e7dfdc62-f45e-497d-b330-298edf9dee4c.svg",
+    "width": 2400,
+    "height": 920
+  },
+  {
+    "number": 79,
+    "title": "利用率与排队等待时间",
+    "png": "management_queue_db37ab39-aab6-4b92-95ca-83ffe3c966ba.png",
+    "svg": "management_queue_db37ab39-aab6-4b92-95ca-83ffe3c966ba.svg",
+    "width": 2400,
+    "height": 1360
+  },
+  {
+    "number": 80,
+    "title": "供应链：物流、资金流与信息流",
+    "png": "management_supply_10a33fe7-8f27-463d-b3ce-6b8a9577a160.png",
+    "svg": "management_supply_10a33fe7-8f27-463d-b3ce-6b8a9577a160.svg",
+    "width": 2400,
+    "height": 980
+  },
+  {
+    "number": 81,
+    "title": "克拉利奇采购矩阵",
+    "png": "management_matrix81_d2d34937-0b82-4e3b-b5f5-e14534efea7a.png",
+    "svg": "management_matrix81_d2d34937-0b82-4e3b-b5f5-e14534efea7a.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 82,
+    "title": "经济订货量模型",
+    "png": "management_eoq_f632a407-a64d-4aa2-be41-951cb6b8b345.png",
+    "svg": "management_eoq_f632a407-a64d-4aa2-be41-951cb6b8b345.svg",
+    "width": 2400,
+    "height": 1440
+  },
+  {
+    "number": 83,
+    "title": "ABC库存分类曲线",
+    "png": "management_abc_916b5867-9416-4a6e-af99-b2d4ea524ad9.png",
+    "svg": "management_abc_916b5867-9416-4a6e-af99-b2d4ea524ad9.svg",
+    "width": 2400,
+    "height": 1320
+  },
+  {
+    "number": 84,
+    "title": "供应链牛鞭效应",
+    "png": "management_bullwhip_19abbf00-9a71-43f8-b48c-9e0081ce0165.png",
+    "svg": "management_bullwhip_19abbf00-9a71-43f8-b48c-9e0081ce0165.svg",
+    "width": 2400,
+    "height": 1440
+  },
+  {
+    "number": 85,
+    "title": "质量成本",
+    "png": "management_tree85_2fdf9351-002a-4b49-9544-aee18fdf27a1.png",
+    "svg": "management_tree85_2fdf9351-002a-4b49-9544-aee18fdf27a1.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 86,
+    "title": "PDCA持续改进循环",
+    "png": "management_pdca_c0b5b27f-1da9-4ae0-8cfe-0749be6c4490.png",
+    "svg": "management_pdca_c0b5b27f-1da9-4ae0-8cfe-0749be6c4490.svg",
+    "width": 2400,
+    "height": 1400
+  },
+  {
+    "number": 87,
+    "title": "六西格玛DMAIC",
+    "png": "management_flow87_a21ab67e-99e7-443e-9994-a72c891ed5a0.png",
+    "svg": "management_flow87_a21ab67e-99e7-443e-9994-a72c891ed5a0.svg",
+    "width": 2400,
+    "height": 1686
+  },
+  {
+    "number": 88,
+    "title": "软件缺陷帕累托图",
+    "png": "management_pareto_b6650a40-5652-4454-b18d-b550fd8bde2c.png",
+    "svg": "management_pareto_b6650a40-5652-4454-b18d-b550fd8bde2c.svg",
+    "width": 2400,
+    "height": 1400
+  },
+  {
+    "number": 89,
+    "title": "鱼骨图：经典6M原因分类",
+    "png": "management_fishbone_e0fe4a49-29e7-4e44-bc7b-3547299a9824.png",
+    "svg": "management_fishbone_e0fe4a49-29e7-4e44-bc7b-3547299a9824.svg",
+    "width": 2400,
+    "height": 1200
+  },
+  {
+    "number": 90,
+    "title": "统计过程控制图",
+    "png": "management_spc_bc05a50a-267c-4d3a-86f7-ca72142fef69.png",
+    "svg": "management_spc_bc05a50a-267c-4d3a-86f7-ca72142fef69.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 91,
+    "title": "项目组合、项目集与项目",
+    "png": "management_portfolio_da3ae17f-c559-4eca-ab13-656d71b017c4.png",
+    "svg": "management_portfolio_da3ae17f-c559-4eca-ab13-656d71b017c4.svg",
+    "width": 2400,
+    "height": 1340
+  },
+  {
+    "number": 92,
+    "title": "项目管理三重约束",
+    "png": "management_triangle_b9f0f3b0-f31d-4f0b-b2fc-d43131c5f9cf.png",
+    "svg": "management_triangle_b9f0f3b0-f31d-4f0b-b2fc-d43131c5f9cf.svg",
+    "width": 2400,
+    "height": 1360
+  },
+  {
+    "number": 93,
+    "title": "软件开发项目工作分解结构",
+    "png": "management_wbs_e37938ae-a60e-40d5-a462-b21463d099ef.png",
+    "svg": "management_wbs_e37938ae-a60e-40d5-a462-b21463d099ef.svg",
+    "width": 2976,
+    "height": 1072
+  },
+  {
+    "number": 94,
+    "title": "八周软件开发项目甘特图",
+    "png": "management_gantt_86a7a9e9-4722-4147-b753-70df98b8af7e.png",
+    "svg": "management_gantt_86a7a9e9-4722-4147-b753-70df98b8af7e.svg",
+    "width": 2400,
+    "height": 1200
+  },
+  {
+    "number": 95,
+    "title": "关键路径法",
+    "png": "management_cpm_08031373-6aa9-4b43-aef0-0128659bf524.png",
+    "svg": "management_cpm_08031373-6aa9-4b43-aef0-0128659bf524.svg",
+    "width": 2400,
+    "height": 1020
+  },
+  {
+    "number": 96,
+    "title": "项目挣值管理演示",
+    "png": "management_evm_012f18fa-8062-49fb-a83b-1cbeac3b2ac4.png",
+    "svg": "management_evm_012f18fa-8062-49fb-a83b-1cbeac3b2ac4.svg",
+    "width": 2400,
+    "height": 1124
+  },
+  {
+    "number": 97,
+    "title": "Scrum框架",
+    "png": "management_flow97_8b875c57-30cd-41b0-9868-6f9b5f4a65dd.png",
+    "svg": "management_flow97_8b875c57-30cd-41b0-9868-6f9b5f4a65dd.svg",
+    "width": 2400,
+    "height": 1510
+  },
+  {
+    "number": 98,
+    "title": "看板与在制品限制",
+    "png": "management_kanban_021387b5-089a-4f8c-b355-c7e2d9c50823.png",
+    "svg": "management_kanban_021387b5-089a-4f8c-b355-c7e2d9c50823.svg",
+    "width": 2400,
+    "height": 1200
+  },
+  {
+    "number": 99,
+    "title": "财务管理的主要组成",
+    "png": "management_tree99_4768025a-12d3-45fc-9d95-ff64f62ac75a.png",
+    "svg": "management_tree99_4768025a-12d3-45fc-9d95-ff64f62ac75a.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 100,
+    "title": "企业盈亏平衡分析",
+    "png": "management_bep_a34c4f69-fd09-4d0e-b19d-076d72cd53b2.png",
+    "svg": "management_bep_a34c4f69-fd09-4d0e-b19d-076d72cd53b2.svg",
+    "width": 2400,
+    "height": 1420
+  },
+  {
+    "number": 101,
+    "title": "全面预算管理",
+    "png": "management_tree101_a2c73a36-cf61-4a0f-9273-1609052692de.png",
+    "svg": "management_tree101_a2c73a36-cf61-4a0f-9273-1609052692de.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 102,
+    "title": "现金转换周期",
+    "png": "management_ccc_034cb628-99be-41e2-8e3a-99078e35b4ec.png",
+    "svg": "management_ccc_034cb628-99be-41e2-8e3a-99078e35b4ec.svg",
+    "width": 2400,
+    "height": 1020
+  },
+  {
+    "number": 103,
+    "title": "DIKW知识层级",
+    "png": "management_flow103_62e3c39b-da5d-49ac-85e0-036cae7f033b.png",
+    "svg": "management_flow103_62e3c39b-da5d-49ac-85e0-036cae7f033b.svg",
+    "width": 2400,
+    "height": 1510
+  },
+  {
+    "number": 104,
+    "title": "企业数字化经营体系",
+    "png": "management_grid104_addcf68c-5450-4454-a8ed-99435e63c036.png",
+    "svg": "management_grid104_addcf68c-5450-4454-a8ed-99435e63c036.svg",
+    "width": 2400,
+    "height": 1932
+  },
+  {
+    "number": 105,
+    "title": "SECI知识转换模型",
+    "png": "management_matrix105_1cfdc315-071f-4eca-9060-14079b265597.png",
+    "svg": "management_matrix105_1cfdc315-071f-4eca-9060-14079b265597.svg",
+    "width": 2400,
+    "height": 1300
+  },
+  {
+    "number": 106,
+    "title": "现代企业组织形式",
+    "png": "management_tree106_d811cbce-4779-4b06-80e9-12331444e3ab.png",
+    "svg": "management_tree106_d811cbce-4779-4b06-80e9-12331444e3ab.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 107,
+    "title": "公司治理与经营管理关系",
+    "png": "management_flow107_493e7e7a-e164-4c04-8f3c-6931738171ae.png",
+    "svg": "management_flow107_493e7e7a-e164-4c04-8f3c-6931738171ae.svg",
+    "width": 2400,
+    "height": 1394
+  },
+  {
+    "number": 108,
+    "title": "委托—代理关系",
+    "png": "management_agency_92103b25-5fe6-4445-8748-73f923badc18.png",
+    "svg": "management_agency_92103b25-5fe6-4445-8748-73f923badc18.svg",
+    "width": 2400,
+    "height": 880
+  },
+  {
+    "number": 109,
+    "title": "企业风险分类",
+    "png": "management_tree109_f8c93c92-3fc3-43fd-9ef4-81c12f7b1c4f.png",
+    "svg": "management_tree109_f8c93c92-3fc3-43fd-9ef4-81c12f7b1c4f.svg",
+    "width": 2400,
+    "height": 1934
+  },
+  {
+    "number": 110,
+    "title": "风险管理过程",
+    "png": "management_flow110_b65f5e55-d005-49e2-9960-343641590e62.png",
+    "svg": "management_flow110_b65f5e55-d005-49e2-9960-343641590e62.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 111,
+    "title": "风险矩阵",
+    "png": "management_risk_e5894e32-7535-414f-aead-c7292381c0b6.png",
+    "svg": "management_risk_e5894e32-7535-414f-aead-c7292381c0b6.svg",
+    "width": 2400,
+    "height": 1520
+  },
+  {
+    "number": 112,
+    "title": "COSO内部控制框架",
+    "png": "management_tree112_8a159d5b-20fd-4b83-82a0-77e68f1e5849.png",
+    "svg": "management_tree112_8a159d5b-20fd-4b83-82a0-77e68f1e5849.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 113,
+    "title": "三线模型：治理机构总体监督及问责",
+    "png": "management_tree113_f531e105-b046-45d0-8605-4cf9d1b5b66c.png",
+    "svg": "management_tree113_f531e105-b046-45d0-8605-4cf9d1b5b66c.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 114,
+    "title": "企业利益相关者网络",
+    "png": "management_stakeholders_5bcbc98e-be66-4578-b270-555aff36d3ef.png",
+    "svg": "management_stakeholders_5bcbc98e-be66-4578-b270-555aff36d3ef.svg",
+    "width": 2400,
+    "height": 1560
+  },
+  {
+    "number": 115,
+    "title": "公共管理主要分支",
+    "png": "management_tree115_5434fb8b-77f6-4038-afe4-a4d4be0bdf56.png",
+    "svg": "management_tree115_5434fb8b-77f6-4038-afe4-a4d4be0bdf56.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 116,
+    "title": "公共政策过程",
+    "png": "management_flow116_8daf32e6-61db-4f60-9578-cc85230968e8.png",
+    "svg": "management_flow116_8daf32e6-61db-4f60-9578-cc85230968e8.svg",
+    "width": 2400,
+    "height": 1962
+  },
+  {
+    "number": 117,
+    "title": "企业诊断的主要维度",
+    "png": "management_grid117_e5454544-9412-4a3a-93f9-2f6ced3b68c4.png",
+    "svg": "management_grid117_e5454544-9412-4a3a-93f9-2f6ced3b68c4.svg",
+    "width": 2400,
+    "height": 1594
+  },
+  {
+    "number": 118,
+    "title": "麦肯锡7S模型",
+    "png": "management_sevenS_b7aad3a0-cd43-4234-bf8d-42ad11f18d6d.png",
+    "svg": "management_sevenS_b7aad3a0-cd43-4234-bf8d-42ad11f18d6d.svg",
+    "width": 2400,
+    "height": 1560
+  },
+  {
+    "number": 119,
+    "title": "利润下降问题树",
+    "png": "management_mece_893b74c1-b834-4b18-a7e9-02d27daa1a92.png",
+    "svg": "management_mece_893b74c1-b834-4b18-a7e9-02d27daa1a92.svg",
+    "width": 2400,
+    "height": 1700
+  },
+  {
+    "number": 120,
+    "title": "管理咨询过程",
+    "png": "management_flow120_f4117ae5-fe69-46c7-9ca1-1d10cec9d74c.png",
+    "svg": "management_flow120_f4117ae5-fe69-46c7-9ca1-1d10cec9d74c.svg",
+    "width": 2400,
+    "height": 2210
+  },
+  {
+    "number": 121,
+    "title": "企业生命周期与再增长",
+    "png": "management_lifecycle_d8df2785-38fd-443e-b7fd-2866b956bde1.png",
+    "svg": "management_lifecycle_d8df2785-38fd-443e-b7fd-2866b956bde1.svg",
+    "width": 2400,
+    "height": 1360
+  },
+  {
+    "number": 122,
+    "title": "组织规模扩大的可能演进方式",
+    "png": "management_flow122_198a21dd-9b8b-4412-80a0-b57b90e8ab09.png",
+    "svg": "management_flow122_198a21dd-9b8b-4412-80a0-b57b90e8ab09.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 123,
+    "title": "金融科技企业组织结构",
+    "png": "management_fintechorg_7b8f31a0-ad2e-4fd1-ad22-66e621c75400.png",
+    "svg": "management_fintechorg_7b8f31a0-ad2e-4fd1-ad22-66e621c75400.svg",
+    "width": 2400,
+    "height": 980
+  },
+  {
+    "number": 124,
+    "title": "产品研发与交付流程",
+    "png": "management_flow124_9ef9cbdf-fab2-45bf-b9a9-380d8042ac54.png",
+    "svg": "management_flow124_9ef9cbdf-fab2-45bf-b9a9-380d8042ac54.svg",
+    "width": 2400,
+    "height": 2210
+  },
+  {
+    "number": 125,
+    "title": "金融科技企业简化经营模型",
+    "png": "management_finmodel_cded1f0f-c28f-4b59-b579-e0375147dbd3.png",
+    "svg": "management_finmodel_cded1f0f-c28f-4b59-b579-e0375147dbd3.svg",
+    "width": 2400,
+    "height": 1080
+  },
+  {
+    "number": 126,
+    "title": "企业经营管理的整体闭环",
+    "png": "management_flow126_533e2c9b-5f4a-499a-bafe-ce7fb7a959f7.png",
+    "svg": "management_flow126_533e2c9b-5f4a-499a-bafe-ce7fb7a959f7.svg",
+    "width": 2400,
+    "height": 2270
+  },
+  {
+    "number": 127,
+    "title": "管理学总体知识网络",
+    "png": "management_networkall_8c148be1-39b9-452d-a5fb-879c8514ceaf.png",
+    "svg": "management_networkall_8c148be1-39b9-452d-a5fb-879c8514ceaf.svg",
+    "width": 2400,
+    "height": 2980
+  },
+  {
+    "number": 128,
+    "title": "净资产收益率 ROE",
+    "png": "management_tree128_d4f4af17-d5d3-4054-92e4-d382292f05c8.png",
+    "svg": "management_tree128_d4f4af17-d5d3-4054-92e4-d382292f05c8.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 129,
+    "title": "月度经常性收入 MRR",
+    "png": "management_tree129_68e9ea03-c285-4744-83ee-250aa896aae0.png",
+    "svg": "management_tree129_68e9ea03-c285-4744-83ee-250aa896aae0.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 130,
+    "title": "管理学专业分支",
+    "png": "management_tree130_b4f684e8-0dea-40e4-9e6e-7530155b25be.png",
+    "svg": "management_tree130_b4f684e8-0dea-40e4-9e6e-7530155b25be.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 131,
+    "title": "管理学与其他知识体系的联系",
+    "png": "management_disciplines_1f4f12b5-be1d-475f-be5f-1377a36984f5.png",
+    "svg": "management_disciplines_1f4f12b5-be1d-475f-be5f-1377a36984f5.svg",
+    "width": 2400,
+    "height": 1340
+  },
+  {
+    "number": 132,
+    "title": "管理学学习依赖关系",
+    "png": "management_flow132_21e92f34-d8fc-47aa-8429-16ca1f9b0440.png",
+    "svg": "management_flow132_21e92f34-d8fc-47aa-8429-16ca1f9b0440.svg",
+    "width": 2400,
+    "height": 2050
+  },
+  {
+    "number": 133,
+    "title": "建议学习精力分配",
+    "png": "management_study_cd4541e2-e837-4f1f-bf00-a1f2fb0f0c01.png",
+    "svg": "management_study_cd4541e2-e837-4f1f-bf00-a1f2fb0f0c01.svg",
+    "width": 2400,
+    "height": 1260
+  },
+  {
+    "number": 134,
+    "title": "十个核心管理问题",
+    "png": "management_tree134_d7a18ce7-01f7-4864-920f-46a559fbe954.png",
+    "svg": "management_tree134_d7a18ce7-01f7-4864-920f-46a559fbe954.svg",
+    "width": 2400,
+    "height": 2654
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "chapter": "第一章　政治的本质与研究对象",
+    "title": "政治的五个基本要素",
+    "png": "images/politics_grid_2f659291-0b20-4a1f-aca5-cc93730050c0.png",
+    "svg": "svg/politics_grid_2f659291-0b20-4a1f-aca5-cc93730050c0.svg"
+  },
+  {
+    "chapter": "第一章　政治的本质与研究对象",
+    "title": "制度、过程与政策",
+    "png": "images/politics_flow_a60715de-2c1c-4d8e-a46e-47f24268786d.png",
+    "svg": "svg/politics_flow_a60715de-2c1c-4d8e-a46e-47f24268786d.svg"
+  },
+  {
+    "chapter": "第一章　政治的本质与研究对象",
+    "title": "伊斯顿政治系统模型",
+    "png": "images/politics_easton_98ed881f-7a11-45e8-b4ba-76581a6d6ff5.png",
+    "svg": "svg/politics_easton_98ed881f-7a11-45e8-b4ba-76581a6d6ff5.svg"
+  },
+  {
+    "chapter": "第二章　政治权力、权威与影响力",
+    "title": "政治权力来源",
+    "png": "images/politics_grid_07a7cf69-3a01-4a52-8cc1-9cfec1e1e7f4.png",
+    "svg": "svg/politics_grid_07a7cf69-3a01-4a52-8cc1-9cfec1e1e7f4.svg"
+  },
+  {
+    "chapter": "第二章　政治权力、权威与影响力",
+    "title": "卢克斯三维权力模型",
+    "png": "images/politics_lukes_e4fe476a-d05a-4426-bed7-4d95ebcca9d9.png",
+    "svg": "svg/politics_lukes_e4fe476a-d05a-4426-bed7-4d95ebcca9d9.svg"
+  },
+  {
+    "chapter": "第三章　政治利益与政治资源",
+    "title": "利益进入政治决策的过程",
+    "png": "images/politics_flow_32123cab-1dad-4160-a52c-bd74a261df97.png",
+    "svg": "svg/politics_flow_32123cab-1dad-4160-a52c-bd74a261df97.svg"
+  },
+  {
+    "chapter": "第四章　国家、主权与民族",
+    "title": "现代国家的基本要素",
+    "png": "images/politics_tree_dd37d42a-4518-4dce-b6d4-0c875807227c.png",
+    "svg": "svg/politics_tree_dd37d42a-4518-4dce-b6d4-0c875807227c.svg"
+  },
+  {
+    "chapter": "第五章　政治合法性与政治秩序",
+    "title": "合法性的分析维度",
+    "png": "images/politics_grid_b50628ac-e260-49ad-9214-ec61389ee6d5.png",
+    "svg": "svg/politics_grid_b50628ac-e260-49ad-9214-ec61389ee6d5.svg"
+  },
+  {
+    "chapter": "第五章　政治合法性与政治秩序",
+    "title": "政治信任与治理反馈",
+    "png": "images/politics_cycle_12962c27-c146-43ea-b0c3-76fc8b4bd8e8.png",
+    "svg": "svg/politics_cycle_12962c27-c146-43ea-b0c3-76fc8b4bd8e8.svg"
+  },
+  {
+    "chapter": "第六章　政治思想的历史发展",
+    "title": "政治思想的历史发展",
+    "png": "images/politics_flow_66e6243a-a540-45b1-86c6-d5f21c07a795.png",
+    "svg": "svg/politics_flow_66e6243a-a540-45b1-86c6-d5f21c07a795.svg"
+  },
+  {
+    "chapter": "第七章　主要政治思想与意识形态",
+    "title": "意识形态的基本结构",
+    "png": "images/politics_flow_7c8fb198-932f-4311-96c6-9febba82c0d3.png",
+    "svg": "svg/politics_flow_7c8fb198-932f-4311-96c6-9febba82c0d3.svg"
+  },
+  {
+    "chapter": "第七章　主要政治思想与意识形态",
+    "title": "马克思主义政治理论",
+    "png": "images/politics_tree_16ad54bd-be63-4d45-a7ec-aa4fa640afc9.png",
+    "svg": "svg/politics_tree_16ad54bd-be63-4d45-a7ec-aa4fa640afc9.svg"
+  },
+  {
+    "chapter": "第七章　主要政治思想与意识形态",
+    "title": "二维政治立场示意",
+    "png": "images/politics_spectrum_821c2df3-8dfb-45c6-8400-3af0cc5222d6.png",
+    "svg": "svg/politics_spectrum_821c2df3-8dfb-45c6-8400-3af0cc5222d6.svg"
+  },
+  {
+    "chapter": "第八章　自由、平等、正义与权利",
+    "title": "平等的主要类型",
+    "png": "images/politics_grid_a2cf1d94-4df8-4631-9ad8-9acfdcb155f3.png",
+    "svg": "svg/politics_grid_a2cf1d94-4df8-4631-9ad8-9acfdcb155f3.svg"
+  },
+  {
+    "chapter": "第八章　自由、平等、正义与权利",
+    "title": "无知之幕思想实验",
+    "png": "images/politics_flow_cdb4bea4-a7a1-4285-a170-d148af7e7e32.png",
+    "svg": "svg/politics_flow_cdb4bea4-a7a1-4285-a170-d148af7e7e32.svg"
+  },
+  {
+    "chapter": "第九章　政治理论与分析流派",
+    "title": "新制度主义",
+    "png": "images/politics_tree_e3393b2e-3c39-4a99-8b60-fcc8c43ef128.png",
+    "svg": "svg/politics_tree_e3393b2e-3c39-4a99-8b60-fcc8c43ef128.svg"
+  },
+  {
+    "chapter": "第十章　国家结构、政体与政权类型",
+    "title": "单一制国家结构",
+    "png": "images/politics_unitary_7e224d8b-506c-44c2-8411-a5d01794fa38.png",
+    "svg": "svg/politics_unitary_7e224d8b-506c-44c2-8411-a5d01794fa38.svg"
+  },
+  {
+    "chapter": "第十章　国家结构、政体与政权类型",
+    "title": "联邦制国家结构",
+    "png": "images/politics_federal_f7084ca7-8df1-43e5-ae27-ad5c8cacc886.png",
+    "svg": "svg/politics_federal_f7084ca7-8df1-43e5-ae27-ad5c8cacc886.svg"
+  },
+  {
+    "chapter": "第十章　国家结构、政体与政权类型",
+    "title": "总统制组织形式",
+    "png": "images/politics_presidential_13f840c7-2fa7-4560-b53b-6a590bfee33b.png",
+    "svg": "svg/politics_presidential_13f840c7-2fa7-4560-b53b-6a590bfee33b.svg"
+  },
+  {
+    "chapter": "第十章　国家结构、政体与政权类型",
+    "title": "议会制组织形式",
+    "png": "images/politics_parliamentary_df36cb4a-e31f-41c7-b3f3-0528a1ee3723.png",
+    "svg": "svg/politics_parliamentary_df36cb4a-e31f-41c7-b3f3-0528a1ee3723.svg"
+  },
+  {
+    "chapter": "第十章　国家结构、政体与政权类型",
+    "title": "半总统制组织形式",
+    "png": "images/politics_semi_5d691d30-a5ae-454f-bc6d-40d736c478a9.png",
+    "svg": "svg/politics_semi_5d691d30-a5ae-454f-bc6d-40d736c478a9.svg"
+  },
+  {
+    "chapter": "第十一章　宪制与权力配置",
+    "title": "权力分立与制约模型",
+    "png": "images/politics_separation_05dcc16f-59fd-499c-a1ba-cfd2405b55ca.png",
+    "svg": "svg/politics_separation_05dcc16f-59fd-499c-a1ba-cfd2405b55ca.svg"
+  },
+  {
+    "chapter": "第十二章　立法制度",
+    "title": "一院制与两院制",
+    "png": "images/politics_chambers_7f4c76f7-3226-4604-a888-17ef66110c32.png",
+    "svg": "svg/politics_chambers_7f4c76f7-3226-4604-a888-17ef66110c32.svg"
+  },
+  {
+    "chapter": "第十二章　立法制度",
+    "title": "典型立法过程",
+    "png": "images/politics_flow_48892e6d-9fb0-45e4-8376-00627bc5a0cc.png",
+    "svg": "svg/politics_flow_48892e6d-9fb0-45e4-8376-00627bc5a0cc.svg"
+  },
+  {
+    "chapter": "第十三章　行政制度",
+    "title": "行政系统的一般组织",
+    "png": "images/politics_flow_5d821c09-49fd-410d-88d3-a4634ea8e462.png",
+    "svg": "svg/politics_flow_5d821c09-49fd-410d-88d3-a4634ea8e462.svg"
+  },
+  {
+    "chapter": "第十五章　中央与地方政治",
+    "title": "集权与分权连续谱",
+    "png": "images/politics_centralization_854cccd3-012a-4a88-b284-2fb254118212.png",
+    "svg": "svg/politics_centralization_854cccd3-012a-4a88-b284-2fb254118212.svg"
+  },
+  {
+    "chapter": "第十六章　官僚制度与国家能力",
+    "title": "国家能力的主要维度",
+    "png": "images/politics_grid_bcb90afc-ff31-467f-bd57-3c86e3086216.png",
+    "svg": "svg/politics_grid_bcb90afc-ff31-467f-bd57-3c86e3086216.svg"
+  },
+  {
+    "chapter": "第十六章　官僚制度与国家能力",
+    "title": "国家能力与职能范围二维模型",
+    "png": "images/politics_capacity_bc637dc4-2029-4f66-ad87-3ecb5d899854.png",
+    "svg": "svg/politics_capacity_bc637dc4-2029-4f66-ad87-3ecb5d899854.svg"
+  },
+  {
+    "chapter": "第十七章　政党与政党制度",
+    "title": "虚构议席分布：两党与多党",
+    "png": "images/politics_partyseats_b9305a38-51f4-4797-aced-e9793cf2af2b.png",
+    "svg": "svg/politics_partyseats_b9305a38-51f4-4797-aced-e9793cf2af2b.svg"
+  },
+  {
+    "chapter": "第十八章　政治精英与政治领导",
+    "title": "政治精英产生与流动",
+    "png": "images/politics_flow_efe8f039-3528-47c0-a71f-a55d215913f8.png",
+    "svg": "svg/politics_flow_efe8f039-3528-47c0-a71f-a55d215913f8.svg"
+  },
+  {
+    "chapter": "第十九章　利益集团与社会组织",
+    "title": "国家、市场与市民社会",
+    "png": "images/politics_civil_19069172-84a7-46ee-ba29-acf34f6d04f0.png",
+    "svg": "svg/politics_civil_19069172-84a7-46ee-ba29-acf34f6d04f0.svg"
+  },
+  {
+    "chapter": "第二十章　政治文化与政治社会化",
+    "title": "政治社会化的渠道与结果",
+    "png": "images/politics_flow_ca10cf8d-9c04-4b8f-af29-b6bacd679b8a.png",
+    "svg": "svg/politics_flow_ca10cf8d-9c04-4b8f-af29-b6bacd679b8a.svg"
+  },
+  {
+    "chapter": "第二十一章　政治参与与政治行为",
+    "title": "政治参与的影响因素",
+    "png": "images/politics_grid_31b24bd8-0d43-4fc3-b959-27f961082ddc.png",
+    "svg": "svg/politics_grid_31b24bd8-0d43-4fc3-b959-27f961082ddc.svg"
+  },
+  {
+    "chapter": "第二十二章　选举与政治代表制度",
+    "title": "选举制度的主要分类",
+    "png": "images/politics_tree_7e5a6734-dde0-4914-8322-c2dc9974ade8.png",
+    "svg": "svg/politics_tree_7e5a6734-dde0-4914-8322-c2dc9974ade8.svg"
+  },
+  {
+    "chapter": "第二十二章　选举与政治代表制度",
+    "title": "选票与议席转换对比",
+    "png": "images/politics_electoral_79cf8ccf-2bc9-42af-8417-3b0c70503ca2.png",
+    "svg": "svg/politics_electoral_79cf8ccf-2bc9-42af-8417-3b0c70503ca2.svg"
+  },
+  {
+    "chapter": "第二十二章　选举与政治代表制度",
+    "title": "D'Hondt议席分配默认示例",
+    "png": "images/politics_dhondt_2ebc14f7-d3a4-4d7c-a749-53b0857c64f4.png",
+    "svg": "svg/politics_dhondt_2ebc14f7-d3a4-4d7c-a749-53b0857c64f4.svg"
+  },
+  {
+    "chapter": "第二十三章　政治传播、舆论与议程设置",
+    "title": "政治传播基本模型",
+    "png": "images/politics_flow_1ba7521b-c24b-4c8d-a5a0-fe86007061c5.png",
+    "svg": "svg/politics_flow_1ba7521b-c24b-4c8d-a5a0-fe86007061c5.svg"
+  },
+  {
+    "chapter": "第二十三章　政治传播、舆论与议程设置",
+    "title": "同一项公共交通改革",
+    "png": "images/politics_grid_7827e8ee-f256-4111-9216-b1032a082701.png",
+    "svg": "svg/politics_grid_7827e8ee-f256-4111-9216-b1032a082701.svg"
+  },
+  {
+    "chapter": "第二十四章　比较政治学基本原理",
+    "title": "最相似与最不同系统设计",
+    "png": "images/politics_comparison_84929a75-87d0-4155-b77b-5b3cce41c537.png",
+    "svg": "svg/politics_comparison_84929a75-87d0-4155-b77b-5b3cce41c537.svg"
+  },
+  {
+    "chapter": "第二十五章　民主制度及其运行机制",
+    "title": "达尔的竞争与包容二维模型",
+    "png": "images/politics_dahl_7dac8ff4-4221-45e1-ba5b-5dca14bbb43f.png",
+    "svg": "svg/politics_dahl_7dac8ff4-4221-45e1-ba5b-5dca14bbb43f.svg"
+  },
+  {
+    "chapter": "第二十五章　民主制度及其运行机制",
+    "title": "V-Dem的五个研究维度",
+    "png": "images/politics_grid_0384de04-eddc-42de-bb91-2046278d3291.png",
+    "svg": "svg/politics_grid_0384de04-eddc-42de-bb91-2046278d3291.svg"
+  },
+  {
+    "chapter": "第二十六章　非民主政体与混合政体研究",
+    "title": "政治体系的独立分析维度",
+    "png": "images/politics_grid_c426a957-b06e-4cae-9882-53c2c328fb05.png",
+    "svg": "svg/politics_grid_c426a957-b06e-4cae-9882-53c2c328fb05.svg"
+  },
+  {
+    "chapter": "第二十七章　政治发展与制度变迁",
+    "title": "路径依赖与关键节点",
+    "png": "images/politics_path_bb5effb6-e5b0-4146-94b2-fd872c0e8cab.png",
+    "svg": "svg/politics_path_bb5effb6-e5b0-4146-94b2-fd872c0e8cab.svg"
+  },
+  {
+    "chapter": "第二十八章　政治冲突、革命与社会运动",
+    "title": "公共利益或政治诉求发生冲突",
+    "png": "images/politics_grid_9337c307-792a-4640-b044-9eb22bf9deac.png",
+    "svg": "svg/politics_grid_9337c307-792a-4640-b044-9eb22bf9deac.svg"
+  },
+  {
+    "chapter": "第二十九章　世界主要国家政治制度比较",
+    "title": "中国政治制度基本组织框架",
+    "png": "images/politics_china_d3e3968e-d72a-43e9-b3e1-9a533be53e15.png",
+    "svg": "svg/politics_china_d3e3968e-d72a-43e9-b3e1-9a533be53e15.svg"
+  },
+  {
+    "chapter": "第二十九章　世界主要国家政治制度比较",
+    "title": "美国联邦政治体系",
+    "png": "images/politics_usa_c49fd193-cd59-4e60-ad37-867922622c37.png",
+    "svg": "svg/politics_usa_c49fd193-cd59-4e60-ad37-867922622c37.svg"
+  },
+  {
+    "chapter": "第三十章　公共政策与政策过程",
+    "title": "公共政策生命周期",
+    "png": "images/politics_cycle_a98616ef-c4fe-40fc-b6fd-64d6bf42cdd8.png",
+    "svg": "svg/politics_cycle_a98616ef-c4fe-40fc-b6fd-64d6bf42cdd8.svg"
+  },
+  {
+    "chapter": "第三十章　公共政策与政策过程",
+    "title": "公共政策逻辑模型",
+    "png": "images/politics_flow_fb7128fe-c473-4b7b-b17f-329bf059778b.png",
+    "svg": "svg/politics_flow_fb7128fe-c473-4b7b-b17f-329bf059778b.svg"
+  },
+  {
+    "chapter": "第三十一章　政治决策与集体行动",
+    "title": "囚徒困境收益矩阵",
+    "png": "images/politics_prisoner_3415db6a-2343-4032-88ab-28c93202051d.png",
+    "svg": "svg/politics_prisoner_3415db6a-2343-4032-88ab-28c93202051d.svg"
+  },
+  {
+    "chapter": "第三十一章　政治决策与集体行动",
+    "title": "孔多塞投票悖论",
+    "png": "images/politics_condorcet_b31efcbc-bcd8-4522-ab81-a4a7650ebcab.png",
+    "svg": "svg/politics_condorcet_b31efcbc-bcd8-4522-ab81-a4a7650ebcab.svg"
+  },
+  {
+    "chapter": "第三十二章　国家治理与公共管理",
+    "title": "多主体公共治理",
+    "png": "images/politics_network_f146be55-56a5-4a14-9ef1-d227b27b3750.png",
+    "svg": "svg/politics_network_f146be55-56a5-4a14-9ef1-d227b27b3750.svg"
+  },
+  {
+    "chapter": "第三十三章　政治经济学与国家市场关系",
+    "title": "政治经济制度反馈",
+    "png": "images/politics_cycle_9b4cdaa9-a5a4-45cf-9753-4705b9f1b6dd.png",
+    "svg": "svg/politics_cycle_9b4cdaa9-a5a4-45cf-9753-4705b9f1b6dd.svg"
+  },
+  {
+    "chapter": "第三十四章　政治监督、腐败与问责",
+    "title": "政治问责类型",
+    "png": "images/politics_grid_9d61e155-392f-4bfd-aa4c-d03dc06b64f5.png",
+    "svg": "svg/politics_grid_9d61e155-392f-4bfd-aa4c-d03dc06b64f5.svg"
+  },
+  {
+    "chapter": "第三十五章　国际政治基本理论",
+    "title": "国际政治分析的三个层次",
+    "png": "images/politics_levels_1648426d-1efe-4520-b332-6acaaa3e18ea.png",
+    "svg": "svg/politics_levels_1648426d-1efe-4520-b332-6acaaa3e18ea.svg"
+  },
+  {
+    "chapter": "第三十五章　国际政治基本理论",
+    "title": "国际体系单极、两极与多极",
+    "png": "images/politics_polarity_6a513cd5-3b7d-48bd-a527-5810abf3d74f.png",
+    "svg": "svg/politics_polarity_6a513cd5-3b7d-48bd-a527-5810abf3d74f.svg"
+  },
+  {
+    "chapter": "第三十六章　地缘政治与国家战略",
+    "title": "国家综合实力的主要维度",
+    "png": "images/politics_grid_d0f27748-3b75-45ed-b89e-19d5d29336a7.png",
+    "svg": "svg/politics_grid_d0f27748-3b75-45ed-b89e-19d5d29336a7.svg"
+  },
+  {
+    "chapter": "第三十六章　地缘政治与国家战略",
+    "title": "安全困境的理论反馈",
+    "png": "images/politics_cycle_4ec5e318-b21e-482c-a6c1-b8ae6d263367.png",
+    "svg": "svg/politics_cycle_4ec5e318-b21e-482c-a6c1-b8ae6d263367.svg"
+  },
+  {
+    "chapter": "第三十七章　外交、国际组织与全球治理",
+    "title": "联合国六个主要机关",
+    "png": "images/politics_tree_ae777d97-b34e-432c-bc79-6a9e715d458d.png",
+    "svg": "svg/politics_tree_ae777d97-b34e-432c-bc79-6a9e715d458d.svg"
+  },
+  {
+    "chapter": "第三十八章　政治学研究方法与因果推断",
+    "title": "政治学研究方法",
+    "png": "images/politics_grid_aca36e6a-7abb-4598-ac52-2a31ce84829e.png",
+    "svg": "svg/politics_grid_aca36e6a-7abb-4598-ac52-2a31ce84829e.svg"
+  },
+  {
+    "chapter": "第三十八章　政治学研究方法与因果推断",
+    "title": "政治研究基本流程",
+    "png": "images/politics_flow_27132546-d926-4bf5-be2c-f545a27a6409.png",
+    "svg": "svg/politics_flow_27132546-d926-4bf5-be2c-f545a27a6409.svg"
+  },
+  {
+    "chapter": "第三十八章　政治学研究方法与因果推断",
+    "title": "直接因果、共同原因与反向因果",
+    "png": "images/politics_causality_14845d45-a0f8-41b4-b2cf-7ee2ef26f667.png",
+    "svg": "svg/politics_causality_14845d45-a0f8-41b4-b2cf-7ee2ef26f667.svg"
+  },
+  {
+    "chapter": "第三十八章　政治学研究方法与因果推断",
+    "title": "双重差分虚构数据示意",
+    "png": "images/politics_did_7604b710-73f0-4c60-92f6-7a1dd16eabf9.png",
+    "svg": "svg/politics_did_7604b710-73f0-4c60-92f6-7a1dd16eabf9.svg"
+  },
+  {
+    "chapter": "第三十八章　政治学研究方法与因果推断",
+    "title": "民意调查抽样误差默认示例",
+    "png": "images/politics_poll_58a296ad-e25a-466d-b5a7-79725ee95be0.png",
+    "svg": "svg/politics_poll_58a296ad-e25a-466d-b5a7-79725ee95be0.svg"
+  },
+  {
+    "chapter": "第三十九章　政治博弈与制度分析工具",
+    "title": "委托—代理模型",
+    "png": "images/politics_agency_322d99c0-48ac-4394-a144-c65bf64a6109.png",
+    "svg": "svg/politics_agency_322d99c0-48ac-4394-a144-c65bf64a6109.svg"
+  },
+  {
+    "chapter": "第三十九章　政治博弈与制度分析工具",
+    "title": "中位选民定理示意",
+    "png": "images/politics_median_aaebbeea-7de5-4090-a57b-846c119f02d5.png",
+    "svg": "svg/politics_median_aaebbeea-7de5-4090-a57b-846c119f02d5.svg"
+  },
+  {
+    "chapter": "第三十九章　政治博弈与制度分析工具",
+    "title": "有效政党数量默认示例",
+    "png": "images/politics_effective_3e357d6c-329b-476a-a958-bad3bd378734.png",
+    "svg": "svg/politics_effective_3e357d6c-329b-476a-a958-bad3bd378734.svg"
+  },
+  {
+    "chapter": "第四十章　现实政治事件的综合分析",
+    "title": "政治事件十问",
+    "png": "images/politics_grid_eba1e854-9f93-404d-8559-b321dfd5c3e8.png",
+    "svg": "svg/politics_grid_eba1e854-9f93-404d-8559-b321dfd5c3e8.svg"
+  },
+  {
+    "chapter": "第四十章　现实政治事件的综合分析",
+    "title": "统一政策与地方执行条件",
+    "png": "images/politics_local_64e9045e-c6fa-40c5-9901-a0239f2bd796.png",
+    "svg": "svg/politics_local_64e9045e-c6fa-40c5-9901-a0239f2bd796.svg"
+  },
+  {
+    "chapter": "第四十章　现实政治事件的综合分析",
+    "title": "国家共同利益与独立利益",
+    "png": "images/politics_interests_2f7cecf6-dd13-47d9-8c32-027577e9e35b.png",
+    "svg": "svg/politics_interests_2f7cecf6-dd13-47d9-8c32-027577e9e35b.svg"
+  },
+  {
+    "chapter": "附录一　政治学整体知识图谱",
+    "title": "政治学整体知识关联图谱",
+    "png": "images/politics_overview_509d73d7-e343-44f9-a26f-3080b6a3f1eb.png",
+    "svg": "svg/politics_overview_509d73d7-e343-44f9-a26f-3080b6a3f1eb.svg"
+  },
+  {
+    "chapter": "附录八　政治学学习路线与重点分配",
+    "title": "政治学学习路线",
+    "png": "images/politics_flow_20235b40-a489-4307-b89c-f049ed18b714.png",
+    "svg": "svg/politics_flow_20235b40-a489-4307-b89c-f049ed18b714.svg"
+  },
+  {
+    "chapter": "附录八　政治学学习路线与重点分配",
+    "title": "建议学习精力分配",
+    "png": "images/politics_study_89b61eb0-d910-4d8b-ba51-a63c25667ab3.png",
+    "svg": "svg/politics_study_89b61eb0-d910-4d8b-ba51-a63c25667ab3.svg"
+  },
+  {
+    "chapter": "附录八　政治学学习路线与重点分配",
+    "title": "政治学的十二个核心问题",
+    "png": "images/politics_grid_b1bcfc54-6119-423a-a3f9-4f66f0e708c8.png",
+    "svg": "svg/politics_grid_b1bcfc54-6119-423a-a3f9-4f66f0e708c8.svg"
+  }
+]

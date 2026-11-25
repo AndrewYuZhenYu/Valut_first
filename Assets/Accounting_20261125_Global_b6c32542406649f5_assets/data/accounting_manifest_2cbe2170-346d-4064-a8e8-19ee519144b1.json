@@ -1,0 +1,511 @@
+{
+  "figures": [
+    {
+      "chapter": "总体知识架构",
+      "title": "会计学整体学习架构",
+      "png": "images/accounting_tree_c5543157-e808-4eb4-88b5-c247d5618200.png",
+      "svg": "svg/accounting_tree_c5543157-e808-4eb4-88b5-c247d5618200.svg"
+    },
+    {
+      "chapter": "第一章　会计学的本质与学科体系",
+      "title": "经济活动与会计反馈",
+      "png": "images/accounting_flow_0d05fe67-3812-46aa-bf6b-5c01619a3f02.png",
+      "svg": "svg/accounting_flow_0d05fe67-3812-46aa-bf6b-5c01619a3f02.svg"
+    },
+    {
+      "chapter": "第一章　会计学的本质与学科体系",
+      "title": "从会计信息到企业价值",
+      "png": "images/accounting_flow_166bfcb6-cfae-40d5-aacc-6ae94d2d365a.png",
+      "svg": "svg/accounting_flow_166bfcb6-cfae-40d5-aacc-6ae94d2d365a.svg"
+    },
+    {
+      "chapter": "第二章　会计目标、基本假设与信息质量",
+      "title": "IFRS 财务信息质量特征",
+      "png": "images/accounting_tree_edbff8d4-7d6b-4e28-ac87-deba21237c1b.png",
+      "svg": "svg/accounting_tree_edbff8d4-7d6b-4e28-ac87-deba21237c1b.svg"
+    },
+    {
+      "chapter": "第三章　会计要素与会计恒等式",
+      "title": "会计恒等式：资产与资金来源",
+      "png": "images/accounting_balance_a2853ee2-c53d-43bc-9559-ccb232303579.png",
+      "svg": "svg/accounting_balance_a2853ee2-c53d-43bc-9559-ccb232303579.svg"
+    },
+    {
+      "chapter": "第四章　会计确认、计量与报告",
+      "title": "会计处理的四个环节",
+      "png": "images/accounting_flow_9c6c2afa-58cd-42b0-b63d-1ce4905febb2.png",
+      "svg": "svg/accounting_flow_9c6c2afa-58cd-42b0-b63d-1ce4905febb2.svg"
+    },
+    {
+      "chapter": "第四章　会计确认、计量与报告",
+      "title": "同一设备的不同金额（万元）",
+      "png": "images/accounting_bars_eac71d52-ca36-4035-b4f7-3f4b844f7b6f.png",
+      "svg": "svg/accounting_bars_eac71d52-ca36-4035-b4f7-3f4b844f7b6f.svg"
+    },
+    {
+      "chapter": "第五章　会计准则与国际会计体系",
+      "title": "中国企业会计准则体系",
+      "png": "images/accounting_flow_ea14d529-c95c-4331-af33-9bb5b562fe32.png",
+      "svg": "svg/accounting_flow_ea14d529-c95c-4331-af33-9bb5b562fe32.svg"
+    },
+    {
+      "chapter": "第六章　会计科目与账户",
+      "title": "T 形账户：银行存款（元）",
+      "png": "images/accounting_taccount_41ad2a9c-d067-4a35-a982-c6b74e94464f.png",
+      "svg": "svg/accounting_taccount_41ad2a9c-d067-4a35-a982-c6b74e94464f.svg"
+    },
+    {
+      "chapter": "第七章　借贷记账法",
+      "title": "借贷记账方向与账户性质",
+      "png": "images/accounting_debit_28f85cb2-07e5-4b77-93b1-66e9d47ade23.png",
+      "svg": "svg/accounting_debit_28f85cb2-07e5-4b77-93b1-66e9d47ade23.svg"
+    },
+    {
+      "chapter": "第八章　会计凭证、账簿与试算平衡",
+      "title": "会计核算证据链",
+      "png": "images/accounting_flow_0f5a3279-a9aa-4a01-81c4-402b5b26e74b.png",
+      "svg": "svg/accounting_flow_0f5a3279-a9aa-4a01-81c4-402b5b26e74b.svg"
+    },
+    {
+      "chapter": "第九章　权责发生制与会计调整",
+      "title": "权责发生制：收入确认与收款",
+      "png": "images/accounting_accrual_1baa4a44-7bd3-458a-8ca7-a888bb836976.png",
+      "svg": "svg/accounting_accrual_1baa4a44-7bd3-458a-8ca7-a888bb836976.svg"
+    },
+    {
+      "chapter": "第十章　会计循环与期末结账",
+      "title": "完整会计循环",
+      "png": "images/accounting_flow_c994b72f-9b51-4e62-8d10-dceae8bc83ff.png",
+      "svg": "svg/accounting_flow_c994b72f-9b51-4e62-8d10-dceae8bc83ff.svg"
+    },
+    {
+      "chapter": "第十一章　货币资金与应收款项",
+      "title": "应收账款账面金额（万元）",
+      "png": "images/accounting_stack_1a5355d3-d1a9-4fa4-85d8-4abbf0b1efbe.png",
+      "svg": "svg/accounting_stack_1a5355d3-d1a9-4fa4-85d8-4abbf0b1efbe.svg"
+    },
+    {
+      "chapter": "第十二章　存货与营业成本",
+      "title": "制造企业成本流转",
+      "png": "images/accounting_flow_48bae871-a89c-42f1-b9fa-7daa17de30b0.png",
+      "svg": "svg/accounting_flow_48bae871-a89c-42f1-b9fa-7daa17de30b0.svg"
+    },
+    {
+      "chapter": "第十二章　存货与营业成本",
+      "title": "存货计价：FIFO 与加权平均法",
+      "png": "images/accounting_inventory_38dff1e2-1c82-4448-9362-dd2046b6c307.png",
+      "svg": "svg/accounting_inventory_38dff1e2-1c82-4448-9362-dd2046b6c307.svg"
+    },
+    {
+      "chapter": "第十三章　固定资产与折旧",
+      "title": "直线折旧与累计折旧（万元）",
+      "png": "images/accounting_line_5cbcb66a-e568-4d1e-9e41-55411ae84df3.png",
+      "svg": "svg/accounting_line_5cbcb66a-e568-4d1e-9e41-55411ae84df3.svg"
+    },
+    {
+      "chapter": "第十四章　无形资产与研发支出",
+      "title": "研究与开发支出的会计处理",
+      "png": "images/accounting_tree_497de90c-bc49-4af0-b328-390546ea20eb.png",
+      "svg": "svg/accounting_tree_497de90c-bc49-4af0-b328-390546ea20eb.svg"
+    },
+    {
+      "chapter": "第十五章　金融资产与长期股权投资",
+      "title": "股权投资关系与会计处理",
+      "png": "images/accounting_tree_480822d3-bd89-4aa5-90ba-68fafcc8e426.png",
+      "svg": "svg/accounting_tree_480822d3-bd89-4aa5-90ba-68fafcc8e426.svg"
+    },
+    {
+      "chapter": "第十六章　负债、借款与债券",
+      "title": "债券现金流与现值",
+      "png": "images/accounting_bond_9f8bda56-7ec6-43b9-a718-d66a28cb95cb.png",
+      "svg": "svg/accounting_bond_9f8bda56-7ec6-43b9-a718-d66a28cb95cb.svg"
+    },
+    {
+      "chapter": "第十七章　所有者权益与利润分配",
+      "title": "留存利润可能对应的资产形态",
+      "png": "images/accounting_tree_68dbd6b4-d6c3-4f4a-8cfb-ef2dde1eea81.png",
+      "svg": "svg/accounting_tree_68dbd6b4-d6c3-4f4a-8cfb-ef2dde1eea81.svg"
+    },
+    {
+      "chapter": "第十八章　收入确认与费用核算",
+      "title": "客户合同收入确认五步法",
+      "png": "images/accounting_flow_ce8ff2cf-1043-498a-a160-f7685685002d.png",
+      "svg": "svg/accounting_flow_ce8ff2cf-1043-498a-a160-f7685685002d.svg"
+    },
+    {
+      "chapter": "第十八章　收入确认与费用核算",
+      "title": "软件订阅收入与合同负债（元）",
+      "png": "images/accounting_line_af5ccf0d-5ac2-476b-a4bd-ecd8d6e247f4.png",
+      "svg": "svg/accounting_line_af5ccf0d-5ac2-476b-a4bd-ecd8d6e247f4.svg"
+    },
+    {
+      "chapter": "第十九章　所得税会计与递延所得税",
+      "title": "递延所得税负债的形成",
+      "png": "images/accounting_tax_03544f40-5ffa-4ceb-adc6-5ca01a1e9636.png",
+      "svg": "svg/accounting_tax_03544f40-5ffa-4ceb-adc6-5ca01a1e9636.svg"
+    },
+    {
+      "chapter": "第二十章　租赁、减值、预计负债及其他事项",
+      "title": "承租人租赁会计",
+      "png": "images/accounting_tree_d4497e3f-4214-4cd0-9c89-98a524e1d2f3.png",
+      "svg": "svg/accounting_tree_d4497e3f-4214-4cd0-9c89-98a524e1d2f3.svg"
+    },
+    {
+      "chapter": "第二十章　租赁、减值、预计负债及其他事项",
+      "title": "长期资产减值（万元）",
+      "png": "images/accounting_stack_6ccab5ec-0476-4997-a939-29704d47ce9a.png",
+      "svg": "svg/accounting_stack_6ccab5ec-0476-4997-a939-29704d47ce9a.svg"
+    },
+    {
+      "chapter": "第二十一章　资产负债表",
+      "title": "资产构成（万元）",
+      "png": "images/accounting_stack_18e18dbb-3e98-431f-9203-e3cd85f35f62.png",
+      "svg": "svg/accounting_stack_18e18dbb-3e98-431f-9203-e3cd85f35f62.svg"
+    },
+    {
+      "chapter": "第二十一章　资产负债表",
+      "title": "资金来源构成（万元）",
+      "png": "images/accounting_stack_872e1aa5-aa8c-4c4b-8902-8574f5d038de.png",
+      "svg": "svg/accounting_stack_872e1aa5-aa8c-4c4b-8902-8574f5d038de.svg"
+    },
+    {
+      "chapter": "第二十二章　利润表",
+      "title": "利润形成的不同层次（万元）",
+      "png": "images/accounting_bars_5af2726a-9093-45d9-9257-5b93fbbd11c3.png",
+      "svg": "svg/accounting_bars_5af2726a-9093-45d9-9257-5b93fbbd11c3.svg"
+    },
+    {
+      "chapter": "第二十三章　现金流量表",
+      "title": "现金流量瀑布图（万元）",
+      "png": "images/accounting_waterfall_1c19612e-fd3d-4c16-9f85-86ae86123e77.png",
+      "svg": "svg/accounting_waterfall_1c19612e-fd3d-4c16-9f85-86ae86123e77.svg"
+    },
+    {
+      "chapter": "第二十三章　现金流量表",
+      "title": "净利润调节为经营现金流（万元）",
+      "png": "images/accounting_waterfall_c887c808-daef-4e34-86e1-a7a04466f8b5.png",
+      "svg": "svg/accounting_waterfall_c887c808-daef-4e34-86e1-a7a04466f8b5.svg"
+    },
+    {
+      "chapter": "第二十四章　所有者权益变动表",
+      "title": "所有者权益变动（万元）",
+      "png": "images/accounting_waterfall_baf2545f-8c9e-40ac-9680-d94f9c7016aa.png",
+      "svg": "svg/accounting_waterfall_baf2545f-8c9e-40ac-9680-d94f9c7016aa.svg"
+    },
+    {
+      "chapter": "第二十五章　财务报表附注与信息披露",
+      "title": "四张财务报表的勾稽关系",
+      "png": "images/accounting_statements_c89c37bb-19f0-4f98-82d3-1a66ba549849.png",
+      "svg": "svg/accounting_statements_c89c37bb-19f0-4f98-82d3-1a66ba549849.svg"
+    },
+    {
+      "chapter": "第二十六章　合并财务报表与企业合并",
+      "title": "集团合并范围（假设实际控制）",
+      "png": "images/accounting_tree_aba6441d-f9ae-410f-b7a9-c51af2aa59a2.png",
+      "svg": "svg/accounting_tree_aba6441d-f9ae-410f-b7a9-c51af2aa59a2.svg"
+    },
+    {
+      "chapter": "第二十六章　合并财务报表与企业合并",
+      "title": "集团内部销售未实现利润（万元）",
+      "png": "images/accounting_consolidation_7b029ae2-33e1-47f0-a74c-14250b69d707.png",
+      "svg": "svg/accounting_consolidation_7b029ae2-33e1-47f0-a74c-14250b69d707.svg"
+    },
+    {
+      "chapter": "第二十六章　合并财务报表与企业合并",
+      "title": "收购对价与商誉（万元）",
+      "png": "images/accounting_stack_af53e757-1bf5-4b27-b36b-09bf569795c1.png",
+      "svg": "svg/accounting_stack_af53e757-1bf5-4b27-b36b-09bf569795c1.svg"
+    },
+    {
+      "chapter": "第二十七章　成本分类与成本性态",
+      "title": "固定成本、变动成本与总成本",
+      "png": "images/accounting_cost_08f3d2f9-13f0-4d59-979f-4d660ab3622b.png",
+      "svg": "svg/accounting_cost_08f3d2f9-13f0-4d59-979f-4d660ab3622b.svg"
+    },
+    {
+      "chapter": "第二十八章　成本归集与成本核算方法",
+      "title": "作业成本法：资源、作业与成本对象",
+      "png": "images/accounting_abc_c54a20a7-16d8-4bc1-abbe-15d5c8572b0e.png",
+      "svg": "svg/accounting_abc_c54a20a7-16d8-4bc1-abbe-15d5c8572b0e.svg"
+    },
+    {
+      "chapter": "第二十九章　本量利分析与盈亏平衡",
+      "title": "本量利分析与盈亏平衡点",
+      "png": "images/accounting_breakeven_30fb04e7-e372-48eb-91a7-583c5055016f.png",
+      "svg": "svg/accounting_breakeven_30fb04e7-e372-48eb-91a7-583c5055016f.svg"
+    },
+    {
+      "chapter": "第三十章　全面预算管理",
+      "title": "全面预算体系",
+      "png": "images/accounting_budget_439e3a17-42d4-4d1b-93ed-3ff95fd6fe45.png",
+      "svg": "svg/accounting_budget_439e3a17-42d4-4d1b-93ed-3ff95fd6fe45.svg"
+    },
+    {
+      "chapter": "第三十章　全面预算管理",
+      "title": "现金预算与最低储备目标（万元）",
+      "png": "images/accounting_line_94fc6f94-a2a9-45e1-97a4-9e3ccb0c898d.png",
+      "svg": "svg/accounting_line_94fc6f94-a2a9-45e1-97a4-9e3ccb0c898d.svg"
+    },
+    {
+      "chapter": "第三十一章　标准成本与差异分析",
+      "title": "直接材料成本差异（元）",
+      "png": "images/accounting_waterfall_48d6f2b5-d760-439c-a2ec-88b3a25df5f1.png",
+      "svg": "svg/accounting_waterfall_48d6f2b5-d760-439c-a2ec-88b3a25df5f1.svg"
+    },
+    {
+      "chapter": "第三十二章　经营决策与相关成本",
+      "title": "自制与外购相关成本（元）",
+      "png": "images/accounting_bars_194e3bc5-fd69-4b04-b41a-a441fb39faa2.png",
+      "svg": "svg/accounting_bars_194e3bc5-fd69-4b04-b41a-a441fb39faa2.svg"
+    },
+    {
+      "chapter": "第三十三章　责任会计与绩效管理",
+      "title": "平衡计分卡的战略联系",
+      "png": "images/accounting_bsc_012be110-2d8f-49be-92d9-9e3309997fac.png",
+      "svg": "svg/accounting_bsc_012be110-2d8f-49be-92d9-9e3309997fac.svg"
+    },
+    {
+      "chapter": "第三十四章　财务分析的基本方法",
+      "title": "营业收入增长与净利润下降（万元）",
+      "png": "images/accounting_line_043338d0-7f8d-4b7c-ac30-3ec5895b81de.png",
+      "svg": "svg/accounting_line_043338d0-7f8d-4b7c-ac30-3ec5895b81de.svg"
+    },
+    {
+      "chapter": "第三十五章　偿债能力与财务结构分析",
+      "title": "短期偿债能力的资产覆盖关系",
+      "png": "images/accounting_liquidity_cac2e7fa-03b7-4c00-8c8b-fde86a6d63f4.png",
+      "svg": "svg/accounting_liquidity_cac2e7fa-03b7-4c00-8c8b-fde86a6d63f4.svg"
+    },
+    {
+      "chapter": "第三十六章　营运能力与现金转换周期",
+      "title": "现金转换周期：60 + 45 − 30 = 75 天",
+      "png": "images/accounting_ccc_be8be42d-8c74-48cb-b29d-87c91529b2fb.png",
+      "svg": "svg/accounting_ccc_be8be42d-8c74-48cb-b29d-87c91529b2fb.svg"
+    },
+    {
+      "chapter": "第三十七章　盈利能力与杜邦分析",
+      "title": "杜邦分析：ROE 三因素分解",
+      "png": "images/accounting_tree_f334e324-5e52-406f-8507-37e131830dbf.png",
+      "svg": "svg/accounting_tree_f334e324-5e52-406f-8507-37e131830dbf.svg"
+    },
+    {
+      "chapter": "第三十八章　现金流量与盈利质量分析",
+      "title": "企业自由现金流形成过程（万元）",
+      "png": "images/accounting_waterfall_f3d34894-b4d4-498a-82df-085283cdf4d9.png",
+      "svg": "svg/accounting_waterfall_f3d34894-b4d4-498a-82df-085283cdf4d9.svg"
+    },
+    {
+      "chapter": "第三十八章　现金流量与盈利质量分析",
+      "title": "从盈利到流动性压力",
+      "png": "images/accounting_flow_be434e07-dd20-47a4-94ac-832ffadf112f.png",
+      "svg": "svg/accounting_flow_be434e07-dd20-47a4-94ac-832ffadf112f.svg"
+    },
+    {
+      "chapter": "第三十九章　财务风险、异常识别与企业估值基础",
+      "title": "账面净资产、股权价值与 EV（示意）",
+      "png": "images/accounting_valuation_f59a7924-9596-43a9-99da-e306b8704139.png",
+      "svg": "svg/accounting_valuation_f59a7924-9596-43a9-99da-e306b8704139.svg"
+    },
+    {
+      "chapter": "第四十章　货币时间价值与风险收益",
+      "title": "单利与复利增长对比（万元）",
+      "png": "images/accounting_line_e2b2a65a-795a-4195-bc59-252d2f4dd514.png",
+      "svg": "svg/accounting_line_e2b2a65a-795a-4195-bc59-252d2f4dd514.svg"
+    },
+    {
+      "chapter": "第四十一章　投资决策与资本预算",
+      "title": "企业投资决策流程",
+      "png": "images/accounting_flow_87a953cb-4f8c-4f9d-8293-b60b6cd22194.png",
+      "svg": "svg/accounting_flow_87a953cb-4f8c-4f9d-8293-b60b6cd22194.svg"
+    },
+    {
+      "chapter": "第四十一章　投资决策与资本预算",
+      "title": "项目现金流及折现（万元）",
+      "png": "images/accounting_npv_6d8df8aa-a488-44d0-ac59-6055fae1c401.png",
+      "svg": "svg/accounting_npv_6d8df8aa-a488-44d0-ac59-6055fae1c401.svg"
+    },
+    {
+      "chapter": "第四十二章　融资管理与资本结构",
+      "title": "企业融资方式",
+      "png": "images/accounting_tree_49b6ebe5-83d4-4cc7-8ccf-e587a2d10df6.png",
+      "svg": "svg/accounting_tree_49b6ebe5-83d4-4cc7-8ccf-e587a2d10df6.svg"
+    },
+    {
+      "chapter": "第四十二章　融资管理与资本结构",
+      "title": "WACC：股权与债务资本成本",
+      "png": "images/accounting_wacc_ed62b037-a183-435a-8aaa-77ff56de4b22.png",
+      "svg": "svg/accounting_wacc_ed62b037-a183-435a-8aaa-77ff56de4b22.svg"
+    },
+    {
+      "chapter": "第四十二章　融资管理与资本结构",
+      "title": "财务杠杆与 ROE 的关系",
+      "png": "images/accounting_leverage_6330c424-dc93-4485-84c7-64fcf8c215d3.png",
+      "svg": "svg/accounting_leverage_6330c424-dc93-4485-84c7-64fcf8c215d3.svg"
+    },
+    {
+      "chapter": "第四十三章　营运资金与现金管理",
+      "title": "经济订货批量与成本曲线",
+      "png": "images/accounting_eoq_7383852d-9acb-4c79-aefe-20c0fb3c19c8.png",
+      "svg": "svg/accounting_eoq_7383852d-9acb-4c79-aefe-20c0fb3c19c8.svg"
+    },
+    {
+      "chapter": "第四十三章　营运资金与现金管理",
+      "title": "资产与融资期限错配",
+      "png": "images/accounting_maturity_1acf702b-a0f3-4498-921c-02aa2b29a45f.png",
+      "svg": "svg/accounting_maturity_1acf702b-a0f3-4498-921c-02aa2b29a45f.svg"
+    },
+    {
+      "chapter": "第四十四章　利润分配与股利政策",
+      "title": "企业利润分配方向",
+      "png": "images/accounting_tree_05ff0952-5a47-45a6-a8f2-978a244fdbd1.png",
+      "svg": "svg/accounting_tree_05ff0952-5a47-45a6-a8f2-978a244fdbd1.svg"
+    },
+    {
+      "chapter": "第四十五章　企业财务战略与财务预测",
+      "title": "三表联动预测与资金缺口反馈",
+      "png": "images/accounting_forecast_d510df38-c269-4f16-bb79-29609fbc94af.png",
+      "svg": "svg/accounting_forecast_d510df38-c269-4f16-bb79-29609fbc94af.svg"
+    },
+    {
+      "chapter": "第四十五章　企业财务战略与财务预测",
+      "title": "不同情景下的经营利润（万元）",
+      "png": "images/accounting_bars_9077ccff-91e6-4ac8-8185-eb8113503de9.png",
+      "svg": "svg/accounting_bars_9077ccff-91e6-4ac8-8185-eb8113503de9.svg"
+    },
+    {
+      "chapter": "第四十六章　审计原理与审计意见",
+      "title": "财务报表审计流程",
+      "png": "images/accounting_flow_1c15d3bb-79e6-454e-a413-4c5a9b1789b1.png",
+      "svg": "svg/accounting_flow_1c15d3bb-79e6-454e-a413-4c5a9b1789b1.svg"
+    },
+    {
+      "chapter": "第四十六章　审计原理与审计意见",
+      "title": "修改审计意见判断矩阵",
+      "png": "images/accounting_audit_b47e3ce5-91cd-4e24-972e-fde3cad8792b.png",
+      "svg": "svg/accounting_audit_b47e3ce5-91cd-4e24-972e-fde3cad8792b.svg"
+    },
+    {
+      "chapter": "第四十七章　内部控制与企业风险管理",
+      "title": "COSO 内部控制五项组成",
+      "png": "images/accounting_coso_e7d2f5d9-09a0-46a3-929e-f1ffb52f3ba4.png",
+      "svg": "svg/accounting_coso_e7d2f5d9-09a0-46a3-929e-f1ffb52f3ba4.svg"
+    },
+    {
+      "chapter": "第四十七章　内部控制与企业风险管理",
+      "title": "采购付款三单匹配",
+      "png": "images/accounting_match_8c96008c-5b3b-4d1a-80fa-c8c4dfcc6d03.png",
+      "svg": "svg/accounting_match_8c96008c-5b3b-4d1a-80fa-c8c4dfcc6d03.svg"
+    },
+    {
+      "chapter": "第四十八章　税务会计与税务管理",
+      "title": "增值税销项、进项与应纳税额（元）",
+      "png": "images/accounting_vat_8ddb6666-c924-4cc1-8ce2-25faad0d281a.png",
+      "svg": "svg/accounting_vat_8ddb6666-c924-4cc1-8ce2-25faad0d281a.svg"
+    },
+    {
+      "chapter": "第四十九章　财务舞弊、职业道德与合规",
+      "title": "舞弊三角：压力、机会、合理化",
+      "png": "images/accounting_fraud_750fcb5e-af02-4c7d-bef3-78cc7a96b563.png",
+      "svg": "svg/accounting_fraud_750fcb5e-af02-4c7d-bef3-78cc7a96b563.svg"
+    },
+    {
+      "chapter": "第五十章　会计信息系统与 ERP",
+      "title": "ERP 业务模块与财务系统",
+      "png": "images/accounting_erp_fbebb6ad-3fc8-4f71-97ee-4103e892dfd4.png",
+      "svg": "svg/accounting_erp_fbebb6ad-3fc8-4f71-97ee-4103e892dfd4.svg"
+    },
+    {
+      "chapter": "第五十章　会计信息系统与 ERP",
+      "title": "销售业务与财务系统联动",
+      "png": "images/accounting_sales_5c68919c-d1a6-4923-a6a0-914cbfa6625f.png",
+      "svg": "svg/accounting_sales_5c68919c-d1a6-4923-a6a0-914cbfa6625f.svg"
+    },
+    {
+      "chapter": "第五十章　会计信息系统与 ERP",
+      "title": "复式记账系统实体关系图",
+      "png": "images/accounting_erd_51bf04c4-91c8-42fa-8286-2e44b278995d.png",
+      "svg": "svg/accounting_erd_51bf04c4-91c8-42fa-8286-2e44b278995d.svg"
+    },
+    {
+      "chapter": "第五十一章　数字化会计与人工智能",
+      "title": "智能财务处理流程",
+      "png": "images/accounting_flow_2e893012-dce1-451c-8102-cfbf3457aae7.png",
+      "svg": "svg/accounting_flow_2e893012-dce1-451c-8102-cfbf3457aae7.svg"
+    },
+    {
+      "chapter": "第五十二章　集团财务、资金管理与跨国会计",
+      "title": "集团财务集中管理体系",
+      "png": "images/accounting_group_4db9c027-3778-4957-9ff3-f696345f2ab3.png",
+      "svg": "svg/accounting_group_4db9c027-3778-4957-9ff3-f696345f2ab3.svg"
+    },
+    {
+      "chapter": "第五十二章　集团财务、资金管理与跨国会计",
+      "title": "跨国集团的功能货币与列报货币",
+      "png": "images/accounting_currency_0ff9aa59-a388-4ada-8de2-b8349e9cd73d.png",
+      "svg": "svg/accounting_currency_0ff9aa59-a388-4ada-8de2-b8349e9cd73d.svg"
+    },
+    {
+      "chapter": "第五十四章　企业完整财务核算与经营分析案例",
+      "title": "综合案例利润形成（万元）",
+      "png": "images/accounting_waterfall_d688e1cb-75a0-4689-a346-632a9df9a9a4.png",
+      "svg": "svg/accounting_waterfall_d688e1cb-75a0-4689-a346-632a9df9a9a4.svg"
+    },
+    {
+      "chapter": "第五十四章　企业完整财务核算与经营分析案例",
+      "title": "综合案例资本结构（万元）",
+      "png": "images/accounting_stack_6ca37139-732c-480d-9c99-1dca80ffbd81.png",
+      "svg": "svg/accounting_stack_6ca37139-732c-480d-9c99-1dca80ffbd81.svg"
+    },
+    {
+      "chapter": "第五十四章　企业完整财务核算与经营分析案例",
+      "title": "综合案例现金流量（万元）",
+      "png": "images/accounting_waterfall_3bdb6df5-70e6-49f2-8158-6bd07ca671db.png",
+      "svg": "svg/accounting_waterfall_3bdb6df5-70e6-49f2-8158-6bd07ca671db.svg"
+    },
+    {
+      "chapter": "第五十四章　企业完整财务核算与经营分析案例",
+      "title": "综合案例经营分析仪表盘",
+      "png": "images/accounting_dashboard_4e8d994a-95b0-46c0-b8dc-2bc0bedcf1b4.png",
+      "svg": "svg/accounting_dashboard_4e8d994a-95b0-46c0-b8dc-2bc0bedcf1b4.svg"
+    },
+    {
+      "chapter": "附录一　会计学整体知识图谱",
+      "title": "会计学知识图谱：核算、报告、分析与决策",
+      "png": "images/accounting_knowledge_5146c08e-8870-448b-b627-7560de3a33b4.png",
+      "svg": "svg/accounting_knowledge_5146c08e-8870-448b-b627-7560de3a33b4.svg"
+    },
+    {
+      "chapter": "附录五　公司财务管理的完整知识结构",
+      "title": "企业财务职能与经营决策",
+      "png": "images/accounting_functions_121616f7-a498-4c20-94cb-0b4a044e362b.png",
+      "svg": "svg/accounting_functions_121616f7-a498-4c20-94cb-0b4a044e362b.svg"
+    },
+    {
+      "chapter": "附录八　会计学学习路线与重点分配",
+      "title": "会计学系统学习路线",
+      "png": "images/accounting_flow_812701a3-f38c-4837-aa8a-d11e2849a239.png",
+      "svg": "svg/accounting_flow_812701a3-f38c-4837-aa8a-d11e2849a239.svg"
+    },
+    {
+      "chapter": "附录八　会计学学习路线与重点分配",
+      "title": "建议学习精力分配（%）",
+      "png": "images/accounting_bars_62b3351e-d972-4892-a8fe-1e34be2d1655.png",
+      "svg": "svg/accounting_bars_62b3351e-d972-4892-a8fe-1e34be2d1655.svg"
+    },
+    {
+      "chapter": "附录九　企业财务报告阅读指南",
+      "title": "上市公司年报阅读顺序",
+      "png": "images/accounting_flow_874ad537-dcc8-4474-b1dd-63b4f4b4ab43.png",
+      "svg": "svg/accounting_flow_874ad537-dcc8-4474-b1dd-63b4f4b4ab43.svg"
+    }
+  ],
+  "calculators": {
+    "balance": "accounting_balance_593390c0-7b05-4ee6-a2c4-6e187c7fa90b.html",
+    "depreciation": "accounting_depreciation_6bc11e47-449a-41b6-afed-1030bc67b71a.html",
+    "breakeven": "accounting_breakeven_23e63361-8948-4616-9d69-61c8e3c91f41.html",
+    "ccc": "accounting_ccc_747c0c3e-234b-4926-9502-43b1a5204240.html",
+    "dupont": "accounting_dupont_9e663cd8-f2d8-44f6-a44f-1081ca959c22.html",
+    "npv": "accounting_npv_cb1b927c-9303-4a16-8779-cf3e78ef5bcf.html",
+    "leverage": "accounting_leverage_a0ad1c7a-db7c-4986-a810-46e226a28037.html"
+  }
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "number": 1,
+    "title": "社会规范体系",
+    "png": "law_tree1_8c1adf74-f5f0-45ca-a349-b956d48a8028.png",
+    "svg": "law_tree1_8c1adf74-f5f0-45ca-a349-b956d48a8028.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 2,
+    "title": "法律与道德规范范围",
+    "png": "law_venn_88ce2d56-ad5d-46fb-8427-2a2aa532eb75.png",
+    "svg": "law_venn_88ce2d56-ad5d-46fb-8427-2a2aa532eb75.svg",
+    "width": 2400,
+    "height": 1380
+  },
+  {
+    "number": 3,
+    "title": "法律的基本价值",
+    "png": "law_grid3_299bb50e-608a-4ff3-adb3-d620b38179f2.png",
+    "svg": "law_grid3_299bb50e-608a-4ff3-adb3-d620b38179f2.svg",
+    "width": 2400,
+    "height": 1594
+  },
+  {
+    "number": 4,
+    "title": "主要法学思想流派",
+    "png": "law_tree4_e78b1c04-2365-43fe-816f-0c19c841b2f0.png",
+    "svg": "law_tree4_e78b1c04-2365-43fe-816f-0c19c841b2f0.svg",
+    "width": 2400,
+    "height": 2294
+  },
+  {
+    "number": 5,
+    "title": "法律效力、正当性与实效性",
+    "png": "law_grid5_81579b8f-a3ff-4558-87a0-d31bb8da2c21.png",
+    "svg": "law_grid5_81579b8f-a3ff-4558-87a0-d31bb8da2c21.svg",
+    "width": 2400,
+    "height": 686
+  },
+  {
+    "number": 6,
+    "title": "法律规范的逻辑结构",
+    "png": "law_flow6_32f79491-aeac-4bd7-a6c1-9b6aec04a257.png",
+    "svg": "law_flow6_32f79491-aeac-4bd7-a6c1-9b6aec04a257.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 7,
+    "title": "法律渊源",
+    "png": "law_tree7_a1984e54-34cb-40f5-bbf3-0b217cf2c7d0.png",
+    "svg": "law_tree7_a1984e54-34cb-40f5-bbf3-0b217cf2c7d0.svg",
+    "width": 2400,
+    "height": 1934
+  },
+  {
+    "number": 8,
+    "title": "法律关系的基本结构",
+    "png": "law_tree8_226d03ab-3b26-485c-b0b4-06275b00af2f.png",
+    "svg": "law_tree8_226d03ab-3b26-485c-b0b4-06275b00af2f.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 9,
+    "title": "法律事实",
+    "png": "law_tree9_6b2c2024-a36f-44d3-a14f-dea72298e4c4.png",
+    "svg": "law_tree9_6b2c2024-a36f-44d3-a14f-dea72298e4c4.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 10,
+    "title": "霍菲尔德四组对应法律关系",
+    "png": "law_hohfeld_b1efeffe-fa6e-4e43-a181-1890da5f34fe.png",
+    "svg": "law_hohfeld_b1efeffe-fa6e-4e43-a181-1890da5f34fe.svg",
+    "width": 2400,
+    "height": 1340
+  },
+  {
+    "number": 11,
+    "title": "法律责任的主要类型",
+    "png": "law_grid11_2259bc07-b4a9-42f5-8f9e-8a9003d2fa09.png",
+    "svg": "law_grid11_2259bc07-b4a9-42f5-8f9e-8a9003d2fa09.svg",
+    "width": 2400,
+    "height": 948
+  },
+  {
+    "number": 12,
+    "title": "法律分析的基本结构",
+    "png": "law_flow12_07557567-f072-48ce-8593-113eeed868d2.png",
+    "svg": "law_flow12_07557567-f072-48ce-8593-113eeed868d2.svg",
+    "width": 2400,
+    "height": 2270
+  },
+  {
+    "number": 13,
+    "title": "法律三段论",
+    "png": "law_syllogism_532ea2fe-c3ff-41fd-a63f-2d1786da70ac.png",
+    "svg": "law_syllogism_532ea2fe-c3ff-41fd-a63f-2d1786da70ac.svg",
+    "width": 2400,
+    "height": 888
+  },
+  {
+    "number": 14,
+    "title": "IRAC法律分析模型",
+    "png": "law_flow14_545ea2cc-e4a0-4ce3-970d-463c18b0ebda.png",
+    "svg": "law_flow14_545ea2cc-e4a0-4ce3-970d-463c18b0ebda.svg",
+    "width": 2400,
+    "height": 1394
+  },
+  {
+    "number": 15,
+    "title": "法律制度的历史发展",
+    "png": "law_flow15_e5c521d2-4bd2-4ebd-9f29-3051e8786228.png",
+    "svg": "law_flow15_e5c521d2-4bd2-4ebd-9f29-3051e8786228.svg",
+    "width": 2400,
+    "height": 2270
+  },
+  {
+    "number": 16,
+    "title": "世界主要法律传统",
+    "png": "law_tree16_3f9a1155-c72f-47be-96dd-6e16a71e545b.png",
+    "svg": "law_tree16_3f9a1155-c72f-47be-96dd-6e16a71e545b.svg",
+    "width": 2400,
+    "height": 1934
+  },
+  {
+    "number": 17,
+    "title": "成文法分析与判例分析",
+    "png": "law_civilcommon_77105630-51ec-4169-8213-a65f6248c04a.png",
+    "svg": "law_civilcommon_77105630-51ec-4169-8213-a65f6248c04a.svg",
+    "width": 2400,
+    "height": 1700
+  },
+  {
+    "number": 18,
+    "title": "法治的主要分析维度",
+    "png": "law_grid18_45720ec2-2819-4cb7-b558-14d1f7d9cecb.png",
+    "svg": "law_grid18_45720ec2-2819-4cb7-b558-14d1f7d9cecb.svg",
+    "width": 2400,
+    "height": 1594
+  },
+  {
+    "number": 19,
+    "title": "国家权力的基本功能",
+    "png": "law_grid19_a2c910cf-f290-4d17-b518-189fe26fb27b.png",
+    "svg": "law_grid19_a2c910cf-f290-4d17-b518-189fe26fb27b.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 20,
+    "title": "权利限制与比例原则",
+    "png": "law_flow20_5f6ec480-acc5-4990-ba4a-f301078fbbb1.png",
+    "svg": "law_flow20_5f6ec480-acc5-4990-ba4a-f301078fbbb1.svg",
+    "width": 2400,
+    "height": 1686
+  },
+  {
+    "number": 21,
+    "title": "行政权力的法律边界",
+    "png": "law_grid21_6aef4887-1bec-4888-be70-cc228008d486.png",
+    "svg": "law_grid21_6aef4887-1bec-4888-be70-cc228008d486.svg",
+    "width": 2400,
+    "height": 1256
+  },
+  {
+    "number": 22,
+    "title": "民事权利体系",
+    "png": "law_civilrights_8cab513b-a095-41cd-baf0-55175c63e227.png",
+    "svg": "law_civilrights_8cab513b-a095-41cd-baf0-55175c63e227.svg",
+    "width": 2400,
+    "height": 1208
+  },
+  {
+    "number": 23,
+    "title": "私人自治与特别保护",
+    "png": "law_grid23_8c5300cc-df6f-4d65-a8b6-633d969e76f3.png",
+    "svg": "law_grid23_8c5300cc-df6f-4d65-a8b6-633d969e76f3.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 24,
+    "title": "民事法律行为的形成",
+    "png": "law_flow24_003ad8cd-2dd3-4b4b-ab77-16dfa3b6746c.png",
+    "svg": "law_flow24_003ad8cd-2dd3-4b4b-ab77-16dfa3b6746c.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 25,
+    "title": "法律行为的成立与效力",
+    "png": "law_validity_f19ca167-5ea3-4feb-bf93-0608a82c8219.png",
+    "svg": "law_validity_f19ca167-5ea3-4feb-bf93-0608a82c8219.svg",
+    "width": 2400,
+    "height": 1350
+  },
+  {
+    "number": 26,
+    "title": "代理法律关系",
+    "png": "law_agency_72fe6ef7-d04a-4c8e-8b47-3e5e1e36dd50.png",
+    "svg": "law_agency_72fe6ef7-d04a-4c8e-8b47-3e5e1e36dd50.svg",
+    "width": 2400,
+    "height": 1440
+  },
+  {
+    "number": 27,
+    "title": "物权与债权的关系结构",
+    "png": "law_propertydebt_bba22bb2-b210-46a1-80cb-47bed2ecdd15.png",
+    "svg": "law_propertydebt_bba22bb2-b210-46a1-80cb-47bed2ecdd15.svg",
+    "width": 2400,
+    "height": 1380
+  },
+  {
+    "number": 28,
+    "title": "物权的基本分类",
+    "png": "law_realrights_7bdd22df-b23d-41a8-890a-f011b160840d.png",
+    "svg": "law_realrights_7bdd22df-b23d-41a8-890a-f011b160840d.svg",
+    "width": 2400,
+    "height": 1260
+  },
+  {
+    "number": 29,
+    "title": "合同义务与财产权变动",
+    "png": "law_flow29_b78e0b6a-6906-4abc-9ab2-be17a0d23e97.png",
+    "svg": "law_flow29_b78e0b6a-6906-4abc-9ab2-be17a0d23e97.svg",
+    "width": 2400,
+    "height": 970
+  },
+  {
+    "number": 30,
+    "title": "信托的基本结构",
+    "png": "law_flow30_dc05a98e-2e43-4e4f-bbb7-b5d25081d840.png",
+    "svg": "law_flow30_dc05a98e-2e43-4e4f-bbb7-b5d25081d840.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 31,
+    "title": "债权债务关系的产生",
+    "png": "law_tree31_594a1b05-8d84-4357-8207-c7d410a01c88.png",
+    "svg": "law_tree31_594a1b05-8d84-4357-8207-c7d410a01c88.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 32,
+    "title": "合同成立与履行",
+    "png": "law_flow32_fddf9787-d7d4-4642-9c1d-a002960830a7.png",
+    "svg": "law_flow32_fddf9787-d7d4-4642-9c1d-a002960830a7.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 33,
+    "title": "违约判断与合同救济",
+    "png": "law_breach_75c8ed81-ce88-45ca-bdaa-f2c504dc2305.png",
+    "svg": "law_breach_75c8ed81-ce88-45ca-bdaa-f2c504dc2305.svg",
+    "width": 2400,
+    "height": 1208
+  },
+  {
+    "number": 34,
+    "title": "一般过错侵权的分析结构",
+    "png": "law_grid34_cf56e0c0-b531-4595-b968-347e325509f5.png",
+    "svg": "law_grid34_cf56e0c0-b531-4595-b968-347e325509f5.svg",
+    "width": 2400,
+    "height": 1286
+  },
+  {
+    "number": 35,
+    "title": "事实因果关系与法律归责范围",
+    "png": "law_causation_6802aab7-e25a-4ea8-a393-c8903793c949.png",
+    "svg": "law_causation_6802aab7-e25a-4ea8-a393-c8903793c949.svg",
+    "width": 2400,
+    "height": 1448
+  },
+  {
+    "number": 36,
+    "title": "个人信息处理的生命周期",
+    "png": "law_flow36_6847996c-2870-4b28-bb18-cd7e12a663f3.png",
+    "svg": "law_flow36_6847996c-2870-4b28-bb18-cd7e12a663f3.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 37,
+    "title": "继承制度的基本结构",
+    "png": "law_inheritance_979c17e8-d42f-44e8-969e-0e0c0c45d3ea.png",
+    "svg": "law_inheritance_979c17e8-d42f-44e8-969e-0e0c0c45d3ea.svg",
+    "width": 2400,
+    "height": 1448
+  },
+  {
+    "number": 38,
+    "title": "知识产权及相关保护制度",
+    "png": "law_tree38_77486e25-9022-46a3-8812-1d3ee956f85d.png",
+    "svg": "law_tree38_77486e25-9022-46a3-8812-1d3ee956f85d.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 39,
+    "title": "商业组织的基本分类",
+    "png": "law_tree39_1f992ef8-09ac-4ad7-b7ed-f0e930fea004.png",
+    "svg": "law_tree39_1f992ef8-09ac-4ad7-b7ed-f0e930fea004.svg",
+    "width": 2400,
+    "height": 1454
+  },
+  {
+    "number": 40,
+    "title": "现代公司的基本法律结构",
+    "png": "law_company_c7314ada-f9d3-40ca-9995-8ed6455e0e11.png",
+    "svg": "law_company_c7314ada-f9d3-40ca-9995-8ed6455e0e11.svg",
+    "width": 2400,
+    "height": 1152
+  },
+  {
+    "number": 41,
+    "title": "股权及股东权利",
+    "png": "law_grid41_6856a3e4-d879-4de5-aee7-6dbff6053af2.png",
+    "svg": "law_grid41_6856a3e4-d879-4de5-aee7-6dbff6053af2.svg",
+    "width": 2400,
+    "height": 610
+  },
+  {
+    "number": 42,
+    "title": "股权稀释原理演示",
+    "png": "law_dilution_55f0d5a7-b896-456e-b32d-f788ae24be78.png",
+    "svg": "law_dilution_55f0d5a7-b896-456e-b32d-f788ae24be78.svg",
+    "width": 2400,
+    "height": 1330
+  },
+  {
+    "number": 43,
+    "title": "公司治理的法律关系",
+    "png": "law_flow43_2e4cd28c-6d84-4285-9984-e26a5d150624.png",
+    "svg": "law_flow43_2e4cd28c-6d84-4285-9984-e26a5d150624.svg",
+    "width": 2400,
+    "height": 1102
+  },
+  {
+    "number": 44,
+    "title": "母公司、子公司与分公司",
+    "png": "law_subsidiary_85e67369-6b48-4845-8d59-ffdb9dc59ffc.png",
+    "svg": "law_subsidiary_85e67369-6b48-4845-8d59-ffdb9dc59ffc.svg",
+    "width": 2400,
+    "height": 950
+  },
+  {
+    "number": 45,
+    "title": "金融法律制度的分类",
+    "png": "law_tree45_3716aeea-7206-4bef-a878-bd82de21a888.png",
+    "svg": "law_tree45_3716aeea-7206-4bef-a878-bd82de21a888.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 46,
+    "title": "债权保障机制",
+    "png": "law_tree46_d86d2d44-2a8a-4ff4-b1a0-5db03cd738be.png",
+    "svg": "law_tree46_d86d2d44-2a8a-4ff4-b1a0-5db03cd738be.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 47,
+    "title": "企业偿债困难的法律处理机制",
+    "png": "law_insolvency_33a4509b-ddb0-47d3-9e0c-ad6a5b33fa97.png",
+    "svg": "law_insolvency_33a4509b-ddb0-47d3-9e0c-ad6a5b33fa97.svg",
+    "width": 2400,
+    "height": 1326
+  },
+  {
+    "number": 48,
+    "title": "竞争法的核心结构",
+    "png": "law_tree48_0079bc39-ca40-40a4-9925-3d69845ae9d8.png",
+    "svg": "law_tree48_0079bc39-ca40-40a4-9925-3d69845ae9d8.svg",
+    "width": 2400,
+    "height": 1214
+  },
+  {
+    "number": 49,
+    "title": "劳动法的主要知识结构",
+    "png": "law_tree49_1b5664cb-f2f4-493e-8831-a195b47bbffd.png",
+    "svg": "law_tree49_1b5664cb-f2f4-493e-8831-a195b47bbffd.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 50,
+    "title": "税收的法律结构",
+    "png": "law_grid50_58557d63-cfb5-45ae-a264-77ae0fe36ede.png",
+    "svg": "law_grid50_58557d63-cfb5-45ae-a264-77ae0fe36ede.svg",
+    "width": 2400,
+    "height": 1256
+  },
+  {
+    "number": 51,
+    "title": "人工智能的潜在责任主体",
+    "png": "law_ai_3fbc46d8-dcf7-4466-ab00-fee28cf6f551.png",
+    "svg": "law_ai_3fbc46d8-dcf7-4466-ab00-fee28cf6f551.svg",
+    "width": 2400,
+    "height": 1208
+  },
+  {
+    "number": 52,
+    "title": "违法、侵权与犯罪的关系",
+    "png": "law_crimevenn_840d9eb2-d11e-48fc-9a9a-168d1f7974ac.png",
+    "svg": "law_crimevenn_840d9eb2-d11e-48fc-9a9a-168d1f7974ac.svg",
+    "width": 2400,
+    "height": 1440
+  },
+  {
+    "number": 53,
+    "title": "不同法律传统的犯罪分析模型",
+    "png": "law_grid53_0a996662-c08c-416f-abc9-22aa04a8e5ef.png",
+    "svg": "law_grid53_0a996662-c08c-416f-abc9-22aa04a8e5ef.svg",
+    "width": 2400,
+    "height": 686
+  },
+  {
+    "number": 54,
+    "title": "正当化与免责",
+    "png": "law_grid54_84fdbee9-faaf-4903-8cd5-d7c2f8ce59e5.png",
+    "svg": "law_grid54_84fdbee9-faaf-4903-8cd5-d7c2f8ce59e5.svg",
+    "width": 2400,
+    "height": 678
+  },
+  {
+    "number": 55,
+    "title": "犯罪认定的基本分析流程",
+    "png": "law_flow55_7ebe2cd9-1b13-450d-807b-1b5809d4943c.png",
+    "svg": "law_flow55_7ebe2cd9-1b13-450d-807b-1b5809d4943c.svg",
+    "width": 2400,
+    "height": 1714
+  },
+  {
+    "number": 56,
+    "title": "法律职业的主要分工",
+    "png": "law_tree56_1131e4b0-f791-4041-b965-4555fad6bec3.png",
+    "svg": "law_tree56_1131e4b0-f791-4041-b965-4555fad6bec3.svg",
+    "width": 2400,
+    "height": 1934
+  },
+  {
+    "number": 57,
+    "title": "民事诉讼的典型流程",
+    "png": "law_flow57_a99745c3-2fff-47c1-aca1-69daccf9f553.png",
+    "svg": "law_flow57_a99745c3-2fff-47c1-aca1-69daccf9f553.svg",
+    "width": 2400,
+    "height": 2562
+  },
+  {
+    "number": 58,
+    "title": "刑事诉讼的基本结构",
+    "png": "law_flow58_dbb43dbb-e940-4145-a60b-cfddbd268ee4.png",
+    "svg": "law_flow58_dbb43dbb-e940-4145-a60b-cfddbd268ee4.svg",
+    "width": 2400,
+    "height": 1978
+  },
+  {
+    "number": 59,
+    "title": "证据的主要评价维度",
+    "png": "law_grid59_04ac42a2-bdb7-42c4-a1e3-9e1dbb63b277.png",
+    "svg": "law_grid59_04ac42a2-bdb7-42c4-a1e3-9e1dbb63b277.svg",
+    "width": 2400,
+    "height": 1286
+  },
+  {
+    "number": 60,
+    "title": "直接证据与间接证据的证明路径",
+    "png": "law_evidence_da4908c7-ef2a-49b1-bd65-173e5f82f865.png",
+    "svg": "law_evidence_da4908c7-ef2a-49b1-bd65-173e5f82f865.svg",
+    "width": 2400,
+    "height": 1480
+  },
+  {
+    "number": 61,
+    "title": "证明标准的定性比较",
+    "png": "law_proof_5d309392-4cfa-4da7-b8c4-77274c35d99d.png",
+    "svg": "law_proof_5d309392-4cfa-4da7-b8c4-77274c35d99d.svg",
+    "width": 2400,
+    "height": 1040
+  },
+  {
+    "number": 62,
+    "title": "争议解决方式的总体分类",
+    "png": "law_tree62_9f73ef58-c77a-4211-b98b-a7b51e941109.png",
+    "svg": "law_tree62_9f73ef58-c77a-4211-b98b-a7b51e941109.svg",
+    "width": 2400,
+    "height": 1214
+  },
+  {
+    "number": 63,
+    "title": "判决、裁决与执行",
+    "png": "law_flow63_ab7917c0-a334-4bf5-a6e9-c899a2d54412.png",
+    "svg": "law_flow63_ab7917c0-a334-4bf5-a6e9-c899a2d54412.svg",
+    "width": 2400,
+    "height": 1714
+  },
+  {
+    "number": 64,
+    "title": "国际法规则的识别",
+    "png": "law_tree64_55efa47a-89d2-4164-a45c-048384fc4fe2.png",
+    "svg": "law_tree64_55efa47a-89d2-4164-a45c-048384fc4fe2.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 65,
+    "title": "跨境软件交易的法律连接",
+    "png": "law_tree65_2f175936-9a1a-4ebc-9244-4ab332090d00.png",
+    "svg": "law_tree65_2f175936-9a1a-4ebc-9244-4ab332090d00.svg",
+    "width": 2400,
+    "height": 1214
+  },
+  {
+    "number": 66,
+    "title": "国际私法的三大核心问题",
+    "png": "law_grid66_c986324f-d560-4ec8-ab86-c3546b98aea6.png",
+    "svg": "law_grid66_c986324f-d560-4ec8-ab86-c3546b98aea6.svg",
+    "width": 2400,
+    "height": 906
+  },
+  {
+    "number": 67,
+    "title": "法律适用的典型分析过程",
+    "png": "law_flow67_b2afe52b-8d77-452b-9659-1b08ffb1399b.png",
+    "svg": "law_flow67_b2afe52b-8d77-452b-9659-1b08ffb1399b.svg",
+    "width": 2400,
+    "height": 1962
+  },
+  {
+    "number": 68,
+    "title": "国际经济法的整体结构",
+    "png": "law_tree68_aa6e85b3-9041-4fe3-a4f1-9925b08e9c20.png",
+    "svg": "law_tree68_aa6e85b3-9041-4fe3-a4f1-9925b08e9c20.svg",
+    "width": 2400,
+    "height": 1694
+  },
+  {
+    "number": 69,
+    "title": "跨境商业交易的法律关系",
+    "png": "law_grid69_78896cf3-505f-4aad-8909-8a5b89a86c23.png",
+    "svg": "law_grid69_78896cf3-505f-4aad-8909-8a5b89a86c23.svg",
+    "width": 2400,
+    "height": 1594
+  },
+  {
+    "number": 70,
+    "title": "法律制度的评价维度",
+    "png": "law_grid70_8d7779c1-3c90-4ead-be4d-09dc0fef252e.png",
+    "svg": "law_grid70_8d7779c1-3c90-4ead-be4d-09dc0fef252e.svg",
+    "width": 2400,
+    "height": 918
+  },
+  {
+    "number": 71,
+    "title": "企业法律风险的分类",
+    "png": "law_tree71_4b1f8ec0-2867-4d05-b03a-0f541eed9755.png",
+    "svg": "law_tree71_4b1f8ec0-2867-4d05-b03a-0f541eed9755.svg",
+    "width": 2400,
+    "height": 2174
+  },
+  {
+    "number": 72,
+    "title": "合同法律风险的分析框架",
+    "png": "law_grid72_6134849c-9799-47e2-b3b2-839ee464abad.png",
+    "svg": "law_grid72_6134849c-9799-47e2-b3b2-839ee464abad.svg",
+    "width": 2400,
+    "height": 1932
+  },
+  {
+    "number": 73,
+    "title": "法律分析的通用九问模型",
+    "png": "law_tree73_523e5960-8e70-452f-b73c-e649efd19a46.png",
+    "svg": "law_tree73_523e5960-8e70-452f-b73c-e649efd19a46.svg",
+    "width": 2400,
+    "height": 2414
+  },
+  {
+    "number": 74,
+    "title": "支付开发费用可能取得的不同权益",
+    "png": "law_tree74_4cb38670-2b2e-4107-9d88-db36b02e60bc.png",
+    "svg": "law_tree74_4cb38670-2b2e-4107-9d88-db36b02e60bc.svg",
+    "width": 2400,
+    "height": 840
+  },
+  {
+    "number": 75,
+    "title": "投资亏损的法律责任分析",
+    "png": "law_investment_a9349e0b-639e-4b28-817e-4e87924247da.png",
+    "svg": "law_investment_a9349e0b-639e-4b28-817e-4e87924247da.svg",
+    "width": 2400,
+    "height": 1140
+  },
+  {
+    "number": 76,
+    "title": "跨境经营的法律分析过程",
+    "png": "law_flow76_048b1c0b-2e76-4eb5-b020-68174257c694.png",
+    "svg": "law_flow76_048b1c0b-2e76-4eb5-b020-68174257c694.svg",
+    "width": 2400,
+    "height": 2562
+  },
+  {
+    "number": 77,
+    "title": "法学总体知识网络",
+    "png": "law_network_b60c05e7-6e04-43a0-a8df-7f3967f813a8.png",
+    "svg": "law_network_b60c05e7-6e04-43a0-a8df-7f3967f813a8.svg",
+    "width": 2400,
+    "height": 3166
+  },
+  {
+    "number": 78,
+    "title": "法律查询的正确方法",
+    "png": "law_flow78_c3099bb6-fa15-4106-9587-045045a9213c.png",
+    "svg": "law_flow78_c3099bb6-fa15-4106-9587-045045a9213c.svg",
+    "width": 2400,
+    "height": 2270
+  },
+  {
+    "number": 79,
+    "title": "法学学习依赖关系",
+    "png": "law_learning_6db63a42-9a38-4fbb-9b74-09f76d5775dd.png",
+    "svg": "law_learning_6db63a42-9a38-4fbb-9b74-09f76d5775dd.svg",
+    "width": 2400,
+    "height": 2468
+  },
+  {
+    "number": 80,
+    "title": "法学学习精力分配",
+    "png": "law_study_597a8c57-2704-40f6-93f5-1a2d9c343cbc.png",
+    "svg": "law_study_597a8c57-2704-40f6-93f5-1a2d9c343cbc.svg",
+    "width": 2400,
+    "height": 1550
+  },
+  {
+    "number": 81,
+    "title": "法学十二个核心问题",
+    "png": "law_tree81_6042fbb7-9721-4e13-85a2-eaf833e9b40d.png",
+    "svg": "law_tree81_6042fbb7-9721-4e13-85a2-eaf833e9b40d.svg",
+    "width": 2400,
+    "height": 3134
+  }
+]
